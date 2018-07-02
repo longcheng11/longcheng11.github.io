@@ -1,2 +1,2 @@
-# longcheng11.github.io
-Homepage
+# HomePage
+Copyright is held by the author.

@@ -11,7 +11,7 @@ Performance of Distributed Systems (topic: Performance Profiling), 2019<br>
 Performance of Computer Systems (topic: Performance Profiling), 2018
 
 - Eindhoven University of Technology (Instructor)<br>
-Databases and DataModeling, 2017
+Databases and Data Modeling, 2017
 
 - Dresden University of Technology (Instructor)<br>
 Distributed Systems Engineering I (Masters), 2014

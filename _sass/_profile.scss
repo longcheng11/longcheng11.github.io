@@ -1,0 +1,53 @@
+.profile {
+    img {
+        box-shadow: 0 0 5px $grey-color;
+        width: 100%;
+    }
+}
+.address {
+    p { margin-left: 20px; }
+}
+
+.news {
+    border-top: 1px solid $grey-color-light;
+    margin-top: 30px;
+    padding-top: 20px;
+
+    h3 {
+        font-weight: bold;
+        margin-top: 0;
+        margin-bottom: 10px;
+    }
+    table {
+        border-collapse: collapse;
+        width: 100%;
+
+        .date { width: 15%; }
+        .announcement { width: 85%; }
+
+        tr { text-align: left; }
+        td {
+            padding: 6px 0;
+            vertical-align: top;
+            border: none;
+        }
+    }
+}
+
+
+.news2 {
+    table {
+        border-collapse: collapse;
+        width: 100%;
+
+        .date { width: 15%; }
+        .announcement { width: 85%; }
+
+        tr { text-align: left; }
+        td {
+            padding: 6px 0;
+            vertical-align: top;
+            border: none;
+        }
+    }
+}

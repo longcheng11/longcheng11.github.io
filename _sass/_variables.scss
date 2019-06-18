@@ -44,6 +44,7 @@ $orange-1:          #ffcc22 !default;
 $blue:              #2698BA !default;
 $blue-1:            #0076df !default;
 $dark-blue:         #00369f !default;
+$dark-blue-2:       #0000cc !default;
 $green:             #00ab37 !default;
 $green-1:           #11D68B !default;
 $green-2:           #00cf26 !default;
@@ -60,6 +61,7 @@ $dark-gray:         #333 !default;
 $mid-gray:          #666 !default;
 $light-gray:        #ccc !default;
 $lighter-gray:      #eee !default;
+$black:             #000000 !default;
 
 $grey-color:        #828282;
 $grey-color-light:  lighten($grey-color, 40%);
@@ -70,9 +72,9 @@ $darken-2:          rgba(#000,.125) !default;
 $darken-3:          rgba(#000,.25) !default;
 $darken-4:          rgba(#000,.5) !default;
 
-$theme-color:       $dark-blue;
-$code-color:        $dark-gray;
-$text-color:        $dark-gray;
+$theme-color:       $dark-blue-2;
+$code-color:        $black;
+$text-color:        $black;
 $background-color:  white;
 
 // Links

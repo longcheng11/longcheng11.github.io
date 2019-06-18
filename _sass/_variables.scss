@@ -14,14 +14,14 @@ $monospace-font-family: 'Source Code Pro', Consolas, monospace !default;
 
 
 
-$h1                : 2.441em;  // ~39.056px
-$h2                : 1.953em;  // ~31.248px
-$h3                : 1.563em;  // ~25.008px
-$h4                : 1.25em;   // ~20px
-$h5                : 1em;      // ~16px
-$h6                : 0.75em;   // ~12px
-$h00                : 0.6875em; // ~11px
-$h0                : 0.625em;  // ~10px
+$h1: 2.441em; !default;
+$h2: 1.953em; !default;
+$h3: 1.563em;  !default;
+$h4: 1.25em;   !default;
+$h5: 1em;      !default;
+$h6: 0.75em;   !default;
+$h00: 0.6875em; !default;
+$h0: 0.625em;  !default;
 
 $h00-responsive: 8vw !default;
 $h0-responsive: 6vw !default;

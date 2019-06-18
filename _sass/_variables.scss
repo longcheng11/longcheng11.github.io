@@ -19,12 +19,12 @@ $h5: .875rem !default;
 $h6: .75rem !default;
 $h00: 4rem !default;
 $h0: 3rem !default;
-$h00-responsive: 100vw !default;
-$h0-responsive: 100vw !default;
-$h1-responsive: 100vw !default;
-$h00-responsive-max: 100rem !default;
-$h0-responsive-max: 100rem !default;
-$h1-responsive-max: 100rem !default;
+$h00-responsive: 8vw !default;
+$h0-responsive: 6vw !default;
+$h1-responsive: 4vw !default;
+$h00-responsive-max: 7.68rem !default;
+$h0-responsive-max: 5.76rem !default;
+$h1-responsive-max: 3.84rem !default;
 $abbr-border-bottom: 1px black dotted;
 
 // Page width
@@ -70,9 +70,9 @@ $darken-2:          rgba(#000,.125) !default;
 $darken-3:          rgba(#000,.25) !default;
 $darken-4:          rgba(#000,.5) !default;
 
-$theme-color:       $purple;
+$theme-color:       $dark-blue;
 $code-color:        $dark-gray;
-$text-color:        $mid-gray;
+$text-color:        $dark-gray;
 $background-color:  white;
 
 // Links

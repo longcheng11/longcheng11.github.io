@@ -504,10 +504,10 @@ figcaption { font-size: 0.875rem; }
 
 .gist .lines { width: 100%; }
 
-a { color: #666; text-decoration: none; }
+a { color: #0d0d0d; text-decoration: none; }
 a:hover { color: #B509AC; text-decoration: none; }
 
-article a, .news a { color: #0066cc; font-weight: 100; }
+article a, .news a { color: #0000cc; font-weight: 100; }
 article a:hover, .news a:hover { color: #B509AC; text-decoration: underline; }
 
 .measure { margin: 0 auto; max-width: 42rem; }
@@ -532,11 +532,11 @@ table > tbody + tbody { border-top: 2px solid #333; }
 
 html { font-size: 16px; }
 
-body { color: #666; font-weight: 100; }
+body { color: #0d0d0d; font-weight: 100; }
 
 abbr { border-bottom: 1px black dotted; cursor: help; }
 
-p { color: #333; line-height: 1.5; }
+p { color: #0d0d0d; line-height: 1.5; }
 
 small, .small { font-size: 0.707rem; }
 

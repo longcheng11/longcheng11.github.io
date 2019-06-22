@@ -25,7 +25,7 @@ Engineer, Software Company Western Europe, 2011.02 - 2011.08
 
 
 #### **Education**
-- [National University of Ireland Maynooth](https://www.maynoothuniversity.ie/), Maynooth Ireland<br>
+- [National University of Ireland Maynooth](https://www.maynoothuniversity.ie/), Maynooth, Ireland<br>
 Ph.D in Electronic Engineering, 2011.10 - 2014.08
       
 - [University of Duisburg-Essen](https://www.uni-due.de/en/), Duisburg, Germany<br>

@@ -56,17 +56,17 @@ description: Long Cheng, publications
 
 1. Long Cheng, Spyros Kotoulas, Tomas Ward, Georgios Theodoropoulos. [A Fully Parallel Framework for Fast Analyzing RDF Data](http://www.ceur-ws.org/Vol-1272). *ISWC'14: Poster & Demo Track of the 13th International Semantic Web Conference*, pp. 289-292, Trento, Italy, Oct 2014. (poster)
 
-1. Long Cheng, Spyros Kotoulas, Tomas Ward and Georgios Theodoropoulos. [A Two-tier Index Architecture for Fast Processing Large RDF Data over Distributed Memory](http://dx.doi.org/10.1145/2631775.2631789).  *HT'14: Proc. 25th ACM International Conference on Hypertext and Social Media*, pp. 300-302, Santiago, Chile, Sept 2014. (poster)
+1. Long Cheng, Spyros Kotoulas, Tomas Ward, Georgios Theodoropoulos. [A Two-tier Index Architecture for Fast Processing Large RDF Data over Distributed Memory](http://dx.doi.org/10.1145/2631775.2631789).  *HT'14: Proc. 25th ACM International Conference on Hypertext and Social Media*, pp. 300-302, Santiago, Chile, Sept 2014. (poster)
 
-1. Long Cheng, Spyros Kotoulas, Tomas Ward and Georgios Theodoropoulos. [Robust and Efficient Large-large Table Outer Joins on Distributed Infrastructures](https://doi.org/10.1007/978-3-319-09873-9_22). *Euro-Par'14: Proc. 20th European Conference on Parallel Processing*, pp. 258-269, Porto, Portugal, Aug 2014.
+1. Long Cheng, Spyros Kotoulas, Tomas Ward, Georgios Theodoropoulos. [Robust and Efficient Large-large Table Outer Joins on Distributed Infrastructures](https://doi.org/10.1007/978-3-319-09873-9_22). *Euro-Par'14: Proc. 20th European Conference on Parallel Processing*, pp. 258-269, Porto, Portugal, Aug 2014.
 
-1. Long Cheng, Avinash Malik, Spyros Kotoulas, Tomas Ward and Georgios Theodoropoulos. [Efficient Parallel Dictionary Encoding for RDF Data](https://iccl.inf.tu-dresden.de/w/images/d/df/2014-Efficient-Parallel.pdf). *WebDB'14: Proc. 17th International Workshop on the Web and Databases (co-located SIGMOD)*, Snowbird, USA, June 2014. 
+1. Long Cheng, Avinash Malik, Spyros Kotoulas, Tomas Ward, Georgios Theodoropoulos. [Efficient Parallel Dictionary Encoding for RDF Data](https://iccl.inf.tu-dresden.de/w/images/d/df/2014-Efficient-Parallel.pdf). *WebDB'14: Proc. 17th International Workshop on the Web and Databases (co-located SIGMOD)*, Snowbird, USA, June 2014. 
 
-1. Long Cheng, Spyros Kotoulas, Tomas Ward and Georgios Theodoropoulos. [Efficiently Handling Skew in Outer Joins on Distributed Systems](http://dx.doi.org/10.1109/CCGrid.2014.35). *CCGrid'14: Proc. 14th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing*, pp. 295-304, Chicago, USA, May 2014. 
+1. Long Cheng, Spyros Kotoulas, Tomas Ward, Georgios Theodoropoulos. [Efficiently Handling Skew in Outer Joins on Distributed Systems](http://dx.doi.org/10.1109/CCGrid.2014.35). *CCGrid'14: Proc. 14th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing*, pp. 295-304, Chicago, USA, May 2014. 
 
-1. Long Cheng, Spyros Kotoulas, Tomas Ward and Georgios Theodoropoulos. [A Novel Framework for Handling Skew in Parallel Join Processing on Distributed Memory](http://dx.doi.org/10.1109/HPCC.and.EUC.2013.214). *HPCC'13: Proc. 15th IEEE International Conference on High Performance Computing and Communications*, pp. 1519-1527, Zhangjiajie, China, Nov 2013. 
+1. Long Cheng, Spyros Kotoulas, Tomas Ward, Georgios Theodoropoulos. [A Novel Framework for Handling Skew in Parallel Join Processing on Distributed Memory](http://dx.doi.org/10.1109/HPCC.and.EUC.2013.214). *HPCC'13: Proc. 15th IEEE International Conference on High Performance Computing and Communications*, pp. 1519-1527, Zhangjiajie, China, Nov 2013. 
 
-1. Long Cheng, Spyros Kotoulas, Tomas Ward and Georgios Theodoropoulos. [Runtime Characterisation of Triple Stores](http://dx.doi.org/10.1109/ICCSE.2012.19). *CSE'12: Proc. 15th IEEE International Conference on Computational Science and Engineering*, pp. 66-73, Paphos, Cyprus, Dec 2012. 
+1. Long Cheng, Spyros Kotoulas, Tomas Ward, Georgios Theodoropoulos. [Runtime Characterisation of Triple Stores](http://dx.doi.org/10.1109/ICCSE.2012.19). *CSE'12: Proc. 15th IEEE International Conference on Computational Science and Engineering*, pp. 66-73, Paphos, Cyprus, Dec 2012. 
 
 #### **Others**
 

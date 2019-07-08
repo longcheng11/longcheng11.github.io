@@ -24,11 +24,15 @@ description: Long Cheng, publications
 
 #### **Proceedings**
 
-1. Wenjia Zheng, Michael Tynes, Henry Gorelick, Ying Mao, Long Cheng, Yantian Hou. [FlowCon: Elastic Flow Configuration for Containerized Deep Learning Applications](http://dx.doi.org/xxx). *ICPP'19: Proc. 48th International Conference on Parallel Processing*,  Kyoto, Japan, Aug 2019.  
+1. Wenjia Zheng, Yun Song, Zihao Guo, Yongchen Cui, Suwen Gu, Ying Mao, Long Cheng. [Target-based Resource Allocation for Deep Learning Applications in a Multi-tenancy System](http://dx.doi.org/xxx). *HPEC'19: Proc. 23rd IEEE High Performance Extreme Computing Conference*, Waltham, USA, Sept 2019. 
+
+1. Wenjia Zheng, Michael Tynes, Henry Gorelick, Ying Mao, Long Cheng, Yantian Hou. [FlowCon: Elastic Flow Configuration for Containerized Deep Learning Applications](http://dx.doi.org/xxx). *ICPP'19: Proc. 48th International Conference on Parallel Processing*, Kyoto, Japan, Aug 2019.  
 
 1. Dawen Xu, Kouzi Xing, Cheng Liu, Ying Wang, Yulin Dai, Long Cheng, Huawei Li, Lei Zhang. [Resilient Neural Network Training for Accelerators with  Computing Errors](http://dx.doi.org/xxx). *ASAP'19: Proc. 30th IEEE International Conference on Application-specific Systems, Architectures and Processors*, New York, USA, July 2019. 
 
-1. Qingzhi Liu, Long Cheng, Tanir Ozcelebi, John Murphy, Johan Lukkien. [Deep Reinforcement Learning for IoT Network Dynamic Clustering in Edge Computing](http://dx.doi.org/xxx). *CCGrid'19:  Proc. 19th IEEE/ACM International Symposium on Cluster*, Cloud and Grid Computing, Larnaca, Cyprus, May 2019. 
+1. Long Cheng, Cong Liu, Qingzhi Liu, Yucong Duan, John Murphy. [Learning Process Models in IoT Edge](http://dx.doi.org/10.1109/SERVICES.2019.00043). *SERVICES'19: Proc. 2019 IEEE World Congress on Services*, Milan, Italy, July 2019.
+
+1. Qingzhi Liu, Long Cheng, Tanir Ozcelebi, John Murphy, Johan Lukkien. [Deep Reinforcement Learning for IoT Network Dynamic Clustering in Edge Computing](http://dx.doi.org/10.1109/CCGRID.2019.00077). *CCGrid'19:  Proc. 19th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing*, Larnaca, Cyprus, May 2019. 
 
 1. Qingzhi Liu, Tanir Ozcelebi, Long Cheng, Fernando Kuipers, Johan Lukkien. [CluFlow: Cluster-based Flow Management in Software-Defined Wireless Sensor Networks](http://dx.doi.org/xxx). *WCNC'19: IEEE Wireless Communications and Networking Conference*, Morocco, April 2019. 
 

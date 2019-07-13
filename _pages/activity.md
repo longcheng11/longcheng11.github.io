@@ -10,6 +10,7 @@ description: Long Cheng, activities
 - Session Chair of Application and Data Sciences @ IEEE/ACM CCGrid, 2019.<br>
 
 #### **Technical Program Committee Member of Conferences**
+- The 34th IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2020.<br>
 - The 15th IEEE International Conference on e-Science (e-Science), 2019.<br>
 - The 48th International Conference on Parallel Processing (ICPP), 2019.<br>
 - The 33rd IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2019.<br>

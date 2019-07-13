@@ -32,9 +32,9 @@ description: Long Cheng, publications
 
 1. Long Cheng, Cong Liu, Qingzhi Liu, Yucong Duan, John Murphy. [Learning Process Models in IoT Edge](http://dx.doi.org/10.1109/SERVICES.2019.00043). *SERVICES'19: Proc. 2019 IEEE World Congress on Services*, Milan, Italy, July 2019.
 
-1. Qingzhi Liu, Long Cheng, Tanir Ozcelebi, John Murphy, Johan Lukkien. [Deep Reinforcement Learning for IoT Network Dynamic Clustering in Edge Computing](http://dx.doi.org/10.1109/CCGRID.2019.00077). *CCGrid'19:  Proc. 19th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing*, Larnaca, Cyprus, May 2019. 
+1. Qingzhi Liu, Long Cheng, Tanir Ozcelebi, John Murphy, Johan Lukkien. [Deep Reinforcement Learning for IoT Network Dynamic Clustering in Edge Computing](http://dx.doi.org/10.1109/CCGRID.2019.00077). *CCGrid'19:  Proc. 19th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing*, pp. 600-603, Larnaca, Cyprus, May 2019. 
 
-1. Qingzhi Liu, Tanir Ozcelebi, Long Cheng, Fernando Kuipers, Johan Lukkien. [CluFlow: Cluster-based Flow Management in Software-Defined Wireless Sensor Networks](http://dx.doi.org/xxx). *WCNC'19: IEEE Wireless Communications and Networking Conference*, Morocco, April 2019. 
+1. Qingzhi Liu, Tanir Ozcelebi, Long Cheng, Fernando Kuipers, Johan Lukkien. [CluFlow: Cluster-based Flow Management in Software-Defined Wireless Sensor Networks](http://dx.doi.org/xxx). *WCNC'19: Proc. 2019 IEEE Wireless Communications and Networking Conference*, Morocco, April 2019. 
 
 1. Long Cheng, John Murphy, Qingzhi Liu, Chunliang Hao, Georgios Theodoropoulos. [Minimizing Network Traffic for Distributed Joins Using Lightweight Locality-Aware Scheduling](http://dx.doi.org/10.1007/978-3-319-96983-1).  *Euro-Par'18: Proc. 24th European Conference on Parallel Processing*, pp. 293-305, Turin, Italy, Aug 2018. 
 
@@ -44,7 +44,7 @@ description: Long Cheng, publications
 
 1. Long Cheng, Boudewijn van Dongen, Wil van der Aalst. [Efficient Event Correlation over Distributed Systems](http://dx.doi.org/10.1109/CCGRID.2017.94). *CCGrid'17: Proc. 17th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing*, pp. 1-10, Madrid, Spain, May 2017.
 
-1. Long Cheng, Tao Li. [Efficient Data Redistribution to Speedup Big Data Analytics in Large Systems](http://dx.doi.org/10.1109/HiPC.2016.020). *HiPC'16: Proc. 23rd IEEE International Conference on High Performance Computing*, pp. 91-100, Hyderabad, India, Dec 2016.
+1. Long Cheng, Tao Li. [Efficient Data Redistribution to Speed up Big Data Analytics in Large Systems](http://dx.doi.org/10.1109/HiPC.2016.020). *HiPC'16: Proc. 23rd IEEE International Conference on High Performance Computing*, pp. 91-100, Hyderabad, India, Dec 2016.
 
 1. Long Cheng, Spyros Kotoulas. [Efficient Large Outer Joins over MapReduce](https://doi.org/10.1007/978-3-319-43659-3_25). *Euro-Par'16: Proc. 22nd European Conference on Parallel Processing*, pp. 334-346, Grenoble, France, Aug 2016.
 

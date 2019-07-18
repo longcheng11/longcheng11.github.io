@@ -76,6 +76,8 @@ description: Long Cheng, publications
 
 1. Long Cheng. [Network-aware Optimization for Query Executions in Large Systems](http://wwwis.win.tue.nl/dbdbd2017/abstracts/NEO-QELongCheng.pdf). *Abstract in Dutch-Belgian Database Day*, Eindhoven, Netherlands, Dec 2017. 
 
+1. Cong Liu, Long Cheng, Qingtian Zeng, Lijie Wen, Chun Ouyang. [Petri Net-based Hierarchical Business Process Discovery](http://dx.doi.org/xxx). *CBPM'19: Proc. 9th Chinese Conference on Business Process Management*, Guangzhou, China, Aug 2019. (in Chinese)
+
 #### **PhD Thesis**
 
 - Long Cheng. [A Scalable Analysis Framework for Large-scale RDF Data](http://eprints.maynoothuniversity.ie/5442/). National University of Ireland Maynooth, Ireland, Aug 2014. (Advisers: [Prof. Tomas Ward](http://www.computing.dcu.ie/~tward/), [Prof. Georgios Theodoropoulos](http://www.gtheodoropoulos.com/) and [Dr. Spyros Kotoulas](http://researcher.ibm.com/view.php?person=ie-Spyros.Kotoulas))

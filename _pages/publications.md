@@ -6,11 +6,13 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
-1. Long Cheng, Spyros Kotoulas, Qingzhi Liu, Ying Wang. [Load-balancing Distributed Outer Joins through Operator Decomposition](http://dx.doi.org/10.1016/j.jpdc.2019.05.008). *Journal of Parallel and Distributed Computing*, 2019 (in press). 
+
 
 1. Long Cheng, Boudewijn van Dongen, Wil van der Aalst. [Scalable Discovery of Hybrid Process Models in a Cloud Computing Environment](http://dx.doi.org/10.1109/TSC.2019.2906203). *IEEE Transactions on Services Computing*, 2019 (in press). 
 
 1. Ying Wang, Huawei Li, Long Cheng, Xiaowei Li. [A QoS-QoR Aware CNN Accelerator Design Approach](http://dx.doi.org/10.1109/TCAD.2018.2877010). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2018. (in press)
+
+1. Long Cheng, Spyros Kotoulas, Qingzhi Liu, Ying Wang. [Load-balancing Distributed Outer Joins through Operator Decomposition](http://dx.doi.org/10.1016/j.jpdc.2019.05.008). *Journal of Parallel and Distributed Computing*, 132: 21-35, 2019. 
 
 1. Long Cheng, Spyros Kotoulas. [Efficient Skew Handling for Outer Joins in a Cloud Computing Environment](http://dx.doi.org/10.1109/TCC.2015.2487965). *IEEE Transactions on Cloud Computing*, 6(2): 558-571, 2018. 
 

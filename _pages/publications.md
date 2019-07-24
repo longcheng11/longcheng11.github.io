@@ -10,7 +10,7 @@ description: Long Cheng, publications
 
 1. Long Cheng, Boudewijn van Dongen, Wil van der Aalst. [Scalable Discovery of Hybrid Process Models in a Cloud Computing Environment](http://dx.doi.org/10.1109/TSC.2019.2906203). *IEEE Transactions on Services Computing*, 2019 (in press). 
 
-1. Ying Wang, Huawei Li, Long Cheng, Xiaowei Li. [A QoS-QoR Aware CNN Accelerator Design Approach]("http://dx.doi.org/10.1109/TCAD.2018.2877010). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2018. (in press)
+1. Ying Wang, Huawei Li, Long Cheng, Xiaowei Li. [A QoS-QoR Aware CNN Accelerator Design Approach](http://dx.doi.org/10.1109/TCAD.2018.2877010). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2018. (in press)
 
 1. Long Cheng, Spyros Kotoulas. [Efficient Skew Handling for Outer Joins in a Cloud Computing Environment](http://dx.doi.org/10.1109/TCC.2015.2487965). *IEEE Transactions on Cloud Computing*, 6(2): 558-571, 2018. 
 
@@ -28,9 +28,9 @@ description: Long Cheng, publications
 
 1. Wenjia Zheng, Michael Tynes, Henry Gorelick, Ying Mao, Long Cheng, Yantian Hou. [FlowCon: Elastic Flow Configuration for Containerized Deep Learning Applications](http://dx.doi.org/xxx). *ICPP'19: Proc. 48th International Conference on Parallel Processing*, Kyoto, Japan, Aug 2019.  
 
-1. Dawen Xu, Kouzi Xing, Cheng Liu, Ying Wang, Yulin Dai, Long Cheng, Huawei Li, Lei Zhang. [Resilient Neural Network Training for Accelerators with  Computing Errors](http://dx.doi.org/xxx). *ASAP'19: Proc. 30th IEEE International Conference on Application-specific Systems, Architectures and Processors*, New York, USA, July 2019. 
+1. Dawen Xu, Kouzi Xing, Cheng Liu, Ying Wang, Yulin Dai, Long Cheng, Huawei Li, Lei Zhang. [Resilient Neural Network Training for Accelerators with Computing Errors](http://dx.doi.org/xxx). *ASAP'19: Proc. 30th IEEE International Conference on Application-specific Systems, Architectures and Processors*, New York, USA, July 2019. 
 
-1. Long Cheng, Cong Liu, Qingzhi Liu, Yucong Duan, John Murphy. [Learning Process Models in IoT Edge](http://dx.doi.org/10.1109/SERVICES.2019.00043). *SERVICES'19: Proc. 2019 IEEE World Congress on Services*, Milan, Italy, July 2019.
+1. Long Cheng, Cong Liu, Qingzhi Liu, Yucong Duan, John Murphy. [Learning Process Models in IoT Edge](http://dx.doi.org/10.1109/SERVICES.2019.00043). *SERVICES'19: Proc. 2019 IEEE World Congress on Services*, pp. 146-149, Milan, Italy, July 2019.
 
 1. Qingzhi Liu, Long Cheng, Tanir Ozcelebi, John Murphy, Johan Lukkien. [Deep Reinforcement Learning for IoT Network Dynamic Clustering in Edge Computing](http://dx.doi.org/10.1109/CCGRID.2019.00077). *CCGrid'19:  Proc. 19th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing*, pp. 600-603, Larnaca, Cyprus, May 2019. 
 

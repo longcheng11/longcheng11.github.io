@@ -13,10 +13,10 @@ bio: true
    </div>
    <div class="column right">
       <p>Long Cheng, PhD</p>
-      <p>Marie  Sk&#322;odowska-Curie Fellow at PEL</p>
-      <p>B1.05, <a href="https://www.cs.ucd.ie/">School of Computer Science</a><br><a href="http://www.ucd.ie">University College Dublin</a><br>Belfield, Dublin 4,  Ireland</p>
-      <p>Tel: +353-1-716-2908<br>
-      E-mail: long.cheng[AT]ucd.ie</p>
+      <p>Assistant Professor in Computing</p>
+      <p>L2.49, <a href="https://www.computing.dcu.ie/">School of Computing</a><br><a href="https://www.dcu.ie/">Dublin City University</a><br>Glasnevin, Dublin 9,  Ireland</p>
+      <p>Tel: +353-1-700-4244<br>
+      E-mail: long.cheng[AT]dcu.ie</p>
       <p> <a href="http://ie.linkedin.com/pub/long-cheng/52/306/a5">LinkedIn</a>, <a href="https://scholar.google.de/citations?user=aI-bwLgAAAAJ&amp;hl=en">Google Scholar</a>, <a href="http://dblp.uni-trier.de/pers/hd/c/Cheng_0003:Long">DBLP</a>, <a href="https://twitter.com/longcheng11">Twitter</a></p>
    </div>
 </div>

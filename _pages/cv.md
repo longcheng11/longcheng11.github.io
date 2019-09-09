@@ -7,8 +7,11 @@ description: Long Cheng, cv
 
 
 #### **Employment History**
+- [Dublin City University](https://www.dcu.ie/), Dublin, Ireland<br>
+Assistant Professor, School of Computing, 2019.09 - present
+
 - [University College Dublin](https://www.ucd.ie/), Dublin, Ireland<br>
-[Marie Curie Fellow](https://www.mariecuriealumni.eu/magazine/news/want-become-marie-sk%C5%82odowska-curie-fellow-individual-fellowships-if-spotlight), Performance Engineering Laboratory, 2018.07 - present 
+[Marie Curie Fellow](https://www.mariecuriealumni.eu/magazine/news/want-become-marie-sk%C5%82odowska-curie-fellow-individual-fellowships-if-spotlight), Performance Engineering Laboratory, 2018.07 - 2019.09
 
 - [Eindhoven University of Technology](https://www.tue.nl/en/), Eindhoven, The Netherlands<br>
 Postdoctoral Researcher, Architecture of Information Systems Group, 2016.07 - 2018.03  

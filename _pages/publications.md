@@ -46,7 +46,7 @@ description: Long Cheng, publications
 
 1. Long Cheng, Boudewijn van Dongen, Wil van der Aalst. [Efficient Event Correlation over Distributed Systems](http://dx.doi.org/10.1109/CCGRID.2017.94). *CCGrid'17: Proc. 17th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing*, pp. 1-10, Madrid, Spain, May 2017.
 
-1. Long Cheng, Tao Li. [Efficient Data Redistribution to Speed up Big Data Analytics in Large Systems](http://dx.doi.org/10.1109/HiPC.2016.020). *HiPC'16: Proc. 23rd IEEE International Conference on High Performance Computing*, pp. 91-100, Hyderabad, India, Dec 2016.
+1. Long Cheng, Tao Li. [Efficient Data Redistribution to Speedup Big Data Analytics in Large Systems](http://dx.doi.org/10.1109/HiPC.2016.020). *HiPC'16: Proc. 23rd IEEE International Conference on High Performance Computing*, pp. 91-100, Hyderabad, India, Dec 2016.
 
 1. Long Cheng, Spyros Kotoulas. [Efficient Large Outer Joins over MapReduce](https://doi.org/10.1007/978-3-319-43659-3_25). *Euro-Par'16: Proc. 22nd European Conference on Parallel Processing*, pp. 334-346, Grenoble, France, Aug 2016.
 

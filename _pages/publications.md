@@ -30,7 +30,7 @@ description: Long Cheng, publications
 
 1. Wenjia Zheng, Michael Tynes, Henry Gorelick, Ying Mao, Long Cheng, Yantian Hou. [FlowCon: Elastic Flow Configuration for Containerized Deep Learning Applications](http://dx.doi.org/10.1145/3337821.3337868). *ICPP'19: Proc. 48th International Conference on Parallel Processing*, pp.  87:1-87:10, Kyoto, Japan, Aug 2019.  
 
-1. Dawen Xu, Kouzi Xing, Cheng Liu, Ying Wang, Yulin Dai, Long Cheng, Huawei Li, Lei Zhang. [Resilient Neural Network Training for Accelerators with Computing Errors](http://dx.doi.org/xxx). *ASAP'19: Proc. 30th IEEE International Conference on Application-specific Systems, Architectures and Processors*, New York, USA, July 2019. 
+1. Dawen Xu, Kouzi Xing, Cheng Liu, Ying Wang, Yulin Dai, Long Cheng, Huawei Li, Lei Zhang. [Resilient Neural Network Training for Accelerators with Computing Errors](http://dx.doi.org/10.1109/ASAP.2019.00-23). *ASAP'19: Proc. 30th IEEE International Conference on Application-specific Systems, Architectures and Processors*, pp. 99-102, New York, USA, July 2019. 
 
 1. Long Cheng, Cong Liu, Qingzhi Liu, Yucong Duan, John Murphy. [Learning Process Models in IoT Edge](http://dx.doi.org/10.1109/SERVICES.2019.00043). *SERVICES'19: Proc. 2019 IEEE World Congress on Services*, pp. 146-149, Milan, Italy, July 2019.
 

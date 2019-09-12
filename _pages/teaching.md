@@ -6,6 +6,9 @@ description: Long Cheng, teaching
 ---
 #### **Teaching Experience**
 
+- Dublin City University (Lecturer)<br>
+Cloud Technologies (CA675), 2019
+
 - University College Dublin (Guest Lecturer)<br>
 Performance of Distributed Systems (topic: Performance Profiling), 2019<br>
 Performance of Computer Systems (topic: Performance Profiling), 2018
@@ -14,7 +17,7 @@ Performance of Computer Systems (topic: Performance Profiling), 2018
 Databases and Data Modeling, 2017
 
 - Dresden University of Technology (Instructor)<br>
-Distributed Systems Engineering I (Masters), 2014
+Distributed Systems Engineering I, 2014
 
 - National University of Ireland Maynooth (Demonstrator)<br>
 Computer Architecture, 2013 – 2014<br>

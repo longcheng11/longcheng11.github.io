@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project List 2019/2020 
+title: Project List 2019 - 2020 
 description:
 #img: /assets/img/12.jpg
 ---

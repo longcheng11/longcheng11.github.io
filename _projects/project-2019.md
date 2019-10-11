@@ -6,18 +6,18 @@ description:
 ---
 
 
-If you have interest for one of the following topics please let me know. You can also email me if you have your own idea, I will be very happy for a discussion on that.
+If you have interest for one of the following topics please let me know. 
 
 
-1. Cross-organization business process execution engine on the Ethereum blockchain
+1. Cross-organization Business Process Execution Engine on the Ethereum Blockchain
 
 1. Deep Reinforcement Learning for Resource and Performance Optimization in Cloud
 
 1. Deep Reinforcement Learning for Edge Network Dynamic Clustering in Cloud Computing
 
-1. Quantum computing based metaheuristics for Cloud task scheudling
+1. Quantum Computing Based Metaheuristics for Cloud Task Scheudling
 
 1. Orchestration of Computing Infrastructure for Future Autonomous Vehicles (focus on architecture and prototype in Cloud, Edge, IoT and program vehicles)
 
 
-
+You can also email me if you have your own idea, I will be very happy for a discussion on that.

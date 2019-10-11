@@ -5,18 +5,19 @@ description:
 #img: /assets/img/12.jpg
 ---
 
-#### **Cross-organization business process execution engine on the Ethereum blockchain**
 
-#### **Deep Reinforcement Learning for Resource and Performance Optimization in Cloud**
-
-#### **Deep Reinforcement Learning for Edge Network Dynamic Clustering in Cloud Computing**
+If you have interest for one of the following topics please let me know. You can also email me if you have your own idea, I will be very happy for a discussion on that.
 
 
-#### **Quantum computing based metaheuristics for Cloud task scheudling**
+1. Cross-organization business process execution engine on the Ethereum blockchain
+
+1. Deep Reinforcement Learning for Resource and Performance Optimization in Cloud
+
+1. Deep Reinforcement Learning for Edge Network Dynamic Clustering in Cloud Computing
+
+1. Quantum computing based metaheuristics for Cloud task scheudling
+
+1. Orchestration of Computing Infrastructure for Future Autonomous Vehicles (focus on architecture and prototype in Cloud, Edge, IoT and program vehicles)
 
 
-#### **Orchestration of Computing Infrastructure for Future Autonomous Vehicles (focus on architecture and prototype in Cloud, Edge, IoT and program vehicles)**
-
-
-You can email me if you have your own idea, I will be very happy for a discussion on that.
 

@@ -14,7 +14,7 @@ description: Long Cheng, projects
         {% if project.img %}
         <img class="thumbnail" src="{{ project.img | prepend: site.baseurl | prepend: site.url }}"/>
         {% else %}
-        <div class="thumbnail blankbox"></div>
+        <div class="thumbnail"></div>
         {% endif %}    
         <span>
             <h1>{{ project.title }}</h1>
@@ -32,7 +32,7 @@ description: Long Cheng, projects
         {% if project.img %}
         <img class="thumbnail" src="{{ project.img | prepend: site.baseurl | prepend: site.url }}"/>
         {% else %}
-        <div class="thumbnail blankbox"></div>
+        <div class="thumbnail"></div>
         {% endif %}    
         <span>
             <h1>{{ project.title }}</h1>

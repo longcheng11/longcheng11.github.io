@@ -6,9 +6,9 @@ description: Long Cheng, activities
 ---
 
 #### **Organization**
-- Co-organizer of Int. Workshop on Network-Aware Big Data Computing @ IEEE/ACM CCGrid, 2020.<br>
-- Publicity Chair of Int. Workshop on Blockchain for IoT and Cyber-physical Systems @ IEEE ICC, 2020.<br>
-- Co-organizer of Int. Workshop on Network-Aware Big Data Computing @ IEEE/ACM CCGrid, 2019.<br>
+- Co-organizer of International Workshop on Network-Aware Big Data Computing, 2020.<br>
+- Publicity Chair of Int. Workshop on Blockchain for IoT and Cyber-physical Systems, 2020.<br>
+- Co-organizer of International Workshop on Network-Aware Big Data Computing, 2019.<br>
 - Session Chair of Application and Data Sciences @ IEEE/ACM CCGrid, 2019.<br>
 
 #### **Technical Program Committee Member of Conferences**

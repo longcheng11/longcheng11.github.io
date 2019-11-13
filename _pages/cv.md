@@ -47,4 +47,4 @@ B.Eng in Electronic Engineering, 2003.09 - 2007.07
 
 #### **Awards**
 - Marie Sk&#322;odowska-Curie Individual Fellowship, 2018 - 2020.<br> 
-- Irish Research Council Postgraduate Research Scholarship (co-funded by IBM), 2011-2014.
+- Irish Research Council Postgraduate Research Scholarship, 2011-2014.

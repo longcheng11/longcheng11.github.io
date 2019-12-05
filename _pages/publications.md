@@ -6,7 +6,7 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
-
+1. Xuan Chen, Long Cheng (CA), Cong Liu, Qingzhi Liu, Jinwei Liu, Ying Mao, John Murphy. [A WOA-Based Optimization Approach for Task Scheduling in Cloud Computing Systems](http://dx.doi.org/xxx). *IEEE Systems Journal*, 2019 (in press). 
 
 1. Long Cheng, Boudewijn van Dongen, Wil van der Aalst. [Scalable Discovery of Hybrid Process Models in a Cloud Computing Environment](http://dx.doi.org/10.1109/TSC.2019.2906203). *IEEE Transactions on Services Computing*, 2019 (in press). 
 

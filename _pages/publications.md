@@ -26,7 +26,7 @@ description: Long Cheng, publications
 
 #### **Proceedings**
 
-1. Wenjia Zheng, Yun Song, Zihao Guo, Yongchen Cui, Suwen Gu, Ying Mao, Long Cheng. [Target-based Resource Allocation for Deep Learning Applications in a Multi-tenancy System](http://dx.doi.org/xxx). *HPEC'19: Proc. 23rd IEEE High Performance Extreme Computing Conference*, Waltham, USA, Sept 2019. 
+1. Wenjia Zheng, Yun Song, Zihao Guo, Yongchen Cui, Suwen Gu, Ying Mao, Long Cheng. [Target-based Resource Allocation for Deep Learning Applications in a Multi-tenancy System](http://dx.doi.org/10.1109/HPEC.2019.8916403). *HPEC'19: Proc. 23rd IEEE High Performance Extreme Computing Conference*, pp. 1-7, Waltham, USA, Sept 2019. 
 
 1. Wenjia Zheng, Michael Tynes, Henry Gorelick, Ying Mao, Long Cheng, Yantian Hou. [FlowCon: Elastic Flow Configuration for Containerized Deep Learning Applications](http://dx.doi.org/10.1145/3337821.3337868). *ICPP'19: Proc. 48th International Conference on Parallel Processing*, pp.  87:1-87:10, Kyoto, Japan, Aug 2019.  
 

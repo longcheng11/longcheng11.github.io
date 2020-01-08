@@ -26,8 +26,8 @@ Java Programming, 2012
 
 #### **Supervision**
 
-- Andrej Ota, “Scalable frequent episode discovery over large event logs”. Master Project, 2019. <br>
+- Andrej Ota, “Scalable frequent episode discovery over large event logs”. Master Project, 2019.
 
-- BrianMcDermott, “A blockchain-based rating and review management system for eCommerce”. Final Year Project, 2019.
+- Brian McDermott, “A blockchain-based rating and review management system for eCommerce”. Final Year Project, 2019.
 
 - Nhat Ha Trinh, “A mobile connected health application for health and wellness”. Final Year Project, 2014.

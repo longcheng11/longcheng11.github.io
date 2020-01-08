@@ -49,6 +49,7 @@ description: Long Cheng, activities
 
 
 #### **Visit and Talk**
+- North China Electric Power University, China, Dec 2019. <br> 
 - China University of Petroleum, China, Feb 2019. <br> 
 - ICT, Chinese Academy of Sciences, China, Feb 2019. <br>  
 - IS, Chinese Academy of Sciences, China, Jan 2019. <br> 

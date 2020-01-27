@@ -30,6 +30,7 @@ description: Long Cheng, activities
 - The 6th Int. Conference on Knowledge Engineering and Semantic Web (KESW), 2015.
 
 #### **Reviewer for Journals and Conferences**
+- IEEE Transactions on Automation Science and Engineering, 2020.<br>
 - Cluster Computing Journal, 2019.<br>
 - ACM Transactions on Database Systems, 2018.<br>
 - IEEE Transactions on Big Data, 2018.<br>

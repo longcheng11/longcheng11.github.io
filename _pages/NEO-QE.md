@@ -5,16 +5,11 @@ title: NEO-QE
 description: Long Cheng, H2020, MSCA, IF, 799066, UCD
 ---
 
----
-layout: page
-title: NEO-QE
-description: H2020-MSCA-IF 799066
-#img: /assets/img/12.jpg
----
+
 
 #### **About**
 
-NEO-QE is the acronym for the project entitled "NEtwork-aware Optimization for Query Executions in Large Systems" and granted by the EU H2020 Marie Skłodowska-Curie actions (MSCA) Individual fellowships (IF). The individual research in liaison with the host organization University College Dublin (UCD) will last for two years (2018-2020).
+[NEO-QE](https://cordis.europa.eu/project/id/799066) is the acronym for the project entitled "NEtwork-aware Optimization for Query Executions in Large Systems" and granted by the EU H2020 Marie Skłodowska-Curie actions (MSCA) Individual fellowships (IF). The individual research in liaison with the host organization University College Dublin (UCD) will last for two years (2018-2020).
 
 Network communications is one of the main performance challenges for big data computing in large distributed systems such as datacenters, in terms of both communication time and energy consumption. Significant improvements have been achieved by using the state-of-the-art methods, designed in the research domains of data management, data communications and network management. However, almost all the techniques in their own fields just view each fields as a black box, and the additional performance gains from a co-optimization perspective have not yet been well explored. 
 
@@ -24,7 +19,7 @@ The fellow Long Cheng is working at UCD to tackle the challenges.
 #### **The Architecture and Tasks**
 
 
-![The Architecture of NEO-QE](https://github.com/longcheng11/longcheng11.github.io/blob/master/images/arc.png "NEO-QE")
+![NEO-QE](images/arc.png)
 
 The main tasks of NEO-QE are:
  1. Complex data queries (e.g., parallel queries, online queries).
@@ -58,4 +53,4 @@ The main tasks of NEO-QE are:
 
 #### **Workshop Supported by the Project**
 
-2019 International Workshop on Network-Aware Big Data Computing ([NEAC 2019](http://neac2019.ucd.ie/)), co-located with IEEE/ACM CCGrid.
+The 2019 International Workshop on Network-Aware Big Data Computing ([NEAC 2019](http://neac2019.ucd.ie/)), co-located with IEEE/ACM CCGrid.

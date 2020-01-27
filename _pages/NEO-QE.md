@@ -33,6 +33,7 @@ The main tasks of NEO-QE are:
 
 
 #### **Scientific Publications Supported by the Project**
+  (***All publications are openly accessible at my [ResearchGate](https://www.researchgate.net/project/NEtwork-aware-Optimization-for-Query-Executions-in-large-systems)***)
 
 1. Xuan Chen, Long Cheng (*CA*), Cong Liu, Qingzhi Liu, Jinwei Liu, Ying Mao, John Murphy. [A WOA-Based Optimization Approach for Task Scheduling in Cloud Computing Systems](http://dx.doi.org/10.1109/JSYST.2019.2960088). *IEEE Systems Journal*, 2019 (in press). 
 

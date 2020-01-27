@@ -19,7 +19,7 @@ The fellow Long Cheng is working at UCD to tackle the challenges.
 #### **The Architecture and Tasks**
 
 
-![NEO-QE](images/arc.png)
+![NEO-QE](../images/arc.png)
 
 The main tasks of NEO-QE are:
  1. Complex data queries (e.g., parallel queries, online queries).

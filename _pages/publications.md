@@ -38,7 +38,7 @@ description: Long Cheng, publications
 
 1. Qingzhi Liu, Long Cheng, Tanir Ozcelebi, John Murphy, Johan Lukkien. [Deep Reinforcement Learning for IoT Network Dynamic Clustering in Edge Computing](http://dx.doi.org/10.1109/CCGRID.2019.00077). *CCGrid'19:  Proc. 19th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing*, pp. 600-603, Larnaca, Cyprus, May 2019. 
 
-1. Qingzhi Liu, Tanir Ozcelebi, Long Cheng, Fernando Kuipers, Johan Lukkien. [CluFlow: Cluster-based Flow Management in Software-Defined Wireless Sensor Networks](http://dx.doi.org/xxx). *WCNC'19: Proc. 2019 IEEE Wireless Communications and Networking Conference*, Morocco, April 2019. 
+1. Qingzhi Liu, Tanir Ozcelebi, Long Cheng, Fernando Kuipers, Johan Lukkien. [CluFlow: Cluster-based Flow Management in Software-Defined Wireless Sensor Networks](http://dx.doi.org/10.1109/WCNC.2019.8885485). *WCNC'19: Proc. 2019 IEEE Wireless Communications and Networking Conference*, Morocco, April 2019. 
 
 1. Long Cheng, John Murphy, Qingzhi Liu, Chunliang Hao, Georgios Theodoropoulos. [Minimizing Network Traffic for Distributed Joins Using Lightweight Locality-Aware Scheduling](http://dx.doi.org/10.1007/978-3-319-96983-1).  *Euro-Par'18: Proc. 24th European Conference on Parallel Processing*, pp. 293-305, Turin, Italy, Aug 2018. 
 

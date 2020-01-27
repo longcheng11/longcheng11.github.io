@@ -1,5 +1,12 @@
 ---
 layout: page
+permalink: /NEO-QE/
+title: NEO-QE
+description: Long Cheng, H2020, MSCA, IF, 799066
+---
+
+---
+layout: page
 title: NEO-QE
 description: H2020-MSCA-IF 799066
 #img: /assets/img/12.jpg
@@ -14,24 +21,19 @@ Network communications is one of the main performance challenges for big data co
 The fellow Long Cheng is working at UCD to tackle the challenges.
 
 
-#### **The architecture and tasks of NEO-QE**
+#### **The Architecture and Tasks**
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "NEO-QE")
+![The Architecture of NEO-QE](https://github.com/longcheng11/longcheng11.github.io/blob/master/images/arc.png "NEO-QE")
 
 The main tasks of NEO-QE are:
+ 1. Complex data queries (e.g., parallel queries, online queries).
+ 2. Service-level requirements (e.g., priority, latency, deadline).
+ 3. Complex network topologies (e.g., routing, congestion). 
+ 4. Complex computing environments (e.g., Cloud). 
+ 5. Energy consumption (minimized at constraints). 
+ 6. Applications (e.g., bioinformatics workloads, large-scale machine learning).
 
-⋅⋅⋅Complex data queries (e.g., parallel queries, online queries).
-
-⋅⋅⋅Service-level requirements (e.g., priority, latency, deadline).
-
-⋅⋅⋅Complex network topologies (e.g., routing, congestion).
-
-⋅⋅⋅Complex computing environments (e.g., Cloud).
-
-⋅⋅⋅Energy consumption (minimized at constraints).
-
-⋅⋅⋅Applications (e.g., bioinformatics workloads, large-scale machine learning).
 
 
 

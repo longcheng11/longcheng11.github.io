@@ -7,7 +7,8 @@ description: Long Cheng, teaching
 #### **Teaching Experience**
 
 - Dublin City University (Coordinator and Lecturer)<br>
-Cloud Technologies (CA675), 2019
+Cloud Technologies (CA675), 2019<br>
+Cloud Systems (CA687), 2020
 
 - University College Dublin (Guest Lecturer)<br>
 Performance of Distributed Systems (topic: Performance Profiling), 2019<br>
@@ -26,8 +27,20 @@ Java Programming, 2012
 
 #### **Supervision**
 
-- Andrej Ota, “Scalable frequent episode discovery over large event logs”. Master Project, 2019.
+- P. Sawalani and B. Tanpure, “Deep reinforcement learning based resource allocation for cost optimization in cloud computing”. Master Project, 2020.
 
-- Brian McDermott, “A blockchain-based rating and review management system for eCommerce”. Final Year Project, 2019.
+- M.Murphy, “A transfer learning based approach for KPI prediction in business process”. Master Project, 2020.
 
-- Nhat Ha Trinh, “A mobile connected health application for health and wellness”. Final Year Project, 2014.
+- A. Gupta, “Energy-efficient resource provisioning for cloud data centers using deep reinforcement learning”. Master Project, 2020.
+
+- A. Pandey and S. Sonawane. “Cloud-based collaborative working using chatbot”. Master Project, 2020.
+
+- Z. Asgar and G. Shetty, “Factors influencing serverless architecture: A case study on API backend”. Master Project, 2020.
+
+- A. Kalapgar and A. Jain, “Task scheduling in hybrid cloud using deep reinforcement learning”. Master Project, 2020.
+
+- A. Ota, “Scalable frequent episode discovery over large event logs”. Master Project, 2019.
+
+- B. McDermott, “A blockchain-based rating and review management system for eCommerce”. Final Year Project, 2019.
+
+- N. Trinh, “A mobile connected health application for health and wellness”. Final Year Project, 2014.

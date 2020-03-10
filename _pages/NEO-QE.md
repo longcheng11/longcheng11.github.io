@@ -55,3 +55,4 @@ The main tasks of NEO-QE are:
 #### **Workshop Supported by the Project**
 
 The 2019 International Workshop on Network-Aware Big Data Computing ([NEAC 2019](http://neac2019.ucd.ie/)), co-located with IEEE/ACM CCGrid.
+

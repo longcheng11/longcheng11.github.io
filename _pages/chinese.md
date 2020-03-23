@@ -18,5 +18,5 @@ description: Long Cheng, chinese, 中文简介
 - [John Murphy](http://www.ucd.ie/research/people/computerscience/professorjohnmurphy/)
 - [Ilias Tachmazidis](http://iliastachmazidis.blogspot.co.uk/) 
 - [Georgios Theodoropoulos](http://www.gtheodoropoulos.com/)
-- [Ying Wang](http://www.carch.ac.cn/~wangying/)
+- [Ying Wang](http://wangying-ict.github.io/)
 - [Tomas Ward](https://www.computing.dcu.ie/~tward/)

@@ -6,11 +6,11 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
-1. J. Liu, H. Shen, H. Chi, H. Narman, Y. Yang, L. Cheng, W. Chung. A low-cost multi-failure resilient replication scheme with data correlation for high data availability in cloud storage.  *IEEE/ACM Transactions on Networking*, 2020 (in minor revision).	
+1. J. Liu, H. Shen, H. Chi, H. Narman, Y. Yang, L. Cheng, W. Chung. [A Low-cost Multi-failure Resilient Replication Scheme with Data Correlation for High Data Availability in Cloud Storage](https://xxx).  *IEEE/ACM Transactions on Networking*, 2020 (in minor revision).	
 
-1. Y. Wang, Y-C. Wang, C. Shi, L. Cheng, H. Li, X. Li. An edge 3D CNN accelerator for low power activity recognition. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2020 (in minor revision).	
+1. Y. Wang, Y-C. Wang, C. Shi, L. Cheng, H. Li, X. Li. [An Edge 3D CNN Accelerator for Low Power Activity Recognition](https://xxx). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2020 (in minor revision).	
 	
-1. C. Liu, Q. Zeng, L. Cheng, H. Duan, M. Zhou, J. Cheng. Privacy-preserving behavioral correctness verification of cross-organizational workflow with task synchronization patterns. *IEEE Transactions on Automation Science and Engineering*, 2020 (conditionally accepted).	
+1. C. Liu, Q. Zeng, L. Cheng, H. Duan, M. Zhou, J. Cheng. [Privacy-preserving Behavioral Correctness Verification of Cross-organizational Workflow with Task Synchronization Patterns](https://xxx). *IEEE Transactions on Automation Science and Engineering*, 2020 (conditionally accepted).	
 
 1. Michael J. Maher, Ilias Tachmazidis, Grigoris Antoniou, Stephen Wade, Long Cheng. [Rethinking Defeasible Reasoning: A Scalable Approach](https://arxiv.org/abs/2001.00406). *Theory and Practice of Logic Programming*, 2020 (in press).
 

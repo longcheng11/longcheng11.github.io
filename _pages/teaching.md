@@ -7,8 +7,8 @@ description: Long Cheng, teaching
 #### **Teaching Experience**
 
 - Dublin City University (Coordinator and Lecturer)<br>
-Cloud Technologies (CA675), 2019<br>
-Cloud Systems (CA687), 2020
+Cloud Systems (CA687), 2020<br>
+Cloud Technologies (CA675), 2019
 
 - University College Dublin (Guest Lecturer)<br>
 Performance of Distributed Systems (topic: Performance Profiling), 2019<br>

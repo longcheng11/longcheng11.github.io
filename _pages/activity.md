@@ -12,6 +12,7 @@ description: Long Cheng, activities
 - Session Chair of Application and Data Sciences @ IEEE/ACM CCGrid, 2019.<br>
 
 #### **Technical Program Committee Member of Conferences**
+- The 2020 IEEE International Conference on Big Data (BigData2020), 2020.<br>
 - The 34th IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2020.<br>
 - The 2019 IEEE International Conference on Big Data (BigData2019), 2019.<br>
 - The 15th IEEE International Conference on e-Science (e-Science), 2019.<br>
@@ -30,6 +31,7 @@ description: Long Cheng, activities
 - The 6th Int. Conference on Knowledge Engineering and Semantic Web (KESW), 2015.
 
 #### **Reviewer for Journals and Conferences**
+- Journal of Parallel and Distributed Computing, 2020.<br>
 - IEEE Transactions on Automation Science and Engineering, 2020.<br>
 - Cluster Computing Journal, 2019.<br>
 - ACM Transactions on Database Systems, 2018.<br>

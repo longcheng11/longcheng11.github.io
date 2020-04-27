@@ -6,11 +6,17 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
+1. J. Liu, H. Shen, H. Chi, H. Narman, Y. Yang, L. Cheng, W. Chung. A low-cost multi-failure resilient replication scheme with data correlation for high data availability in cloud storage.  *IEEE/ACM Transactions on Networking*, 2020 (in minor revision).	
+
+1. Y. Wang, Y-C. Wang, C. Shi, L. Cheng, H. Li, X. Li. An edge 3D CNN accelerator for low power activity recognition. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2020 (in minor revision).	
+	
+1. C. Liu, Q. Zeng, L. Cheng, H. Duan, M. Zhou, J. Cheng. Privacy-preserving behavioral correctness verification of cross-organizational workflow with task synchronization patterns. *IEEE Transactions on Automation Science and Engineering*, 2020 (conditionally accepted).	
+
 1. Michael J. Maher, Ilias Tachmazidis, Grigoris Antoniou, Stephen Wade, Long Cheng. [Rethinking Defeasible Reasoning: A Scalable Approach](https://arxiv.org/abs/2001.00406). *Theory and Practice of Logic Programming*, 2020 (in press).
 
-1. Xuan Chen, Long Cheng (*CA*), Cong Liu, Qingzhi Liu, Jinwei Liu, Ying Mao, John Murphy. [A WOA-Based Optimization Approach for Task Scheduling in Cloud Computing Systems](http://dx.doi.org/10.1109/JSYST.2019.2960088). *IEEE Systems Journal*, 2019 (in press). 
+1. Xuan Chen, Long Cheng (*CA*), Cong Liu, Qingzhi Liu, Jinwei Liu, Ying Mao, John Murphy. [A WOA-Based Optimization Approach for Task Scheduling in Cloud Computing Systems](http://dx.doi.org/10.1109/JSYST.2019.2960088). *IEEE Systems Journal*, 2020 (in press). 
 
-1. Long Cheng, Boudewijn van Dongen, Wil van der Aalst. [Scalable Discovery of Hybrid Process Models in a Cloud Computing Environment](http://dx.doi.org/10.1109/TSC.2019.2906203). *IEEE Transactions on Services Computing*, 2019 (in press). 
+1. Long Cheng, Boudewijn van Dongen, Wil van der Aalst. [Scalable Discovery of Hybrid Process Models in a Cloud Computing Environment](http://dx.doi.org/10.1109/TSC.2019.2906203). *IEEE Transactions on Services Computing*,  13(2): 368-380, 2020. 
 
 1. Ying Wang, Huawei Li, Long Cheng, Xiaowei Li. [A QoS-QoR Aware CNN Accelerator Design Approach](http://dx.doi.org/10.1109/TCAD.2018.2877010). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 38(11): 1995-2007, 2019.
 

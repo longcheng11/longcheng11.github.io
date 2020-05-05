@@ -10,7 +10,7 @@ description: Long Cheng, publications
 
 1. Y. Wang, Y-C. Wang, C. Shi, L. Cheng, H. Li, X. Li. [An Edge 3D CNN Accelerator for Low Power Activity Recognition](https://xxx). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2020 (in minor revision).	
 	
-1. Cong. Liu, Qingtian Zeng, Long Cheng, Hua Duan, Mengchu. Zhou, Jiujun Cheng. [Privacy-preserving Behavioral Correctness Verification of Cross-organizational Workflow with Task Synchronization Patterns](https://xxx). *IEEE Transactions on Automation Science and Engineering*, 2020 (accepted).	
+1. Cong Liu, Qingtian Zeng, Long Cheng, Hua Duan, Mengchu Zhou, Jiujun Cheng. [Privacy-preserving Behavioral Correctness Verification of Cross-organizational Workflow with Task Synchronization Patterns](https://xxx). *IEEE Transactions on Automation Science and Engineering*, 2020 (accepted).	
 
 1. Michael J. Maher, Ilias Tachmazidis, Grigoris Antoniou, Stephen Wade, Long Cheng. [Rethinking Defeasible Reasoning: A Scalable Approach](https://arxiv.org/abs/2001.00406). *Theory and Practice of Logic Programming*, 2020 (in press).
 

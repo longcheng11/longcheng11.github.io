@@ -12,7 +12,7 @@ description: Long Cheng, publications
 	
 1. Cong Liu, Qingtian Zeng, Long Cheng (*CA*), Hua Duan, Mengchu Zhou, Jiujun Cheng. [Privacy-preserving Behavioral Correctness Verification of Cross-organizational Workflow with Task Synchronization Patterns](http://dx.doi.org/10.1109/TASE.2020.2993376). *IEEE Transactions on Automation Science and Engineering*, 2020 (in press).	
 
-1. Michael J. Maher, Ilias Tachmazidis, Grigoris Antoniou, Stephen Wade, Long Cheng. [Rethinking Defeasible Reasoning: A Scalable Approach](https://arxiv.org/abs/2001.00406). *Theory and Practice of Logic Programming*, 2020 (in press).
+1. Michael J. Maher, Ilias Tachmazidis, Grigoris Antoniou, Stephen Wade, Long Cheng. [Rethinking Defeasible Reasoning: A Scalable Approach](http://dx.doi.org/10.1017/S1471068420000010). *Theory and Practice of Logic Programming*, 20(4): 552–586, 2020.
 
 1. Xuan Chen, Long Cheng (*CA*), Cong Liu, Qingzhi Liu, Jinwei Liu, Ying Mao, John Murphy. [A WOA-Based Optimization Approach for Task Scheduling in Cloud Computing Systems](http://dx.doi.org/10.1109/JSYST.2019.2960088). *IEEE Systems Journal*, 2020 (in press). 
 

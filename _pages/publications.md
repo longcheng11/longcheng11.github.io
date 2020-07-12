@@ -8,6 +8,8 @@ description: Long Cheng, publications
 
 1. J. Liu, H. Shen, H. Chi, H. Narman, Y. Yang, L. Cheng, W. Chung. [A Low-cost Multi-failure Resilient Replication Scheme with Data Correlation for High Data Availability in Cloud Storage](https://xxx).  *IEEE/ACM Transactions on Networking*, 2020 (in minor revision).	
 
+1. Cong Liu, Yulong Pei, Long Cheng, Qingtian Zeng, Hua Duan. [Sampling Business Process Event Logs Using Graph-based Ranking Model](https://xxx). *Concurrency and Computation: Practice and Experience*, 2020 (accepted).
+
 1. Ying Wang, Yongchen Wang, Cong Shi, Long Cheng, Huawei Li, Xiaowei Li. [An Edge 3D CNN Accelerator for Low Power Activity Recognition](https://xxx). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2020 (accepted).	
 	
 1. Cong Liu, Qingtian Zeng, Long Cheng (*CA*), Hua Duan, Mengchu Zhou, Jiujun Cheng. [Privacy-preserving Behavioral Correctness Verification of Cross-organizational Workflow with Task Synchronization Patterns](http://dx.doi.org/10.1109/TASE.2020.2993376). *IEEE Transactions on Automation Science and Engineering*, 2020 (in press).	

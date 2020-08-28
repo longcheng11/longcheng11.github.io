@@ -12,11 +12,11 @@ description: Long Cheng, publications
 
 1. Ying Wang, Yongchen Wang, Cong Shi, Long Cheng, Huawei Li, Xiaowei Li. [An Edge 3D CNN Accelerator for Low Power Activity Recognition](https://dx.doi.org/10.1109/TCAD.2020.3011042). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2020 (in press).	
 	
-1. Cong Liu, Qingtian Zeng, Long Cheng*, Hua Duan, Mengchu Zhou, Jiujun Cheng. [Privacy-preserving Behavioral Correctness Verification of Cross-organizational Workflow with Task Synchronization Patterns](http://dx.doi.org/10.1109/TASE.2020.2993376). *IEEE Transactions on Automation Science and Engineering*, 2020 (in press).	
+1. Cong Liu, Qingtian Zeng, Long Cheng\*, Hua Duan, Mengchu Zhou, Jiujun Cheng. [Privacy-preserving Behavioral Correctness Verification of Cross-organizational Workflow with Task Synchronization Patterns](http://dx.doi.org/10.1109/TASE.2020.2993376). *IEEE Transactions on Automation Science and Engineering*, 2020 (in press).	
 
 1. Michael J. Maher, Ilias Tachmazidis, Grigoris Antoniou, Stephen Wade, Long Cheng. [Rethinking Defeasible Reasoning: A Scalable Approach](http://dx.doi.org/10.1017/S1471068420000010). *Theory and Practice of Logic Programming*, 20(4): 552–586, 2020.
 
-1. Xuan Chen, Long Cheng*, Cong Liu, Qingzhi Liu, Jinwei Liu, Ying Mao, John Murphy. [A WOA-Based Optimization Approach for Task Scheduling in Cloud Computing Systems](http://dx.doi.org/10.1109/JSYST.2019.2960088). *IEEE Systems Journal*, 2020 (in press). 
+1. Xuan Chen, Long Cheng\*, Cong Liu, Qingzhi Liu, Jinwei Liu, Ying Mao, John Murphy. [A WOA-Based Optimization Approach for Task Scheduling in Cloud Computing Systems](http://dx.doi.org/10.1109/JSYST.2019.2960088). *IEEE Systems Journal*, 2020 (in press). 
 
 1. Long Cheng, Boudewijn van Dongen, Wil van der Aalst. [Scalable Discovery of Hybrid Process Models in a Cloud Computing Environment](http://dx.doi.org/10.1109/TSC.2019.2906203). *IEEE Transactions on Services Computing*,  13(2): 368-380, 2020. 
 

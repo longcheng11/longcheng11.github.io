@@ -6,7 +6,7 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
-1. J. Liu, H. Shen, H. Chi, H. Narman, Y. Yang, L. Cheng, W. Chung. [A Low-cost Multi-failure Resilient Replication Scheme with Data Correlation for High Data Availability in Cloud Storage](https://xxx).  *IEEE/ACM Transactions on Networking*, 2020 (in press).	
+1. J. Liu, H. Shen, H. Chi, H. Narman, Y. Yang, L. Cheng, W. Chung. [A Low-cost Multi-failure Resilient Replication Scheme with Data Correlation for High Data Availability in Cloud Storage](https://dx.doi.org/10.1109/TNET.2020.3027814).  *IEEE/ACM Transactions on Networking*, 2020 (in press).	
 
 1. Cong Liu, Yulong Pei, Long Cheng, Qingtian Zeng, Hua Duan. [Sampling Business Process Event Logs Using Graph-based Ranking Model](https://dx.doi.org/10.1002/cpe.5974). *Concurrency and Computation: Practice and Experience*, 2020 (in press).
 

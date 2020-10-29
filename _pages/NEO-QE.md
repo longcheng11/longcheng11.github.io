@@ -35,24 +35,24 @@ The main tasks of NEO-QE are:
 #### **Scientific Publications Supported by the Project**
   (***All publications are openly accessible at my [ResearchGate](https://www.researchgate.net/project/NEtwork-aware-Optimization-for-Query-Executions-in-large-systems)***)
 
-1. Xuan Chen, Long Cheng (*CA*), Cong Liu, Qingzhi Liu, Jinwei Liu, Ying Mao, John Murphy. [A WOA-Based Optimization Approach for Task Scheduling in Cloud Computing Systems](http://dx.doi.org/10.1109/JSYST.2019.2960088). *IEEE Systems Journal*, 2019 (in press). 
+1. Xuan Chen, Long Cheng (*CA*), Cong Liu, Qingzhi Liu, Jinwei Liu, Ying Mao, John Murphy. [A WOA-Based Optimization Approach for Task Scheduling in Cloud Computing Systems](https://dx.doi.org/10.1109/JSYST.2019.2960088). *IEEE Systems Journal*, 2019 (in press). 
 
-1. Long Cheng, Boudewijn van Dongen, Wil van der Aalst. [Scalable Discovery of Hybrid Process Models in a Cloud Computing Environment](http://dx.doi.org/10.1109/TSC.2019.2906203). *IEEE Transactions on Services Computing*, 2019 (in press). 
+1. Long Cheng, Boudewijn van Dongen, Wil van der Aalst. [Scalable Discovery of Hybrid Process Models in a Cloud Computing Environment](https://dx.doi.org/10.1109/TSC.2019.2906203). *IEEE Transactions on Services Computing*, 2019 (in press). 
 
-1. Long Cheng, Spyros Kotoulas, Qingzhi Liu, Ying Wang. [Load-balancing Distributed Outer Joins through Operator Decomposition](http://dx.doi.org/10.1016/j.jpdc.2019.05.008). *Journal of Parallel and Distributed Computing*, 132: 21-35, 2019. 
+1. Long Cheng, Spyros Kotoulas, Qingzhi Liu, Ying Wang. [Load-balancing Distributed Outer Joins through Operator Decomposition](https://dx.doi.org/10.1016/j.jpdc.2019.05.008). *Journal of Parallel and Distributed Computing*, 132: 21-35, 2019. 
 
-1. Wenjia Zheng, Michael Tynes, Henry Gorelick, Ying Mao, Long Cheng, Yantian Hou. [FlowCon: Elastic Flow Configuration for Containerized Deep Learning Applications](http://dx.doi.org/10.1145/3337821.3337868). *ICPP'19: Proc. 48th International Conference on Parallel Processing*, pp.  87:1-87:10, Kyoto, Japan, Aug 2019.  
+1. Wenjia Zheng, Michael Tynes, Henry Gorelick, Ying Mao, Long Cheng, Yantian Hou. [FlowCon: Elastic Flow Configuration for Containerized Deep Learning Applications](https://dx.doi.org/10.1145/3337821.3337868). *ICPP'19: Proc. 48th International Conference on Parallel Processing*, pp.  87:1-87:10, Kyoto, Japan, Aug 2019.  
 
-1. Dawen Xu, Kouzi Xing, Cheng Liu, Ying Wang, Yulin Dai, Long Cheng, Huawei Li, Lei Zhang. [Resilient Neural Network Training for Accelerators with Computing Errors](http://dx.doi.org/10.1109/ASAP.2019.00-23). *ASAP'19: Proc. 30th IEEE International Conference on Application-specific Systems, Architectures and Processors*, pp. 99-102, New York, USA, July 2019. 
+1. Dawen Xu, Kouzi Xing, Cheng Liu, Ying Wang, Yulin Dai, Long Cheng, Huawei Li, Lei Zhang. [Resilient Neural Network Training for Accelerators with Computing Errors](https://dx.doi.org/10.1109/ASAP.2019.00-23). *ASAP'19: Proc. 30th IEEE International Conference on Application-specific Systems, Architectures and Processors*, pp. 99-102, New York, USA, July 2019. 
 
-1. Long Cheng, Cong Liu, Qingzhi Liu, Yucong Duan, John Murphy. [Learning Process Models in IoT Edge](http://dx.doi.org/10.1109/SERVICES.2019.00043). *SERVICES'19: Proc. 2019 IEEE World Congress on Services*, pp. 146-149, Milan, Italy, July 2019.
+1. Long Cheng, Cong Liu, Qingzhi Liu, Yucong Duan, John Murphy. [Learning Process Models in IoT Edge](https://dx.doi.org/10.1109/SERVICES.2019.00043). *SERVICES'19: Proc. 2019 IEEE World Congress on Services*, pp. 146-149, Milan, Italy, July 2019.
 
-1. Qingzhi Liu, Long Cheng, Tanir Ozcelebi, John Murphy, Johan Lukkien. [Deep Reinforcement Learning for IoT Network Dynamic Clustering in Edge Computing](http://dx.doi.org/10.1109/CCGRID.2019.00077). *CCGrid'19:  Proc. 19th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing*, pp. 600-603, Larnaca, Cyprus, May 2019. 
+1. Qingzhi Liu, Long Cheng, Tanir Ozcelebi, John Murphy, Johan Lukkien. [Deep Reinforcement Learning for IoT Network Dynamic Clustering in Edge Computing](https://dx.doi.org/10.1109/CCGRID.2019.00077). *CCGrid'19:  Proc. 19th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing*, pp. 600-603, Larnaca, Cyprus, May 2019. 
 
-1. Long Cheng, John Murphy, Qingzhi Liu, Chunliang Hao, Georgios Theodoropoulos. [Minimizing Network Traffic for Distributed Joins Using Lightweight Locality-Aware Scheduling](http://dx.doi.org/10.1007/978-3-319-96983-1).  *Euro-Par'18: Proc. 24th European Conference on Parallel Processing*, pp. 293-305, Turin, Italy, Aug 2018. 
+1. Long Cheng, John Murphy, Qingzhi Liu, Chunliang Hao, Georgios Theodoropoulos. [Minimizing Network Traffic for Distributed Joins Using Lightweight Locality-Aware Scheduling](https://dx.doi.org/10.1007/978-3-319-96983-1).  *Euro-Par'18: Proc. 24th European Conference on Parallel Processing*, pp. 293-305, Turin, Italy, Aug 2018. 
 
 
 #### **Workshop Supported by the Project**
 
-The 2019 International Workshop on Network-Aware Big Data Computing ([NEAC 2019](http://neac2019.ucd.ie/)), co-located with IEEE/ACM CCGrid.
+The 2019 International Workshop on Network-Aware Big Data Computing ([NEAC 2019](https://neac2019.ucd.ie/)), co-located with IEEE/ACM CCGrid.
 

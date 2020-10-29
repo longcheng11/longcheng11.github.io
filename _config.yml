@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Long Cheng
-email: long.cheng@ucd.ie
+email: long.cheng@dcu.ie
 description:  Academic webpage of Long Cheng
-url:  http://longcheng.eu
+url:  https://longcheng.eu
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 

@@ -34,7 +34,7 @@ Ph.D in Electronic Engineering, 2011.10 - 2014.08
 - [University of Duisburg-Essen](https://www.uni-due.de/en/), Duisburg, Germany<br>
 M.Sc in Communication Engineering, 2008.04 - 2010.11
 
-- [Harbin Institute of Technology](http://en.hit.edu.cn/), Harbin, China<br>
+- [Harbin Institute of Technology](https://en.hit.edu.cn/), Harbin, China<br>
 B.Eng in Electronic Engineering, 2003.09 - 2007.07
 
 

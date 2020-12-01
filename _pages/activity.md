@@ -33,6 +33,7 @@ description: Long Cheng, activities
 - The 6th Int. Conference on Knowledge Engineering and Semantic Web (KESW), 2015.
 
 #### **Reviewer for Journals and Conferences**
+- Future Generation Computer Systems, 2020.<br>
 - Journal of Parallel and Distributed Computing, 2020.<br>
 - IEEE Transactions on Automation Science and Engineering, 2020.<br>
 - Cluster Computing Journal, 2019.<br>

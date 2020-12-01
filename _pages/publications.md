@@ -6,6 +6,8 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
+1. Q. Liu, L. Cheng, R. Alves, T. Ozcelebi, F. Kuipers, G. Xu, J. Lukkien, S. Chen. Cluster-based Flow Control in Hybrid Software-Defined Wireless Sensor Networks. *Computer Networks*, 2020 (minor revision).
+
 1. C. Liu, L. Cheng, Q. Zeng, L. Wen. Formal Modeling and Discovery of Hierarchical Business Processes: A Petri Net based Approach. *IEEE Transactions on Systems, Man and Cybernetics: Systems*, 2020 (minor revision).
 
 1. Q. Liu, L. Cheng (CA), A. Jia, C. Liu. Deep Reinforcement Learning for Communication Flow Control in Wireless Mesh Networks. *IEEE Network Magazine*, 2020 (minor revision).

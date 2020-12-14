@@ -12,6 +12,8 @@ description: Long Cheng, publications
 
 1. Q. Liu, L. Cheng (CA), A. Jia, C. Liu. Deep Reinforcement Learning for Communication Flow Control in Wireless Mesh Networks. *IEEE Network Magazine*, 2020 (minor revision).
 
+1. Cong Liu, Qingtian Zeng, Long Cheng, Hua Duan, Jiujun Cheng Measuring Similarity for Data-aware Business Processes. *IEEE Transactions on Automation Science and Engineering*, 2020 (conditional accepted).
+
 1. Jinwei Liu, Haiying Shen, Hongmei Chi, Husnu Saner Narman, Yongyi Yang, Long Cheng, Wingyan Chung. [A Low-cost Multi-failure Resilient Replication Scheme with Data Correlation for High Data Availability in Cloud Storage](https://dx.doi.org/10.1109/TNET.2020.3027814).  *IEEE/ACM Transactions on Networking*, 2020 (in press).	
 
 1. Cong Liu, Yulong Pei, Long Cheng, Qingtian Zeng, Hua Duan. [Sampling Business Process Event Logs Using Graph-based Ranking Model](https://dx.doi.org/10.1002/cpe.5974). *Concurrency and Computation: Practice and Experience*, 2020 (in press).

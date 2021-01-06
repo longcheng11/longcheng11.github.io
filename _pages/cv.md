@@ -7,8 +7,12 @@ description: Long Cheng, cv
 
 
 #### **Employment History**
+
+- [North China Electric Power University](https://en.wikipedia.org/wiki/North_China_Electric_Power_University), Beijing, China<br>
+Full Professor, School of Control and Computer Engineering, 2020.12 -
+
 - [Dublin City University](https://www.dcu.ie/), Dublin, Ireland<br>
-Assistant Professor, School of Computing, 2019.09 - present
+Assistant Professor, School of Computing, 2019.09 - 2020.11
 
 - [University College Dublin](https://www.ucd.ie/), Dublin, Ireland<br>
 [Marie Curie Fellow](https://www.mariecuriealumni.eu/magazine/news/want-become-marie-sk%C5%82odowska-curie-fellow-individual-fellowships-if-spotlight), Performance Engineering Laboratory, 2018.07 - 2019.09

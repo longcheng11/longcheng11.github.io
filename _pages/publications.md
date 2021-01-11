@@ -7,15 +7,15 @@ description: Long Cheng, publications
 #### **Journals**
 
 
-1. C. Liu, L. Cheng, Q. Zeng, L. Wen. Formal Modeling and Discovery of Hierarchical Business Processes: A Petri Net based Approach. *IEEE Transactions on Systems, Man and Cybernetics: Systems*, 2020 (minor revision).
+1. Cong Liu, Long Cheng, Qingtian Zeng, Lijie Wen. Formal Modeling and Discovery of Hierarchical Business Processes: A Petri Net based Approach. *IEEE Transactions on Systems, Man and Cybernetics: Systems*, 2020 (minor revision).
 
-1. Long Cheng,  Ying Wang, Qingzhi Liu, Dick Epema, Cheng Liu, Ying Mao, John Murphy. [Network-Aware Locality Scheduling for Distributed Data Operators in Data Centers](). IEEE  Transactions on Parallel and Distributed Systems, 2021 (accepted)
+1. Long Cheng,  Ying Wang, Qingzhi Liu, Dick Epema, Cheng Liu, Ying Mao, John Murphy. [Network-Aware Locality Scheduling for Distributed Data Operators in Data Centers](). *IEEE  Transactions on Parallel and Distributed Systems*, 2021 (accepted)
 
 1. Qingzhi Liu, Long Cheng (CA), Adale Jia, Cong Liu. [Deep Reinforcement Learning for Communication Flow Control in Wireless Mesh Networks](). *IEEE Network Magazine*, 2021 (accepted).
 
 1. Cong Liu, Qingtian Zeng, Long Cheng (CA), Hua Duan, Jiujun Cheng. [Measuring Similarity for Data-aware Business Processes](). *IEEE Transactions on Automation Science and Engineering*, 2020 (in press).
 
-1. Qingzhi Liu, Long Cheng, Renan Alves, Tanir Ozcelebi, Fernando Kuipers, Guixian Xu, Johan Lukkien, Shanzhi Chen. [Cluster-based Flow Control in Hybrid Software-Defined Wireless Sensor Networks](). *Computer Networks*, 2020 (in press).
+1. Qingzhi Liu, Long Cheng, Renan Alves, Tanir Ozcelebi, Fernando Kuipers, Guixian Xu, Johan Lukkien, Shanzhi Chen. [Cluster-based Flow Control in Hybrid Software-Defined Wireless Sensor Networks](https://doi.org/10.1016/j.comnet.2020.107788). *Computer Networks*, 2020 (in press).
 
 1. Jinwei Liu, Haiying Shen, Hongmei Chi, Husnu Saner Narman, Yongyi Yang, Long Cheng, Wingyan Chung. [A Low-cost Multi-failure Resilient Replication Scheme with Data Correlation for High Data Availability in Cloud Storage](https://dx.doi.org/10.1109/TNET.2020.3027814).  *IEEE/ACM Transactions on Networking*, 2020 (in press).	
 

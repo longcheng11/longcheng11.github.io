@@ -13,10 +13,10 @@ bio: true
    </div>
    <div class="column right">
       <p>Long Cheng, PhD</p>
-      <p>Assistant Professor in Computing</p>
-      <p>L2.49, <a href="https://www.computing.dcu.ie/">School of Computing</a><br><a href="https://www.dcu.ie/">Dublin City University</a><br>Glasnevin, Dublin 9,  Ireland</p>
-      <p>Tel: +353-1-700-4244<br>
-      E-mail: long.cheng[AT]dcu.ie</p>
+      <p>Professor in Computer Science and Technology</p>
+      <p>E0617, <a href="https://www.computing.dcu.ie/">School of Control and Computer Engineering</a><br><a href="https://en.wikipedia.org/wiki/North_China_Electric_Power_University">North China Electric Power University</a><br>Changping District, Beijing, China</p>
+      <p>Tel: +86-10-6177-2129<br>
+      E-mail: lcheng[AT]ncepu.edu.cn</p>
       <p> <a href="https://ie.linkedin.com/pub/long-cheng/52/306/a5">LinkedIn</a>, <a href="https://scholar.google.de/citations?user=aI-bwLgAAAAJ&amp;hl=en">Google Scholar</a>, <a href="https://dblp.uni-trier.de/pers/hd/c/Cheng_0003:Long">DBLP</a></p>
    </div>
 </div>

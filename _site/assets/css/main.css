@@ -334,7 +334,7 @@ body { box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: 
 
 .left { float: left; width: 250px; }
 
-.right { float: left; width: 350px; }
+.right { float: left; width: 380px; }
 
 .site-header { border-bottom: 1px solid #e8e8e8; background-color: #fff; opacity: 0.95; position: fixed; left: 0px; top: 0px; width: 100%; z-index: 50; }
 

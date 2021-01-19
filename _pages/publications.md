@@ -9,7 +9,9 @@ description: Long Cheng, publications
 
 1. Cong Liu, Long Cheng, Qingtian Zeng, Lijie Wen. Formal Modeling and Discovery of Hierarchical Business Processes: A Petri Net based Approach. *IEEE Transactions on Systems, Man and Cybernetics: Systems*, 2020 (minor revision).
 
-1. Long Cheng,  Ying Wang, Qingzhi Liu, Dick Epema, Cheng Liu, Ying Mao, John Murphy. [Network-Aware Locality Scheduling for Distributed Data Operators in Data Centers](). *IEEE  Transactions on Parallel and Distributed Systems*, 2021 (accepted)
+1. Long Cheng, Ying Wang, Qingzhi Liu, Dick Epema, Cheng Liu, Ying Mao, John Murphy. [Network-Aware Locality Scheduling for Distributed Data Operators in Data Centers](). *IEEE  Transactions on Parallel and Distributed Systems*, 2021 (accepted).
+
+1. Mingming Liu, Long Cheng (CA), Yingqi Gu, Ying Wang, Qingzhi Liu, Noel O'Connor‬. [MPC-CSAS: Multi-Party Computation for Real-time Privacy-preserving Speed Advisory Systems](https://doi.org/10.1109/TITS.2021.3052840). *IEEE Transactions on Intelligent Transportation Systems*, 2021 (accepted).
 
 1. Qingzhi Liu, Long Cheng (CA), Adale Jia, Cong Liu. [Deep Reinforcement Learning for Communication Flow Control in Wireless Mesh Networks](). *IEEE Network Magazine*, 2021 (accepted).
 

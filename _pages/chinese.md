@@ -38,6 +38,7 @@ description: Long Cheng, chinese, 中文简介
 - [Markus Kr&ouml;tzsch](https://iccl.inf.tu-dresden.de/web/Markus_Kr%C3%B6tzsch) (德国德累斯顿工业大学教授)
 - [Cong Liu](https://research.tue.nl/en/persons/cong-liu) (山东理工大学教授)
 - [Qingzhi Liu](https://www.win.tue.nl/~qingzhiliu/index.html) （荷兰Wageningen大学讲师）
+- [Xiufeng Liu](http://xiufengliu.github.io) （丹麦科技大学副教授）
 - [Ying Mao](https://yingmao.github.io/) （美国Fordham大学助理教授）
 - [John Murphy](https://www.ucd.ie/research/people/computerscience/professorjohnmurphy/) （爱尔兰都柏林大学教授）
 - [Ilias Tachmazidis](https://iliastachmazidis.blogspot.co.uk/) （英国Huddersfield大学高级讲师）

@@ -32,7 +32,7 @@ description: Long Cheng, chinese, 中文简介
 
 
 #### **外校主要合作者**
-- [Wil van der Aalst](https://www.padsweb.rwth-aachen.de/wvdaalst/) (欧洲科学院院士，ACM/IEEE/IFIP Fellow, 洪堡教授)
+- [Wil van der Aalst](https://www.padsweb.rwth-aachen.de/wvdaalst/) (欧洲科学院院士, 洪堡教授，流程挖掘创始人)
 - [Dick Epema](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/dick-epema/?no_cache=1) (荷兰代尔夫特理工大学教授)
 - [Spyros Kotoulas](https://researcher.watson.ibm.com/researcher/view.php?person=ie-Spyros.Kotoulas) (Facebook英国工程部经理)
 - [Markus Kr&ouml;tzsch](https://iccl.inf.tu-dresden.de/web/Markus_Kr%C3%B6tzsch) (德国德累斯顿工业大学教授)

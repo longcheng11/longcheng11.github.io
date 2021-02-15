@@ -49,6 +49,8 @@ description: Long Cheng, publications
 
 #### **Proceedings**
 
+1. Jinwei Liu, Long Cheng. [SwiftS: A Dependency-Aware and Resource Efficient Scheduling for High Throughput in Clouds](). *INFOCOM 2021: IEEE International Conference on Computer Communications 2021*, Virtual Conference, May 2021.  (demo)
+
 1. Yulong Pei, Cong Liu, Chuanyang Zheng, Long Cheng. [Nonnegative Residual Matrix Factorization for Community Detection](https://dx.doi.org/10.1007%2F978-3-030-62005-9_15). *WISE'20: Proc. 21st International Conference on Web Information Systems Engineering*, Amsterdam and Leiden, Netherlands, Oct 2020.
 
 1. Wenjia Zheng, Yun Song, Zihao Guo, Yongchen Cui, Suwen Gu, Ying Mao, Long Cheng. [Target-based Resource Allocation for Deep Learning Applications in a Multi-tenancy System](https://dx.doi.org/10.1109/HPEC.2019.8916403). *HPEC'19: Proc. 23rd IEEE High Performance Extreme Computing Conference*, pp. 1-7, Waltham, USA, Sept 2019. 

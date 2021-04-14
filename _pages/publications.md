@@ -13,7 +13,7 @@ description: Long Cheng, publications
 
 1. Mingming Liu, Long Cheng (CA), Yingqi Gu, Ying Wang, Qingzhi Liu, Noel O'Connor‬. [MPC-CSAS: Multi-Party Computation for Real-time Privacy-preserving Speed Advisory Systems](https://doi.org/10.1109/TITS.2021.3052840). *IEEE Transactions on Intelligent Transportation Systems*, 2021 (in press).
 
-1. Qingzhi Liu, Long Cheng (CA), Adele Jia, Cong Liu. [Deep Reinforcement Learning for Communication Flow Control in Wireless Mesh Networks](https://doi.org/10.1109/MNET.011.2000303). *IEEE Network Magazine*, 2021 (in press).
+1. Qingzhi Liu, Long Cheng (CA), Adele Jia, Cong Liu. [Deep Reinforcement Learning for Communication Flow Control in Wireless Mesh Networks](https://doi.org/10.1109/MNET.011.2000303). *IEEE Network Magazine*, 35(2): 112-119, 2021.
 
 1. Cong Liu, Qingtian Zeng, Long Cheng (CA), Hua Duan, Jiujun Cheng. [Measuring Similarity for Data-aware Business Processes](https://doi.org/10.1109/TASE.2021.3049772). *IEEE Transactions on Automation Science and Engineering*, 2020 (in press).
 
@@ -21,7 +21,7 @@ description: Long Cheng, publications
 
 1. Jinwei Liu, Haiying Shen, Hongmei Chi, Husnu Saner Narman, Yongyi Yang, Long Cheng, Wingyan Chung. [A Low-cost Multi-failure Resilient Replication Scheme with Data Correlation for High Data Availability in Cloud Storage](https://dx.doi.org/10.1109/TNET.2020.3027814).  *IEEE/ACM Transactions on Networking*, 2020 (in press).	
 
-1. Cong Liu, Yulong Pei, Long Cheng, Qingtian Zeng, Hua Duan. [Sampling Business Process Event Logs Using Graph-based Ranking Model](https://dx.doi.org/10.1002/cpe.5974). *Concurrency and Computation: Practice and Experience*, 2020 (in press).
+1. Cong Liu, Yulong Pei, Long Cheng, Qingtian Zeng, Hua Duan. [Sampling Business Process Event Logs Using Graph-based Ranking Model](https://dx.doi.org/10.1002/cpe.5974). *Concurrency and Computation: Practice and Experience*, 33(5), 2021.
 
 1. Ying Wang, Yongchen Wang, Cong Shi, Long Cheng, Huawei Li, Xiaowei Li. [An Edge 3D CNN Accelerator for Low Power Activity Recognition](https://dx.doi.org/10.1109/TCAD.2020.3011042). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2020 (in press).	
 	
@@ -50,6 +50,8 @@ description: Long Cheng, publications
 #### **Proceedings**
 
 1. Jinwei Liu, Long Cheng. [SwiftS: A Dependency-Aware and Resource Efficient Scheduling for High Throughput in Clouds](). *INFOCOM 2021: IEEE International Conference on Computer Communications 2021*, Virtual Conference, May 2021.  (demo)
+
+1. Jinwei Liu, Long Cheng, Hongmei Chi. [DeepDive: Examining Determinants of Health Disparities in COVID-19 for Improving Pandemic Health Care](https://doi.org/10.1145/3448823.3448867). *ICVISP 2020: Proc. 4th International Conference on Vision, Image and Signal Processing*, Dec 2020.
 
 1. Yulong Pei, Cong Liu, Chuanyang Zheng, Long Cheng. [Nonnegative Residual Matrix Factorization for Community Detection](https://dx.doi.org/10.1007%2F978-3-030-62005-9_15). *WISE'20: Proc. 21st International Conference on Web Information Systems Engineering*, Amsterdam and Leiden, Netherlands, Oct 2020.
 

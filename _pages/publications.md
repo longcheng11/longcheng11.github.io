@@ -6,8 +6,11 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
+1. Kaiwei Zou, Ying Wang, Long Cheng, Songyun Qu, Huawei Li, Xiaowei Li. CAP: Communication-aware Automated Parallelization for Deep Learning Inference on CMP Architectures. *IEEE Transactions on Computers*, 2021 (minor revision).
 
-1. Cong Liu, Long Cheng, Qingtian Zeng, Lijie Wen. Formal Modeling and Discovery of Hierarchical Business Processes: A Petri Net based Approach. *IEEE Transactions on Systems, Man and Cybernetics: Systems*, 2021 (minor revision).
+1. Dawen Xu, Meng He, Cheng Liu, Ying Wang, Long Cheng, Huawei Li, Xiaowei Li, Kwang-Ting Cheng. [R2F: A Remote Retraining Framework for AIoT Processors with Computing Errors](https://doi.org/10.1109/TVLSI.2021.3089224). *IEEE Transactions on Very Large Scale Integration Systems*, 2021.
+
+1. Cong Liu, Long Cheng, Qingtian Zeng, Lijie Wen. Formal Modeling and Discovery of Hierarchical Business Processes: A Petri Net based Approach. *IEEE Transactions on Systems, Man and Cybernetics: Systems*, 2021.
 
 1. Long Cheng, Ying Wang, Qingzhi Liu, Dick Epema, Cheng Liu, Ying Mao, John Murphy. [Network-Aware Locality Scheduling for Distributed Data Operators in Data Centers](https://doi.org/10.1109/TPDS.2021.3053241). *IEEE Transactions on Parallel and Distributed Systems*, 32(6): 1494-1510, 2021.
 
@@ -23,7 +26,7 @@ description: Long Cheng, publications
 
 1. Cong Liu, Yulong Pei, Long Cheng, Qingtian Zeng, Hua Duan. [Sampling Business Process Event Logs Using Graph-based Ranking Model](https://dx.doi.org/10.1002/cpe.5974). *Concurrency and Computation: Practice and Experience*, 33(5), 2021.
 
-1. Ying Wang, Yongchen Wang, Cong Shi, Long Cheng, Huawei Li, Xiaowei Li. [An Edge 3D CNN Accelerator for Low Power Activity Recognition](https://dx.doi.org/10.1109/TCAD.2020.3011042). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 40(5): 918-930, 2021 .	
+1. Ying Wang, Yongchen Wang, Cong Shi, Long Cheng, Huawei Li, Xiaowei Li. [An Edge 3D CNN Accelerator for Low Power Activity Recognition](https://dx.doi.org/10.1109/TCAD.2020.3011042). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 40(5): 918-930, 2021.	
 	
 1. Cong Liu, Qingtian Zeng, Long Cheng (CA), Hua Duan, Mengchu Zhou, Jiujun Cheng. [Privacy-preserving Behavioral Correctness Verification of Cross-organizational Workflow with Task Synchronization Patterns](https://dx.doi.org/10.1109/TASE.2020.2993376). *IEEE Transactions on Automation Science and Engineering*, 2020 (in press).	
 
@@ -48,6 +51,8 @@ description: Long Cheng, publications
 1. Long Cheng, Spyros Kotoulas. [Scale-Out Processing of Large RDF Datasets](https://dx.doi.org/10.1109/TBDATA.2015.2505719). *IEEE Transactions on Big Data*, 1(4): 138-150, 2015.
 
 #### **Proceedings**
+
+1. Jianbin Li, Ketong Qu, Jingchen Yan, Liting Zhou, Long Cheng. [TEBC-Net: An Effective Relation Extraction Approach for Simple Question Answering over Knowledge Graphs](). *KSEM 2021: Proc. 14th International Conference on Knowledge Science, Engineering and Management*, Tokyo, Japan, August 2021.
 
 1. Jinwei Liu, Long Cheng. [SwiftS: A Dependency-Aware and Resource Efficient Scheduling for High Throughput in Clouds](). *INFOCOM 2021: IEEE International Conference on Computer Communications 2021*, Virtual Conference, May 2021.  (demo)
 

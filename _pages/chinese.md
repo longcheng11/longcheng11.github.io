@@ -6,11 +6,16 @@ description: Long Cheng, chinese, 中文简介
 ---
 
 #### **个人简介**
-程龙，博士，现为华北电力大学控制与计算机工程学院教授、爱尔兰国家数据分析研究中心访问教授。他之前是爱尔兰都柏林城市大学计算机学院助理教授、欧盟玛丽居里学者。主要研究方向是并行分布式计算、深度学习、云计算和大数据处理以及这些技术在流程挖掘与能源大数据上的应用。曾在华为德国，IBM都柏林研究院工作过，并且在德国德累斯顿工业大学和荷兰埃因霍温理工大学从事过博士后研究，具有多年一线大数据系统和算法设计、开发与优化经验, 并于2017年获得欧盟资助个人科研最高奖项之一玛丽居里个人基金。他在并行分布式计算和大数据处理的权威期刊与会议比如TPDS, TON, TSC, TCC, TCAD, TASE, TSMC, TITS, TBD, IEEE Network, JPDC, ICPP, CIKM, CCGrid, EuroPar和HiPC上发表近50篇文章，并且长期为对应的期刊和会议审稿，同时也是IPDPS，ICPP, CCGrid和CLUSTER等知名国际会议的程序委员会成员。 程龙于2007年本科毕业于哈尔滨工业大学，2010年硕士毕业于德国杜伊斯堡-艾森大学(硕士论文由华为德国公司资助)，并于2014年获得爱尔兰国立大学-梅努斯的博士学位(由爱尔兰国家研究委员会全额博士奖学金资助)，目前是IEEE高级会员。
+程龙，博士，现为华北电力大学控制与计算机工程学院教授、爱尔兰国家数据分析研究中心访问教授。他之前是爱尔兰都柏林城市大学计算机学院助理教授、欧盟玛丽居里学者。主要研究方向是并行分布式计算、深度学习、云计算和大数据处理以及这些技术在流程挖掘与能源大数据上的应用。曾在华为德国，IBM都柏林研究院工作过，并且在德国德累斯顿工业大学和荷兰埃因霍温理工大学从事过博士后研究，具有多年一线大数据系统和算法设计、开发与优化经验, 并于2018年获得欧盟资助个人科研最高奖项之一玛丽居里个人基金。他在并行分布式计算和大数据处理的权威期刊与会议比如TPDS, TON, TSC, TCC, TCAD, TASE, TSMC, TITS, TVLSI, TBD, IEEE Network, JPDC, ICPP, CIKM, CCGrid, EuroPar和HiPC上发表近50篇文章，并且长期为对应的期刊和会议审稿，同时也是IPDPS，ICPP, CCGrid和CLUSTER等知名国际会议的程序委员会成员。 程龙于2007年本科毕业于哈尔滨工业大学，2010年硕士毕业于德国杜伊斯堡-艾森大学(硕士论文由华为德国公司资助)，并于2014年获得爱尔兰国立大学-梅努斯的博士学位(由爱尔兰国家研究委员会全额博士奖学金资助)，目前是IEEE高级会员。
 
 
 #### **部分最新论文**
-1. C. Liu, **L. Cheng**, Q. Zeng, L. Wen. Formal Modeling and Discovery of Hierarchical Business Processes: A Petri Net based Approach. *IEEE Transactions on Systems, Man and Cybernetics: Systems*, 2020 (minor revision, 中科院一区).
+
+1. K. Zou, Y. Wang, **L. Cheng**, S. Qu, H. Li, X. Li. CAP: Communication-aware Automated Parallelization for Deep Learning Inference on CMP Architectures. *IEEE Transactions on Computers*, 2021 (minor revision, CCF-A).
+
+1. D. Xu, M. He, C. Liu, Y. Wang, **L. Cheng**, H. Li, X. Li, K. Cheng. [R2F: A Remote Retraining Framework for AIoT Processors with Computing Errors](https://doi.org/10.1109/TVLSI.2021.3089224). *IEEE Transactions on Very Large Scale Integration Systems*, 2021 (CCF-B).
+
+1. C. Liu, **L. Cheng**, Q. Zeng, L. Wen. Formal Modeling and Discovery of Hierarchical Business Processes: A Petri Net based Approach. *IEEE Transactions on Systems, Man and Cybernetics: Systems*, 2021 (中科院一区).
 
 1. **L. Cheng**, Y. Wang, Q. Liu, D. Epema, C. Liu, Y. Mao, J. Murphy. [Network-Aware Locality Scheduling for Distributed Data Operators in Data Centers](https://doi.org/10.1109/TPDS.2021.3053241). *IEEE Transactions on Parallel and Distributed Systems*, 2021 (CCF-A).
 

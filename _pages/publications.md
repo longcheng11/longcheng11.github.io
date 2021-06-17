@@ -10,6 +10,8 @@ description: Long Cheng, publications
 
 1. Dawen Xu, Meng He, Cheng Liu, Ying Wang, Long Cheng, Huawei Li, Xiaowei Li, Kwang-Ting Cheng. [R2F: A Remote Retraining Framework for AIoT Processors with Computing Errors](https://doi.org/10.1109/TVLSI.2021.3089224). *IEEE Transactions on Very Large Scale Integration Systems*, 2021.
 
+1. Ying Wang, Yintao He, Long Cheng, Huawei Li, Xiaowei Li. [A Fast Precision Tuning Solution for Always-On DNN Accelerators](https://doi.org/10.1109/TCAD.2021.3089667). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2021.
+
 1. Cong Liu, Long Cheng, Qingtian Zeng, Lijie Wen. Formal Modeling and Discovery of Hierarchical Business Processes: A Petri Net based Approach. *IEEE Transactions on Systems, Man and Cybernetics: Systems*, 2021.
 
 1. Long Cheng, Ying Wang, Qingzhi Liu, Dick Epema, Cheng Liu, Ying Mao, John Murphy. [Network-Aware Locality Scheduling for Distributed Data Operators in Data Centers](https://doi.org/10.1109/TPDS.2021.3053241). *IEEE Transactions on Parallel and Distributed Systems*, 32(6): 1494-1510, 2021.

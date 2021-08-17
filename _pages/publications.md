@@ -6,7 +6,7 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
-1. Kaiwei Zou, Ying Wang, Long Cheng, Songyun Qu, Huawei Li, Xiaowei Li. CAP: Communication-aware Automated Parallelization for Deep Learning Inference on CMP Architectures. *IEEE Transactions on Computers*, 2021.
+1. Kaiwei Zou, Ying Wang, Long Cheng, Songyun Qu, Huawei Li, Xiaowei Li. [CAP: Communication-aware Automated Parallelization for Deep Learning Inference on CMP Architectures](https://doi.org/10.1109/TC.2021.3099688). *IEEE Transactions on Computers*, 2021.
 
 1. Dawen Xu, Meng He, Cheng Liu, Ying Wang, Long Cheng, Huawei Li, Xiaowei Li, Kwang-Ting Cheng. [R2F: A Remote Retraining Framework for AIoT Processors with Computing Errors](https://doi.org/10.1109/TVLSI.2021.3089224). *IEEE Transactions on Very Large Scale Integration Systems*, 2021.
 
@@ -54,13 +54,13 @@ description: Long Cheng, publications
 
 #### **Proceedings**
 
-1. Jianbin Li, Ketong Qu, Jingchen Yan, Liting Zhou, Long Cheng. [TEBC-Net: An Effective Relation Extraction Approach for Simple Question Answering over Knowledge Graphs](). *KSEM 2021: Proc. 14th International Conference on Knowledge Science, Engineering and Management*, Tokyo, Japan, August 2021.
+1. Jianbin Li, Ketong Qu, Jingchen Yan, Liting Zhou, Long Cheng. [TEBC-Net: An Effective Relation Extraction Approach for Simple Question Answering over Knowledge Graphs](https://doi.org/10.1007/978-3-030-82136-4_13). *KSEM 2021: Proc. 14th International Conference on Knowledge Science, Engineering and Management*, pp. 154-165, Tokyo, Japan, August 2021.
 
-1. Jinwei Liu, Long Cheng. [SwiftS: A Dependency-Aware and Resource Efficient Scheduling for High Throughput in Clouds](). *INFOCOM 2021: IEEE International Conference on Computer Communications 2021*, Virtual Conference, May 2021.  (demo)
+1. Jinwei Liu, Long Cheng. [SwiftS: A Dependency-Aware and Resource Efficient Scheduling for High Throughput in Clouds](https://doi.org/10.1109/INFOCOMWKSHPS51825.2021.9484459). *INFOCOM 2021: IEEE International Conference on Computer Communications 2021*, Virtual Conference, May 2021.  (demo)
 
 1. Jinwei Liu, Long Cheng, Hongmei Chi. [DeepDive: Examining Determinants of Health Disparities in COVID-19 for Improving Pandemic Health Care](https://doi.org/10.1145/3448823.3448867). *ICVISP 2020: Proc. 4th International Conference on Vision, Image and Signal Processing*, Dec 2020.
 
-1. Yulong Pei, Cong Liu, Chuanyang Zheng, Long Cheng. [Nonnegative Residual Matrix Factorization for Community Detection](https://dx.doi.org/10.1007%2F978-3-030-62005-9_15). *WISE'20: Proc. 21st International Conference on Web Information Systems Engineering*, Amsterdam and Leiden, Netherlands, Oct 2020.
+1. Yulong Pei, Cong Liu, Chuanyang Zheng, Long Cheng. [Nonnegative Residual Matrix Factorization for Community Detection](https://dx.doi.org/10.1007%2F978-3-030-62005-9_15). *WISE'20: Proc. 21st International Conference on Web Information Systems Engineering*,  pp. 196-209, Amsterdam and Leiden, Netherlands, Oct 2020.
 
 1. Wenjia Zheng, Yun Song, Zihao Guo, Yongchen Cui, Suwen Gu, Ying Mao, Long Cheng. [Target-based Resource Allocation for Deep Learning Applications in a Multi-tenancy System](https://dx.doi.org/10.1109/HPEC.2019.8916403). *HPEC'19: Proc. 23rd IEEE High Performance Extreme Computing Conference*, pp. 1-7, Waltham, USA, Sept 2019. 
 

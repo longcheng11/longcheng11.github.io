@@ -29,7 +29,7 @@ description: Long Cheng, chinese, 中文简介
 
 1. Q. Liu, **L. Cheng**, R. Alves, T. Ozcelebi, F. Kuipers, G. Xu, J. Lukkien, S. Chen. [Cluster-based Flow Control in Hybrid Software-Defined Wireless Sensor Networks](https://doi.org/10.1016/j.comnet.2020.107788). *Computer Networks*, 2020 (CCF-B).
 
-1. J. Liu, H. Shen, H. Chi, H. Narman, Y. Yang, **L. Cheng**, W. Chung. [A Low-cost Multi-failure Resilient Replication Scheme with Data Correlation for High Data Availability in Cloud Storage](https://dx.doi.org/10.1109/TNET.2020.3027814).  *IEEE/ACM Transactions on Networking*, 2020 (CCF-A).	
+1. J. Liu, H. Shen, H. Chi, H. Narman, Y. Yang, **L. Cheng**, W. Chung. [A Low-cost Multi-failure Resilient Replication Scheme with Data Correlation for High Data Availability in Cloud Storage](https://dx.doi.org/10.1109/TNET.2020.3027814).  *IEEE/ACM Transactions on Networking*, 29(4): 1436-1451, 2021 (CCF-A).	
 
 1. Y. Wang, Yc. Wang, C. Shi, **L. Cheng**, H. Li, X. Li. [An Edge 3D CNN Accelerator for Low Power Activity Recognition](https://dx.doi.org/10.1109/TCAD.2020.3011042). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2020 (CCF-A).	
 	

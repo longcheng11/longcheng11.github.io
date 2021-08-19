@@ -38,11 +38,13 @@ description: Long Cheng, chinese, 中文简介
 1. **L. Cheng**, B. van Dongen, W. van der Aalst. [Scalable Discovery of Hybrid Process Models in a Cloud Computing Environment](https://dx.doi.org/10.1109/TSC.2019.2906203). *IEEE Transactions on Services Computing*,  2020. (CCF-B)
 
 
-#### **部分研究项目**
+#### **主持项目**
 
 1. 国家重点研发计划：保障冬奥赛事网络和系统不间断运行的XX关键技术研究与应用。子课题负责人，20万元，2021-2022.
 
 1. 中央高校基金面上项目: 边缘计算中深度学习推理并行执行的优化研究。项目负责人，15万元， 2021-2022.
+
+1. 欧盟H2020玛丽居里项目：大型分布式系统中网络感知的数据查询优化。项目负责人，20万欧元，2018-2019.
 
 #### **外校主要合作者**
 - [Wil van der Aalst](https://www.padsweb.rwth-aachen.de/wvdaalst/) (欧洲科学院院士，洪堡教授，流程挖掘创始人)

@@ -6,21 +6,23 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
-1. Kaiwei Zou, Ying Wang, Long Cheng, Songyun Qu, Huawei Li, Xiaowei Li. [CAP: Communication-aware Automated Parallelization for Deep Learning Inference on CMP Architectures](https://doi.org/10.1109/TC.2021.3099688). *IEEE Transactions on Computers*, 2021.
+1. Kaiwei Zou, Ying Wang, Long Cheng, Songyun Qu, Huawei Li, Xiaowei Li. [CAP: Communication-aware Automated Parallelization for Deep Learning Inference on CMP Architectures](https://doi.org/10.1109/TC.2021.3099688). *IEEE Transactions on Computers*, 2021  (in press).
 
-1. Dawen Xu, Meng He, Cheng Liu, Ying Wang, Long Cheng, Huawei Li, Xiaowei Li, Kwang-Ting Cheng. [R2F: A Remote Retraining Framework for AIoT Processors with Computing Errors](https://doi.org/10.1109/TVLSI.2021.3089224). *IEEE Transactions on Very Large Scale Integration Systems*, 2021.
+1. Dawen Xu, Meng He, Cheng Liu, Ying Wang, Long Cheng, Huawei Li, Xiaowei Li, Kwang-Ting Cheng. [R2F: A Remote Retraining Framework for AIoT Processors with Computing Errors](https://doi.org/10.1109/TVLSI.2021.3089224). *IEEE Transactions on Very Large Scale Integration Systems*, 2021  (in press).
 
-1. Ying Wang, Yintao He, Long Cheng, Huawei Li, Xiaowei Li. [A Fast Precision Tuning Solution for Always-On DNN Accelerators](https://doi.org/10.1109/TCAD.2021.3089667). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2021.
+1. Ying Wang, Yintao He, Long Cheng, Huawei Li, Xiaowei Li. [A Fast Precision Tuning Solution for Always-On DNN Accelerators](https://doi.org/10.1109/TCAD.2021.3089667). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2021  (in press).
 
 1. Cong Liu, Long Cheng, Qingtian Zeng, Lijie Wen. Formal Modeling and Discovery of Hierarchical Business Processes: A Petri Net based Approach. *IEEE Transactions on Systems, Man and Cybernetics: Systems*, 2021.
 
-1. Long Cheng, Ying Wang, Qingzhi Liu, Dick Epema, Cheng Liu, Ying Mao, John Murphy. [Network-Aware Locality Scheduling for Distributed Data Operators in Data Centers](https://doi.org/10.1109/TPDS.2021.3053241). *IEEE Transactions on Parallel and Distributed Systems*, 32(6): 1494-1510, 2021.
-
 1. Mingming Liu, Long Cheng (CA), Yingqi Gu, Ying Wang, Qingzhi Liu, Noel O'Connor‬. [MPC-CSAS: Multi-Party Computation for Real-time Privacy-preserving Speed Advisory Systems](https://doi.org/10.1109/TITS.2021.3052840). *IEEE Transactions on Intelligent Transportation Systems*, 2021 (in press).
+
+1. Cong Liu, Qingtian Zeng, Long Cheng (CA), Hua Duan, Jiujun Cheng. [Measuring Similarity for Data-aware Business Processes](https://doi.org/10.1109/TASE.2021.3049772). *IEEE Transactions on Automation Science and Engineering*, 2020 (in press).
 
 1. Qingzhi Liu, Long Cheng (CA), Adele Jia, Cong Liu. [Deep Reinforcement Learning for Communication Flow Control in Wireless Mesh Networks](https://doi.org/10.1109/MNET.011.2000303). *IEEE Network Magazine*, 35(2): 112-119, 2021.
 
-1. Cong Liu, Qingtian Zeng, Long Cheng (CA), Hua Duan, Jiujun Cheng. [Measuring Similarity for Data-aware Business Processes](https://doi.org/10.1109/TASE.2021.3049772). *IEEE Transactions on Automation Science and Engineering*, 2020 (in press).
+1. Long Cheng, Ying Wang, Qingzhi Liu, Dick Epema, Cheng Liu, Ying Mao, John Murphy. [Network-Aware Locality Scheduling for Distributed Data Operators in Data Centers](https://doi.org/10.1109/TPDS.2021.3053241). *IEEE Transactions on Parallel and Distributed Systems*, 32(6): 1494-1510, 2021.
+
+1. Xuan Chen, Feng Cheng, Cong Liu, Long Cheng, Yin Mao. [An Improved Wolf Pack Algorithm for Optimization Problems: Design and Evaluation](https://doi.org/10.1371/journal.pone.0254239). *PLOS ONE*, 16(8), 2021.
 
 1. Qingzhi Liu, Long Cheng, Renan Alves, Tanir Ozcelebi, Fernando Kuipers, Guixian Xu, Johan Lukkien, Shanzhi Chen. [Cluster-based Flow Control in Hybrid Software-Defined Wireless Sensor Networks](https://doi.org/10.1016/j.comnet.2020.107788). *Computer Networks*, 187: 107788, 2021.
 
@@ -53,6 +55,8 @@ description: Long Cheng, publications
 1. Long Cheng, Spyros Kotoulas. [Scale-Out Processing of Large RDF Datasets](https://dx.doi.org/10.1109/TBDATA.2015.2505719). *IEEE Transactions on Big Data*, 1(4): 138-150, 2015.
 
 #### **Proceedings**
+
+1. 王颖，刘聪，闻立杰，曾庆田，**程龙**. [一种分层多实例过程模型挖掘方法](). *中国业务过程管理大会*， 2021 （最佳学生论文奖，最具有企业应用价值奖).
 
 1. Jianbin Li, Ketong Qu, Jingchen Yan, Liting Zhou, Long Cheng. [TEBC-Net: An Effective Relation Extraction Approach for Simple Question Answering over Knowledge Graphs](https://doi.org/10.1007/978-3-030-82136-4_13). *KSEM 2021: Proc. 14th International Conference on Knowledge Science, Engineering and Management*, pp. 154-165, Tokyo, Japan, August 2021.
 

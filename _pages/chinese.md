@@ -11,6 +11,8 @@ description: Long Cheng, chinese, 中文简介
 
 #### **部分最新论文**
 
+1. 王颖，刘聪，闻立杰，曾庆田，**程龙**. [一种分层多实例过程模型挖掘方法](). *中国业务过程管理大会*， 2021 （最佳学生论文奖，最具有企业应用价值奖).
+
 1. K. Zou, Y. Wang, **L. Cheng**, S. Qu, H. Li, X. Li. [CAP: Communication-aware Automated Parallelization for Deep Learning Inference on CMP Architectures](https://doi.org/10.1109/TC.2021.3099688). *IEEE Transactions on Computers*, 2021 (CCF-A).
 
 1. Y. Wang, Y. He, **L. Cheng**, H. Li, X. Li. [A Fast Precision Tuning Solution for Always-On DNN Accelerators](https://doi.org/10.1109/TCAD.2021.3089667). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2021 (CCF-A).

@@ -6,7 +6,13 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
-1. Kaiwei Zou, Ying Wang, Long Cheng, Songyun Qu, Huawei Li, Xiaowei Li. [CAP: Communication-aware Automated Parallelization for Deep Learning Inference on CMP Architectures](https://doi.org/10.1109/TC.2021.3099688). *IEEE Transactions on Computers*, 2021  (in press).
+1. Yifeng Huang, Long Cheng (CA), Lianting Xue, Cong Liu, Yuancheng Li, Jianbin Li, Tomas Ward. [Deep Adversarial Imitation Reinforcement Learning for QoS-aware Cloud Job Scheduling](). *IEEE Systems Journal*, 2021 (in press).
+
+1. Qingzhi Liu, Tiancong Xia, Long Cheng (CA), Merijn van Eijk, Tanir Ozcelebi, Ying Mao. [Deep Reinforcement Learning for Load-Balancing Aware Network Control in IoT Edge Systems](https://doi.org/10.1109/TPDS.2021.3116863).  *IEEE Transactions on Parallel and Distributed Systems*, 2021  (in press).
+
+1. Kaiwei Zou, Ying Wang, Long Cheng, Songyun Qu, Huawei Li, Xiaowei Li. [CAP: Communication-aware Automated Parallelization for Deep Learning Inference on CMP Architectures](https://doi.org/10.1109/TC.2021.3099688). *IEEE Transactions on Computers*, 2021 (in press).
+
+1. Feng Cheng, Yifeng Huang, Bhavana Tanpure, Pawan Sawalani, Long Cheng (CA), Cong Liu. [Cost-Aware Job Scheduling for Cloud Instances using Deep Reinforcement Learning](https://doi.org/10.1007/s10586-021-03436-8). *Cluster Computing*, 2021 (in press).
 
 1. Dawen Xu, Meng He, Cheng Liu, Ying Wang, Long Cheng, Huawei Li, Xiaowei Li, Kwang-Ting Cheng. [R2F: A Remote Retraining Framework for AIoT Processors with Computing Errors](https://doi.org/10.1109/TVLSI.2021.3089224). *IEEE Transactions on Very Large Scale Integration Systems*, 2021  (in press).
 
@@ -56,11 +62,15 @@ description: Long Cheng, publications
 
 #### **Proceedings**
 
-1. 王颖，刘聪，闻立杰，曾庆田，**程龙**. [一种分层多实例过程模型挖掘方法](). *中国业务过程管理大会*， 2021 （最佳学生论文奖，最具有企业应用价值奖).
+1. Li Du, Long Cheng, Cong Liu. [Process Mining for Wind Turbine Maintenance Process Analysis: A Case Study](). *EI2: Proc. 5th IEEE Conference on Energy Internet and Energy System Integration*, Taiyuan, China, Nov 2021.
+
+1. 王颖，刘聪，闻立杰，曾庆田，程龙. [一种分层多实例过程模型挖掘方法](). *中国业务过程管理大会*， August 2021 （最佳学生论文奖，最具有企业应用价值奖).
 
 1. Jianbin Li, Ketong Qu, Jingchen Yan, Liting Zhou, Long Cheng. [TEBC-Net: An Effective Relation Extraction Approach for Simple Question Answering over Knowledge Graphs](https://doi.org/10.1007/978-3-030-82136-4_13). *KSEM 2021: Proc. 14th International Conference on Knowledge Science, Engineering and Management*, pp. 154-165, Tokyo, Japan, August 2021.
 
-1. Jinwei Liu, Long Cheng. [SwiftS: A Dependency-Aware and Resource Efficient Scheduling for High Throughput in Clouds](https://doi.org/10.1109/INFOCOMWKSHPS51825.2021.9484459). *INFOCOM 2021: IEEE International Conference on Computer Communications 2021*, Virtual Conference, May 2021.  (demo)
+1. Jinwei Liu, Long Cheng, Hongmei Chi, Cong Liu, Richard Alo: [CDetector: Extracting Textual Features of Financial Social Media to Detect Cyber Attacks](https://doi.org/10.1109/ICCCN52240.2021.9522290). *ICCCN'21: Proc. 30th International Conference on Computer Communications and Networks*, Athens, Greece, July 2021.
+
+1. Jinwei Liu, Long Cheng. [SwiftS: A Dependency-Aware and Resource Efficient Scheduling for High Throughput in Clouds](https://doi.org/10.1109/INFOCOMWKSHPS51825.2021.9484459). *INFOCOM 2021: Proc. IEEE International Conference on Computer Communications 2021*, Virtual Conference, May 2021.  (demo)
 
 1. Jinwei Liu, Long Cheng, Hongmei Chi. [DeepDive: Examining Determinants of Health Disparities in COVID-19 for Improving Pandemic Health Care](https://doi.org/10.1145/3448823.3448867). *ICVISP 2020: Proc. 4th International Conference on Vision, Image and Signal Processing*, Dec 2020.
 

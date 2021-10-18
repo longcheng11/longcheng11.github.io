@@ -6,6 +6,9 @@ description: Long Cheng, teaching
 ---
 #### **Teaching Experience**
 
+- North China Electric Power University (Professor)<br>
+Compiler Technologies (in Chinese), 2021
+
 - Dublin City University (Lecturer)<br>
 Cloud Technologies (CA675), 2020<br>
 System Software (CA644), 2020<br>

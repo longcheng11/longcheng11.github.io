@@ -6,21 +6,23 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
-1. Yifeng Huang, Long Cheng (CA), Lianting Xue, Cong Liu, Yuancheng Li, Jianbin Li, Tomas Ward. [Deep Adversarial Imitation Reinforcement Learning for QoS-aware Cloud Job Scheduling](). *IEEE Systems Journal*, 2021 (in press).
+1. Ying Mao, Yuqi Fu, Wenjia Zheng, Long Cheng, Qingzhi Liu, Dingwen Tao. [Speculative Container Scheduling for Deep Learning Applications in a Kubernetes Cluster](). *IEEE Systems Journal*, 2021 (in press).
 
-1. Qingzhi Liu, Tiancong Xia, Long Cheng (CA), Merijn van Eijk, Tanir Ozcelebi, Ying Mao. [Deep Reinforcement Learning for Load-Balancing Aware Network Control in IoT Edge Systems](https://doi.org/10.1109/TPDS.2021.3116863).  *IEEE Transactions on Parallel and Distributed Systems*, 2021  (in press).
+1. Yifeng Huang, Long Cheng (CA), Lianting Xue, Cong Liu, Yuancheng Li, Jianbin Li, Tomas Ward. [Deep Adversarial Imitation Reinforcement Learning for QoS-aware Cloud Job Scheduling](https://doi.org/10.1109/JSYST.2021.3122126). *IEEE Systems Journal*, 2021 (in press).
+
+1. Qingzhi Liu, Tiancong Xia, Long Cheng (CA), Merijn van Eijk, Tanir Ozcelebi, Ying Mao. [Deep Reinforcement Learning for Load-Balancing Aware Network Control in IoT Edge Systems](https://doi.org/10.1109/TPDS.2021.3116863).  *IEEE Transactions on Parallel and Distributed Systems*, 33(6): 1491-1502, 2022.
 
 1. Kaiwei Zou, Ying Wang, Long Cheng, Songyun Qu, Huawei Li, Xiaowei Li. [CAP: Communication-aware Automated Parallelization for Deep Learning Inference on CMP Architectures](https://doi.org/10.1109/TC.2021.3099688). *IEEE Transactions on Computers*, 2021 (in press).
 
 1. Feng Cheng, Yifeng Huang, Bhavana Tanpure, Pawan Sawalani, Long Cheng (CA), Cong Liu. [Cost-Aware Job Scheduling for Cloud Instances using Deep Reinforcement Learning](https://doi.org/10.1007/s10586-021-03436-8). *Cluster Computing*, 2021 (in press).
 
-1. Dawen Xu, Meng He, Cheng Liu, Ying Wang, Long Cheng, Huawei Li, Xiaowei Li, Kwang-Ting Cheng. [R2F: A Remote Retraining Framework for AIoT Processors with Computing Errors](https://doi.org/10.1109/TVLSI.2021.3089224). *IEEE Transactions on Very Large Scale Integration Systems*, 2021  (in press).
+1. Dawen Xu, Meng He, Cheng Liu, Ying Wang, Long Cheng, Huawei Li, Xiaowei Li, Kwang-Ting Cheng. [R2F: A Remote Retraining Framework for AIoT Processors with Computing Errors](https://doi.org/10.1109/TVLSI.2021.3089224). *IEEE Transactions on Very Large Scale Integration Systems*, 29(11): 1955-1966, 2021.
 
 1. Ying Wang, Yintao He, Long Cheng, Huawei Li, Xiaowei Li. [A Fast Precision Tuning Solution for Always-On DNN Accelerators](https://doi.org/10.1109/TCAD.2021.3089667). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2021  (in press).
 
 1. Cong Liu, Long Cheng, Qingtian Zeng, Lijie Wen. Formal Modeling and Discovery of Hierarchical Business Processes: A Petri Net based Approach. *IEEE Transactions on Systems, Man and Cybernetics: Systems*, 2021.
 
-1. Mingming Liu, Long Cheng (CA), Yingqi Gu, Ying Wang, Qingzhi Liu, Noel O'Connor‬. [MPC-CSAS: Multi-Party Computation for Real-time Privacy-preserving Speed Advisory Systems](https://doi.org/10.1109/TITS.2021.3052840). *IEEE Transactions on Intelligent Transportation Systems*, 2021 (in press).
+1. Mingming Liu, Long Cheng (CA), Yingqi Gu, Ying Wang, Qingzhi Liu, Noel O'Connor. [MPC-CSAS: Multi-Party Computation for Real-time Privacy-preserving Speed Advisory Systems](https://doi.org/10.1109/TITS.2021.3052840). *IEEE Transactions on Intelligent Transportation Systems*, 2021 (in press).
 
 1. Cong Liu, Qingtian Zeng, Long Cheng (CA), Hua Duan, Jiujun Cheng. [Measuring Similarity for Data-aware Business Processes](https://doi.org/10.1109/TASE.2021.3049772). *IEEE Transactions on Automation Science and Engineering*, 2020 (in press).
 
@@ -61,6 +63,10 @@ description: Long Cheng, publications
 1. Long Cheng, Spyros Kotoulas. [Scale-Out Processing of Large RDF Datasets](https://dx.doi.org/10.1109/TBDATA.2015.2505719). *IEEE Transactions on Big Data*, 1(4): 138-150, 2015.
 
 #### **Proceedings**
+
+1. Lianting Xue, Long Cheng, Yuancheng Li, Ying Mao. [Quantum Machine Learning for Electricity Theft Detection: An Initial Investigation](). *Proc. 14th IEEE International Conference on Cyber, Physical and Social Computing*, Dec 2021.
+
+1. Jinwei Liu, Long Cheng, Ankur Sarker, Li Yan. [DeepTrack: An ML-based Approach to Health Disparity Identification and Determinant Tracking for Improving Pandemic Health Care](). *2021 IEEE International Conference on Big Data*, Dec 2021.
 
 1. Li Du, Long Cheng, Cong Liu. [Process Mining for Wind Turbine Maintenance Process Analysis: A Case Study](). *EI2: Proc. 5th IEEE Conference on Energy Internet and Energy System Integration*, Taiyuan, China, Nov 2021.
 

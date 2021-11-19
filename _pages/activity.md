@@ -14,6 +14,9 @@ description: Long Cheng, activities
 #### **Editorial Board**
 - Associate Editor, Journal of Cloud Computing.
 
+#### **Review Board**
+- Member, IEEE Transactions on Parallel and Distributed Systems.
+
 #### **Technical Program Committee Member of Conferences**
 - The 23rd IEEE International Conference on Cluster Computing (CLUSTER), 2021.<br>
 - The 26th IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2020.<br>
@@ -36,6 +39,7 @@ description: Long Cheng, activities
 - The 6th Int. Conference on Knowledge Engineering and Semantic Web (KESW), 2015.
 
 #### **Reviewer for Journals and Conferences**
+- IEEE Transactions on Automation Science and Engineering, 2021.<br>
 - IEEE Transactions on Knowledge and Data Engineering, 2021.<br>
 - China Information Sciences, 2021.<br>
 - Future Generation Computer Systems, 2020.<br>

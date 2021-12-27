@@ -6,7 +6,7 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
-1. Ying Mao, Yuqi Fu, Wenjia Zheng, Long Cheng, Qingzhi Liu, Dingwen Tao. [Speculative Container Scheduling for Deep Learning Applications in a Kubernetes Cluster](). *IEEE Systems Journal*, 2021 (in press).
+1. Ying Mao, Yuqi Fu, Wenjia Zheng, Long Cheng, Qingzhi Liu, Dingwen Tao. [Speculative Container Scheduling for Deep Learning Applications in a Kubernetes Cluster](https://doi.org/10.1109/JSYST.2021.3129974). *IEEE Systems Journal*, 2021 (in press).
 
 1. Yifeng Huang, Long Cheng (CA), Lianting Xue, Cong Liu, Yuancheng Li, Jianbin Li, Tomas Ward. [Deep Adversarial Imitation Reinforcement Learning for QoS-aware Cloud Job Scheduling](https://doi.org/10.1109/JSYST.2021.3122126). *IEEE Systems Journal*, 2021 (in press).
 
@@ -64,9 +64,11 @@ description: Long Cheng, publications
 
 #### **Proceedings**
 
-1. Lianting Xue, Long Cheng, Yuancheng Li, Ying Mao. [Quantum Machine Learning for Electricity Theft Detection: An Initial Investigation](). *Proc. 14th IEEE International Conference on Cyber, Physical and Social Computing*, Dec 2021.
+1. Lianting Xue, Long Cheng, Yuancheng Li, Ying Mao. [Quantum Machine Learning for Electricity Theft Detection: An Initial Investigation](). *Proc. 14th IEEE International Conference on Cyber, Physical and Social Computing*, Melbourne, Australia, Dec 2021.
 
-1. Jinwei Liu, Long Cheng, Ankur Sarker, Li Yan. [DeepTrack: An ML-based Approach to Health Disparity Identification and Determinant Tracking for Improving Pandemic Health Care](). *2021 IEEE International Conference on Big Data*, Dec 2021.
+1. Xingrong Xu, Cong Liu, Ting Li, Na Guo, Lijie Wen, Qingtian Zeng, Long Cheng. [An Empirical Evaluation of Encoding in Business Process Remaining Time](). *ChinaService 2021*, Huzhou, China, Dec 2021.
+
+1. Jinwei Liu, Long Cheng, Ankur Sarker, Li Yan. [DeepTrack: An ML-based Approach to Health Disparity Identification and Determinant Tracking for Improving Pandemic Health Care](). *2021 IEEE International Conference on Big Data*, Orlando, USA, Dec 2021.
 
 1. Li Du, Long Cheng, Cong Liu. [Process Mining for Wind Turbine Maintenance Process Analysis: A Case Study](). *EI2: Proc. 5th IEEE Conference on Energy Internet and Energy System Integration*, Taiyuan, China, Nov 2021.
 

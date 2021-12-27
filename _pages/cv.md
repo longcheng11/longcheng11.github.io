@@ -46,6 +46,9 @@ B.Eng in Electronic Engineering, 2003.09 - 2007.07
 
 
 #### **Projects**
+- State Grid R&D Project：Distributed energy storage systems，5M CNY，2021 - 2024. 
+- State Grid R&D Project：Network security for a renewables-centred power system，2.3M CNY，2021 - 2023. 
+- National Key R&D Project: Special program for Olympic Winter Games Beijing，10M CNY, 2021 - 2022.
 - H2020: Network-aware optimization for query executions in large systems, 2018 - 2020.
 - NWO: Desire lines in big data, 2016 - 2018. 
 - DFG: Highly adaptive energy-efficient computing, 2015 - 2016.

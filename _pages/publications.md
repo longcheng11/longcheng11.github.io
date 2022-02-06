@@ -12,7 +12,7 @@ description: Long Cheng, publications
 
 1. Qingzhi Liu, Tiancong Xia, Long Cheng (CA), Merijn van Eijk, Tanir Ozcelebi, Ying Mao. [Deep Reinforcement Learning for Load-Balancing Aware Network Control in IoT Edge Systems](https://doi.org/10.1109/TPDS.2021.3116863).  *IEEE Transactions on Parallel and Distributed Systems*, 33(6): 1491-1502, 2022.
 
-1. Yifeng Huang, Long Cheng (CA), Lianting Xue, Cong Liu, Yuancheng Li, Jianbin Li, Tomas Ward. [Deep Adversarial Imitation Reinforcement Learning for QoS-aware Cloud Job Scheduling](https://doi.org/10.1109/JSYST.2021.3122126). *IEEE Systems Journal*, 2021 ([PDF](./articles/2021-SJ-DRL.pdf)).
+1. Yifeng Huang, Long Cheng (CA), Lianting Xue, Cong Liu, Yuancheng Li, Jianbin Li, Tomas Ward. [Deep Adversarial Imitation Reinforcement Learning for QoS-aware Cloud Job Scheduling](https://doi.org/10.1109/JSYST.2021.3122126). *IEEE Systems Journal*, 2021 ([PDF](../articles/2021-SJ-DRL.pdf)).
 
 1. Kaiwei Zou, Ying Wang, Long Cheng, Songyun Qu, Huawei Li, Xiaowei Li. [CAP: Communication-aware Automated Parallelization for Deep Learning Inference on CMP Architectures](https://doi.org/10.1109/TC.2021.3099688). *IEEE Transactions on Computers*, 2021 (in press).
 
@@ -30,7 +30,7 @@ description: Long Cheng, publications
 
 1. Qingzhi Liu, Long Cheng (CA), Adele Jia, Cong Liu. [Deep Reinforcement Learning for Communication Flow Control in Wireless Mesh Networks](https://doi.org/10.1109/MNET.011.2000303). *IEEE Network Magazine*, 35(2): 112-119, 2021.
 
-1. Long Cheng, Ying Wang, Qingzhi Liu, Dick Epema, Cheng Liu, Ying Mao, John Murphy. [Network-Aware Locality Scheduling for Distributed Data Operators in Data Centers](https://doi.org/10.1109/TPDS.2021.3053241). *IEEE Transactions on Parallel and Distributed Systems*, 32(6): 1494-1510, 2021 ([PDF](./articles/2021-TPDS-NEAL.pdf)).
+1. Long Cheng, Ying Wang, Qingzhi Liu, Dick Epema, Cheng Liu, Ying Mao, John Murphy. [Network-Aware Locality Scheduling for Distributed Data Operators in Data Centers](https://doi.org/10.1109/TPDS.2021.3053241). *IEEE Transactions on Parallel and Distributed Systems*, 32(6): 1494-1510, 2021 ([PDF](../articles/2021-TPDS-NEAL.pdf)).
 
 1. Xuan Chen, Feng Cheng, Cong Liu, Long Cheng, Yin Mao. [An Improved Wolf Pack Algorithm for Optimization Problems: Design and Evaluation](https://doi.org/10.1371/journal.pone.0254239). *PLOS ONE*, 16(8), 2021.
 
@@ -46,9 +46,9 @@ description: Long Cheng, publications
 
 1. Michael J. Maher, Ilias Tachmazidis, Grigoris Antoniou, Stephen Wade, Long Cheng. [Rethinking Defeasible Reasoning: A Scalable Approach](https://dx.doi.org/10.1017/S1471068420000010). *Theory and Practice of Logic Programming*, 20(4): 552–586, 2020.
 
-1. Xuan Chen, Long Cheng (CA), Cong Liu, Qingzhi Liu, Jinwei Liu, Ying Mao, John Murphy. [A WOA-Based Optimization Approach for Task Scheduling in Cloud Computing Systems](https://dx.doi.org/10.1109/JSYST.2019.2960088). *IEEE Systems Journal*, 14(3): 3117-3128, 2020  ([PDF](./articles/2021-SJ-WOA.pdf)). 
+1. Xuan Chen, Long Cheng (CA), Cong Liu, Qingzhi Liu, Jinwei Liu, Ying Mao, John Murphy. [A WOA-Based Optimization Approach for Task Scheduling in Cloud Computing Systems](https://dx.doi.org/10.1109/JSYST.2019.2960088). *IEEE Systems Journal*, 14(3): 3117-3128, 2020  ([PDF](../articles/2021-SJ-WOA.pdf)). 
 
-1. Long Cheng, Boudewijn van Dongen, Wil van der Aalst. [Scalable Discovery of Hybrid Process Models in a Cloud Computing Environment](https://dx.doi.org/10.1109/TSC.2019.2906203). *IEEE Transactions on Services Computing*,  13(2): 368-380, 2020 ([PDF](./articles/2020-TSC-Hybrid.pdf)). 
+1. Long Cheng, Boudewijn van Dongen, Wil van der Aalst. [Scalable Discovery of Hybrid Process Models in a Cloud Computing Environment](https://dx.doi.org/10.1109/TSC.2019.2906203). *IEEE Transactions on Services Computing*,  13(2): 368-380, 2020 ([PDF](../articles/2020-TSC-Hybrid.pdf)). 
 
 1. Ying Wang, Huawei Li, Long Cheng, Xiaowei Li. [A QoS-QoR Aware CNN Accelerator Design Approach](https://dx.doi.org/10.1109/TCAD.2018.2877010). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 38(11): 1995-2007, 2019.
 

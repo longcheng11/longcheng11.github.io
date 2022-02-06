@@ -8,13 +8,15 @@ description: Long Cheng, publications
 
 1. Ying Mao, Yuqi Fu, Wenjia Zheng, Long Cheng, Qingzhi Liu, Dingwen Tao. [Speculative Container Scheduling for Deep Learning Applications in a Kubernetes Cluster](https://doi.org/10.1109/JSYST.2021.3129974). *IEEE Systems Journal*, 2021 (in press).
 
-1. Yifeng Huang, Long Cheng (CA), Lianting Xue, Cong Liu, Yuancheng Li, Jianbin Li, Tomas Ward. [Deep Adversarial Imitation Reinforcement Learning for QoS-aware Cloud Job Scheduling](https://doi.org/10.1109/JSYST.2021.3122126). *IEEE Systems Journal*, 2021 (in press).
+1. Jingchen Yan, Yifeng Huang, Aditya Gupta, Anubhav Gupta, Cong Liu, Jianbin Li, Long Cheng(CA). [Energy-aware Systems for Real-time Job Scheduling in Cloud Data Centers: A Deep Reinforcement Learning Approach]. *Computers and Electrical Engineering*, 2022.
 
 1. Qingzhi Liu, Tiancong Xia, Long Cheng (CA), Merijn van Eijk, Tanir Ozcelebi, Ying Mao. [Deep Reinforcement Learning for Load-Balancing Aware Network Control in IoT Edge Systems](https://doi.org/10.1109/TPDS.2021.3116863).  *IEEE Transactions on Parallel and Distributed Systems*, 33(6): 1491-1502, 2022.
 
+1. Yifeng Huang, Long Cheng (CA), Lianting Xue, Cong Liu, Yuancheng Li, Jianbin Li, Tomas Ward. [Deep Adversarial Imitation Reinforcement Learning for QoS-aware Cloud Job Scheduling](https://doi.org/10.1109/JSYST.2021.3122126). *IEEE Systems Journal*, 2021 ([PDF](./articles/2021-SJ-DRL.pdf)).
+
 1. Kaiwei Zou, Ying Wang, Long Cheng, Songyun Qu, Huawei Li, Xiaowei Li. [CAP: Communication-aware Automated Parallelization for Deep Learning Inference on CMP Architectures](https://doi.org/10.1109/TC.2021.3099688). *IEEE Transactions on Computers*, 2021 (in press).
 
-1. Feng Cheng, Yifeng Huang, Bhavana Tanpure, Pawan Sawalani, Long Cheng (CA), Cong Liu. [Cost-Aware Job Scheduling for Cloud Instances using Deep Reinforcement Learning](https://doi.org/10.1007/s10586-021-03436-8). *Cluster Computing*, 2021 (in press).
+1. Feng Cheng, Yifeng Huang, Bhavana Tanpure, Pawan Sawalani, Long Cheng (CA), Cong Liu. [Cost-Aware Job Scheduling for Cloud Instances using Deep Reinforcement Learning](https://doi.org/10.1007/s10586-021-03436-8). *Cluster Computing*, 25(1): 619-631, 2022.
 
 1. Dawen Xu, Meng He, Cheng Liu, Ying Wang, Long Cheng, Huawei Li, Xiaowei Li, Kwang-Ting Cheng. [R2F: A Remote Retraining Framework for AIoT Processors with Computing Errors](https://doi.org/10.1109/TVLSI.2021.3089224). *IEEE Transactions on Very Large Scale Integration Systems*, 29(11): 1955-1966, 2021.
 
@@ -28,13 +30,13 @@ description: Long Cheng, publications
 
 1. Qingzhi Liu, Long Cheng (CA), Adele Jia, Cong Liu. [Deep Reinforcement Learning for Communication Flow Control in Wireless Mesh Networks](https://doi.org/10.1109/MNET.011.2000303). *IEEE Network Magazine*, 35(2): 112-119, 2021.
 
-1. Long Cheng, Ying Wang, Qingzhi Liu, Dick Epema, Cheng Liu, Ying Mao, John Murphy. [Network-Aware Locality Scheduling for Distributed Data Operators in Data Centers](https://doi.org/10.1109/TPDS.2021.3053241). *IEEE Transactions on Parallel and Distributed Systems*, 32(6): 1494-1510, 2021.
+1. Long Cheng, Ying Wang, Qingzhi Liu, Dick Epema, Cheng Liu, Ying Mao, John Murphy. [Network-Aware Locality Scheduling for Distributed Data Operators in Data Centers](https://doi.org/10.1109/TPDS.2021.3053241). *IEEE Transactions on Parallel and Distributed Systems*, 32(6): 1494-1510, 2021 ([PDF](./articles/2021-TPDS-NEAL.pdf)).
 
 1. Xuan Chen, Feng Cheng, Cong Liu, Long Cheng, Yin Mao. [An Improved Wolf Pack Algorithm for Optimization Problems: Design and Evaluation](https://doi.org/10.1371/journal.pone.0254239). *PLOS ONE*, 16(8), 2021.
 
 1. Qingzhi Liu, Long Cheng, Renan Alves, Tanir Ozcelebi, Fernando Kuipers, Guixian Xu, Johan Lukkien, Shanzhi Chen. [Cluster-based Flow Control in Hybrid Software-Defined Wireless Sensor Networks](https://doi.org/10.1016/j.comnet.2020.107788). *Computer Networks*, 187: 107788, 2021.
 
-1. Jinwei Liu, Haiying Shen, Hongmei Chi, Husnu Saner Narman, Yongyi Yang, Long Cheng, Wingyan Chung. [A Low-cost Multi-failure Resilient Replication Scheme with Data Correlation for High Data Availability in Cloud Storage](https://dx.doi.org/10.1109/TNET.2020.3027814).  *IEEE/ACM Transactions on Networking*, 29(4): 1436-1451, 2021.	
+1. Jinwei Liu, Haiying Shen, Hongmei Chi, Husnu Saner Narman, Yongyi Yang, Long Cheng, Wingyan Chung. [A Low-cost Multi-failure Resilient Replication Scheme with Data Correlation for High Data Availability in Cloud Storage](https://dx.doi.org/10.1109/TNET.2020.3027814).  *IEEE/ACM Transactions on Networking*, 29(4): 1436-1451, 2021 (**ESI Highly Cited Paper**).	
 
 1. Cong Liu, Yulong Pei, Long Cheng, Qingtian Zeng, Hua Duan. [Sampling Business Process Event Logs Using Graph-based Ranking Model](https://dx.doi.org/10.1002/cpe.5974). *Concurrency and Computation: Practice and Experience*, 33(5), 2021.
 
@@ -44,9 +46,9 @@ description: Long Cheng, publications
 
 1. Michael J. Maher, Ilias Tachmazidis, Grigoris Antoniou, Stephen Wade, Long Cheng. [Rethinking Defeasible Reasoning: A Scalable Approach](https://dx.doi.org/10.1017/S1471068420000010). *Theory and Practice of Logic Programming*, 20(4): 552–586, 2020.
 
-1. Xuan Chen, Long Cheng (CA), Cong Liu, Qingzhi Liu, Jinwei Liu, Ying Mao, John Murphy. [A WOA-Based Optimization Approach for Task Scheduling in Cloud Computing Systems](https://dx.doi.org/10.1109/JSYST.2019.2960088). *IEEE Systems Journal*, 14(3): 3117-3128, 2020. 
+1. Xuan Chen, Long Cheng (CA), Cong Liu, Qingzhi Liu, Jinwei Liu, Ying Mao, John Murphy. [A WOA-Based Optimization Approach for Task Scheduling in Cloud Computing Systems](https://dx.doi.org/10.1109/JSYST.2019.2960088). *IEEE Systems Journal*, 14(3): 3117-3128, 2020  ([PDF](./articles/2021-SJ-WOA.pdf)). 
 
-1. Long Cheng, Boudewijn van Dongen, Wil van der Aalst. [Scalable Discovery of Hybrid Process Models in a Cloud Computing Environment](https://dx.doi.org/10.1109/TSC.2019.2906203). *IEEE Transactions on Services Computing*,  13(2): 368-380, 2020. 
+1. Long Cheng, Boudewijn van Dongen, Wil van der Aalst. [Scalable Discovery of Hybrid Process Models in a Cloud Computing Environment](https://dx.doi.org/10.1109/TSC.2019.2906203). *IEEE Transactions on Services Computing*,  13(2): 368-380, 2020 ([PDF](./articles/2020-TSC-Hybrid.pdf)). 
 
 1. Ying Wang, Huawei Li, Long Cheng, Xiaowei Li. [A QoS-QoR Aware CNN Accelerator Design Approach](https://dx.doi.org/10.1109/TCAD.2018.2877010). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 38(11): 1995-2007, 2019.
 
@@ -64,11 +66,11 @@ description: Long Cheng, publications
 
 #### **Proceedings**
 
-1. Lianting Xue, Long Cheng, Yuancheng Li, Ying Mao. [Quantum Machine Learning for Electricity Theft Detection: An Initial Investigation](). *Proc. 14th IEEE International Conference on Cyber, Physical and Social Computing*, Melbourne, Australia, Dec 2021.
+1. Lianting Xue, Long Cheng, Yuancheng Li, Ying Mao. [Quantum Machine Learning for Electricity Theft Detection: An Initial Investigation](https://dx.doi.org/10.1109/iThings-GreenCom-CPSCom-SmartData-Cybermatics53846.2021.00043). *Proc. 14th IEEE International Conference on Cyber, Physical and Social Computing*, pp. 204-208, Melbourne, Australia, Dec 2021.
 
 1. Xingrong Xu, Cong Liu, Ting Li, Na Guo, Lijie Wen, Qingtian Zeng, Long Cheng. [An Empirical Evaluation of Encoding in Business Process Remaining Time](). *ChinaService 2021*, Huzhou, China, Dec 2021.
 
-1. Jinwei Liu, Long Cheng, Ankur Sarker, Li Yan. [DeepTrack: An ML-based Approach to Health Disparity Identification and Determinant Tracking for Improving Pandemic Health Care](). *2021 IEEE International Conference on Big Data*, Orlando, USA, Dec 2021.
+1. Jinwei Liu, Long Cheng, Ankur Sarker, Li Yan. [DeepTrack: An ML-based Approach to Health Disparity Identification and Determinant Tracking for Improving Pandemic Health Care](https://dx.doi.org/10.1109/BigData52589.2021.9671860). *2021 IEEE International Conference on Big Data*, pp. 1692-1698, Orlando, USA, Dec 2021.
 
 1. Li Du, Long Cheng, Cong Liu. [Process Mining for Wind Turbine Maintenance Process Analysis: A Case Study](). *EI2: Proc. 5th IEEE Conference on Energy Internet and Energy System Integration*, Taiyuan, China, Nov 2021.
 
@@ -78,7 +80,7 @@ description: Long Cheng, publications
 
 1. Jinwei Liu, Long Cheng, Hongmei Chi, Cong Liu, Richard Alo: [CDetector: Extracting Textual Features of Financial Social Media to Detect Cyber Attacks](https://doi.org/10.1109/ICCCN52240.2021.9522290). *ICCCN'21: Proc. 30th International Conference on Computer Communications and Networks*, Athens, Greece, July 2021.
 
-1. Jinwei Liu, Long Cheng. [SwiftS: A Dependency-Aware and Resource Efficient Scheduling for High Throughput in Clouds](https://doi.org/10.1109/INFOCOMWKSHPS51825.2021.9484459). *INFOCOM 2021: Proc. IEEE International Conference on Computer Communications 2021*, Virtual Conference, May 2021.  (demo)
+1. Jinwei Liu, Long Cheng. [SwiftS: A Dependency-Aware and Resource Efficient Scheduling for High Throughput in Clouds](https://doi.org/10.1109/INFOCOMWKSHPS51825.2021.9484459). *INFOCOM 2021: Proc. IEEE International Conference on Computer Communications 2021*, Virtual Conference, May 2021.
 
 1. Jinwei Liu, Long Cheng, Hongmei Chi. [DeepDive: Examining Determinants of Health Disparities in COVID-19 for Improving Pandemic Health Care](https://doi.org/10.1145/3448823.3448867). *ICVISP 2020: Proc. 4th International Conference on Vision, Image and Signal Processing*, Dec 2020.
 

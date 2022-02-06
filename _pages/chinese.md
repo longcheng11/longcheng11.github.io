@@ -37,7 +37,7 @@ description: Long Cheng, chinese, 中文简介
 
 1. Q. Liu, **L. Cheng**, R. Alves, T. Ozcelebi, F. Kuipers, G. Xu, J. Lukkien, S. Chen. [Cluster-based Flow Control in Hybrid Software-Defined Wireless Sensor Networks](https://doi.org/10.1016/j.comnet.2020.107788). *Computer Networks*, 2020 (CCF-B).
 
-1. J. Liu, H. Shen, H. Chi, H. Narman, Y. Yang, **L. Cheng**, W. Chung. [A Low-cost Multi-failure Resilient Replication Scheme with Data Correlation for High Data Availability in Cloud Storage](https://dx.doi.org/10.1109/TNET.2020.3027814).  *IEEE/ACM Transactions on Networking*, 29(4): 1436-1451, 2021 (CCF-A, **高被引论文**).	
+1. J. Liu, H. Shen, H. Chi, H. Narman, Y. Yang, **L. Cheng**, W. Chung. [A Low-cost Multi-failure Resilient Replication Scheme with Data Correlation for High Data Availability in Cloud Storage](https://dx.doi.org/10.1109/TNET.2020.3027814).  *IEEE/ACM Transactions on Networking*, 29(4): 1436-1451, 2021 (CCF-A, **ESI高被引论文**).	
 
 1. Y. Wang, Yc. Wang, C. Shi, **L. Cheng**, H. Li, X. Li. [An Edge 3D CNN Accelerator for Low Power Activity Recognition](https://dx.doi.org/10.1109/TCAD.2020.3011042). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2020 (CCF-A).	
 	
@@ -48,8 +48,6 @@ description: Long Cheng, chinese, 中文简介
 
 #### **主持项目**
 1. 国家电网科技项目：支撑分布式储能网络化运营关键技术研究。2021-2024，500万元，课题负责人。
-
-1. 国家电网科技项目：新型电力系统高级可持续网络攻击行为识别与主动防御研究。2021-2023，230万元，课题负责人。
 
 1. 国家重点研发计划：保障冬奥赛事网络和系统不间断运行的XX关键技术研究与应用。2021-2022，1000万元，子课题负责人。
 

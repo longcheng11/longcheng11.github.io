@@ -6,9 +6,11 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
+1. Ying Mao, Vaishali Sharma, Wenjia Zheng, Long Cheng, Qiang Guan, and Ang Li. [Differentiate Quality of Experience Scheduling for Deep Learning Inferences with Docker Containers in the Cloud](). *IEEE Transactions on Cloud Computing*, 2022 (in press).
+
 1. Ying Mao, Yuqi Fu, Wenjia Zheng, Long Cheng, Qingzhi Liu, Dingwen Tao. [Speculative Container Scheduling for Deep Learning Applications in a Kubernetes Cluster](https://doi.org/10.1109/JSYST.2021.3129974). *IEEE Systems Journal*, 2021 (in press).
 
-1. Jingchen Yan, Yifeng Huang, Aditya Gupta, Anubhav Gupta, Cong Liu, Jianbin Li, Long Cheng(CA). [Energy-aware Systems for Real-time Job Scheduling in Cloud Data Centers: A Deep Reinforcement Learning Approach]. *Computers and Electrical Engineering*, 2022.
+1. Jingchen Yan, Yifeng Huang, Aditya Gupta, Anubhav Gupta, Cong Liu, Jianbin Li, Long Cheng (CA). [Energy-aware Systems for Real-time Job Scheduling in Cloud Data Centers: A Deep Reinforcement Learning Approach](https://doi.org/10.1016/j.compeleceng.2022.107688). *Computers and Electrical Engineering*, 99: 107688, 2022.
 
 1. Qingzhi Liu, Tiancong Xia, Long Cheng (CA), Merijn van Eijk, Tanir Ozcelebi, Ying Mao. [Deep Reinforcement Learning for Load-Balancing Aware Network Control in IoT Edge Systems](https://doi.org/10.1109/TPDS.2021.3116863).  *IEEE Transactions on Parallel and Distributed Systems*, 33(6): 1491-1502, 2022.
 

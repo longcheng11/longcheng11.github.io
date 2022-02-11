@@ -11,6 +11,8 @@ description: Long Cheng, chinese, 中文简介
 
 #### **部分最新论文**
 
+1. Y. Mao, V. Sharma, W. Zheng, **L. Cheng**, Q. Guan, A. Li. [Differentiate Quality of Experience Scheduling for Deep Learning Inferences with Docker Containers in the Cloud](). *IEEE Transactions on Cloud Computing*, 2022 (中科院二区).
+
 1. Q. Liu, T. Xia, **L. Cheng** (通讯), M. Eijk, T. Ozcelebi, Y. Mao. [Deep Reinforcement Learning for Load-Balancing Aware Network Control in IoT Edge Systems](https://doi.org/10.1109/TPDS.2021.3116863).  *IEEE Transactions on Parallel and Distributed Systems*, 2022. (CCF-A).
 
 1. Y. Mao, Y. Fu, W. Zheng, **L. Cheng**, Q. Liu, D. Tao. [Speculative Container Scheduling for Deep Learning Applications in a Kubernetes Cluster](https://doi.org/10.1109/JSYST.2021.3129974). *IEEE Systems Journal*, 2021 (中科院二区).

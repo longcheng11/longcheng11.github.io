@@ -6,12 +6,12 @@ description: Long Cheng, chinese, 中文简介
 ---
 
 #### **个人简介**
-程龙，博士，现为华北电力大学控制与计算机工程学院教授、爱尔兰国家数据分析研究中心访问教授。他之前是爱尔兰都柏林城市大学计算机学院助理教授、欧盟玛丽居里学者。主要研究方向是并行分布式计算、深度学习、云计算和大数据处理以及这些技术在流程挖掘与能源大数据上的应用。曾在华为德国，IBM都柏林研究院工作过，并且在德国德累斯顿工业大学和荷兰埃因霍温理工大学从事过博士后研究，具有多年一线大数据系统和算法设计、开发与优化经验, 并于2018年获得欧盟资助个人科研最高奖项之一玛丽居里个人基金。他在并行分布式计算和大数据处理的权威期刊与会议比如TPDS, TON, TC, TSC, TCC, TCAD, TASE, TSMC, TITS, TVLSI, TBD, IEEE Network, JPDC, ICPP, CIKM, CCGrid, EuroPar和HiPC上发表近70篇文章（含IEEE/ACM Transactions/Magazine/Journal 20余篇），并且长期为对应的期刊和会议审稿，同时也是IPDPS，ICPP, CCGrid和CLUSTER等知名国际会议的程序委员会成员。 程龙于2007年本科毕业于哈尔滨工业大学，2010年硕士毕业于德国杜伊斯堡-艾森大学(硕士论文由华为德国公司资助)，并于2014年获得爱尔兰国立大学-梅努斯的博士学位(由爱尔兰国家研究委员会全额博士奖学金资助)。目前是IEEE高级会员，Journal of Cloud Computing期刊副主编，IEEE TPDS期刊Review Board成员, 瑞士国家自然科学基金（SNSF）外国评审专家。
+程龙，博士，现为华北电力大学控制与计算机工程学院教授、爱尔兰国家数据分析研究中心访问教授。他之前是爱尔兰都柏林城市大学计算机学院助理教授、欧盟玛丽居里学者。主要研究方向是并行分布式计算、深度学习、云计算和大数据处理以及这些技术在流程挖掘与能源大数据上的应用。曾在华为德国，IBM都柏林研究院工作过，并且在德国德累斯顿工业大学和荷兰埃因霍温理工大学从事过博士后研究，具有多年一线大数据系统和算法设计、开发与优化经验, 并于2018年获得欧盟资助个人科研最高奖项之一玛丽居里个人基金。他在并行分布式计算和大数据处理的权威期刊与会议比如TPDS, TON, TC, TSC, TCC, TCAD, TASE, IEEE Network, JPDC, ICPP, CIKM, CCGrid, EuroPar和HiPC上发表近70篇文章（含IEEE/ACM Transactions/Magazine/Journal 20余篇），并且长期为对应的期刊和会议审稿，同时也是IPDPS，ICPP, CCGrid和CLUSTER等知名国际会议的程序委员会成员。 程龙于2007年本科毕业于哈尔滨工业大学，2010年硕士毕业于德国杜伊斯堡-艾森大学(硕士论文由华为德国公司资助)，并于2014年获得爱尔兰国立大学-梅努斯的博士学位(由爱尔兰国家研究委员会全额博士奖学金资助)。目前是IEEE高级会员，Journal of Cloud Computing期刊副主编，IEEE TPDS期刊Review Board成员, 瑞士国家自然科学基金（SNSF）外国评审专家。
 
 
 #### **部分最新论文**
 
-1. Y. Mao, V. Sharma, W. Zheng, **L. Cheng**, Q. Guan, A. Li. [Differentiate Quality of Experience Scheduling for Deep Learning Inferences with Docker Containers in the Cloud](). *IEEE Transactions on Cloud Computing*, 2022 (中科院二区).
+1. Y. Mao, W. Yan, Y. Song, Y. Zeng, M. Chen, **L. Cheng**, Q. Liu. [Differentiate Quality of Experience Scheduling for Deep Learning Inferences with Docker Containers in the Cloud](). *IEEE Transactions on Cloud Computing*, 2022 (中科院二区).
 
 1. Q. Liu, T. Xia, **L. Cheng** (通讯), M. Eijk, T. Ozcelebi, Y. Mao. [Deep Reinforcement Learning for Load-Balancing Aware Network Control in IoT Edge Systems](https://doi.org/10.1109/TPDS.2021.3116863).  *IEEE Transactions on Parallel and Distributed Systems*, 2022. (CCF-A).
 

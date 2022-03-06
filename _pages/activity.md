@@ -20,6 +20,7 @@ description: Long Cheng, activities
 
 
 #### **Technical Program Committee Member of Conferences**
+- The 13th IEEE International Conference on JointCloud Computing (JCC), 2022.<br>
 - The 23rd IEEE International Conference on Cluster Computing (CLUSTER), 2021.<br>
 - The 26th IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2020.<br>
 - The 2020 IEEE International Conference on Big Data (BigData2020), 2020.<br>

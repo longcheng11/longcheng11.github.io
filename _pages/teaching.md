@@ -7,7 +7,8 @@ description: Long Cheng, teaching
 #### **Teaching Experience**
 
 - North China Electric Power University (Professor)<br>
-Compiler Technologies (in Chinese), 2021
+Compiler Technologies (in Chinese), 2021<br>
+Operating Systems (in Chinese), 2022
 
 - Dublin City University (Lecturer)<br>
 Cloud Technologies (CA675), 2020<br>
@@ -32,9 +33,17 @@ Java Programming, 2012
 
 #### **Supervision**
 
+- L. Du. AI for Process Mining.  Master Student, 2021 - 2024.
+
+- X. Mao. High-peformance Process Mining. Master Student, 2021 - 2024.
+
+- Y. Wang. DRL for Cloud Computing. Master Student, 2021 - 2024.
+
+- J. Zhang. DRL for Cloud Computing. Master Student, 2021 - 2024.
+
 - P. Sawalani and B. Tanpure, “Deep reinforcement learning based resource allocation for cost optimization in cloud computing”. Master Project, 2020.
 
-- M.Murphy, “A transfer learning based approach for KPI prediction in business process”. Master Project, 2020.
+- M. Murphy, “A transfer learning based approach for KPI prediction in business process”. Master Project, 2020.
 
 - A. Gupta, “Energy-efficient resource provisioning for cloud data centers using deep reinforcement learning”. Master Project, 2020.
 

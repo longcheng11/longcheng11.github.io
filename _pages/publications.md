@@ -6,7 +6,7 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
-1. Ying Mao, Weifeng Yan, Yun Song, Yue Zeng, Ming Chen, Long Cheng, Qingzhi Liu. [Differentiate Quality of Experience Scheduling for Deep Learning Inferences with Docker Containers in the Cloud](). *IEEE Transactions on Cloud Computing*, 2022 (in press).
+1. Ying Mao, Weifeng Yan, Yun Song, Yue Zeng, Ming Chen, Long Cheng, Qingzhi Liu. [Differentiate Quality of Experience Scheduling for Deep Learning Inferences with Docker Containers in the Cloud](https://doi.org/10.1109/TCC.2022.3154117). *IEEE Transactions on Cloud Computing*, 2022 (in press).
 
 1. Ying Mao, Yuqi Fu, Wenjia Zheng, Long Cheng, Qingzhi Liu, Dingwen Tao. [Speculative Container Scheduling for Deep Learning Applications in a Kubernetes Cluster](https://doi.org/10.1109/JSYST.2021.3129974). *IEEE Systems Journal*, 2021 (in press).
 

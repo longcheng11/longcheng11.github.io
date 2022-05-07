@@ -13,6 +13,8 @@ description: Long Cheng, chinese, 中文简介
 
 #### **部分最新论文**
 
+1. C. Liu, H. Li, S. Zhang, **L. Cheng**, Q. Zeng. [Cross-Department Collaborative Healthcare Process Model Discovery from Event Logs](). *IEEE Transactions on Automation Science and Engineering*, 2022 (CCF-B).
+
 1. Y. Mao, W. Yan, Y. Song, Y. Zeng, M. Chen, **L. Cheng**, Q. Liu. [Differentiate Quality of Experience Scheduling for Deep Learning Inferences with Docker Containers in the Cloud](https://doi.org/10.1109/TCC.2022.3154117). *IEEE Transactions on Cloud Computing*, 2022 (中科院二区).
 
 1. Q. Liu, T. Xia, **L. Cheng** (通讯), M. Eijk, T. Ozcelebi, Y. Mao. [Deep Reinforcement Learning for Load-Balancing Aware Network Control in IoT Edge Systems](https://doi.org/10.1109/TPDS.2021.3116863).  *IEEE Transactions on Parallel and Distributed Systems*, 2022. (CCF-A).

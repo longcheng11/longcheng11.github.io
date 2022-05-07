@@ -6,6 +6,8 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
+1. Cong Liu, Huiling Li, Shuaipeng Zhang, Long Cheng, Qingtian Zeng. [Cross-Department Collaborative Healthcare Process Model Discovery from Event Logs](). *IEEE Transactions on Automation Science and Engineering*, 2022 (in press).
+
 1. Ying Mao, Weifeng Yan, Yun Song, Yue Zeng, Ming Chen, Long Cheng, Qingzhi Liu. [Differentiate Quality of Experience Scheduling for Deep Learning Inferences with Docker Containers in the Cloud](https://doi.org/10.1109/TCC.2022.3154117). *IEEE Transactions on Cloud Computing*, 2022 (in press).
 
 1. Ying Mao, Yuqi Fu, Wenjia Zheng, Long Cheng, Qingzhi Liu, Dingwen Tao. [Speculative Container Scheduling for Deep Learning Applications in a Kubernetes Cluster](https://doi.org/10.1109/JSYST.2021.3129974). *IEEE Systems Journal*, 2021 (in press).
@@ -22,13 +24,13 @@ description: Long Cheng, publications
 
 1. Dawen Xu, Meng He, Cheng Liu, Ying Wang, Long Cheng, Huawei Li, Xiaowei Li, Kwang-Ting Cheng. [R2F: A Remote Retraining Framework for AIoT Processors with Computing Errors](https://doi.org/10.1109/TVLSI.2021.3089224). *IEEE Transactions on Very Large Scale Integration Systems*, 29(11): 1955-1966, 2021.
 
-1. Ying Wang, Yintao He, Long Cheng, Huawei Li, Xiaowei Li. [A Fast Precision Tuning Solution for Always-On DNN Accelerators](https://doi.org/10.1109/TCAD.2021.3089667). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2021  (in press).
+1. Ying Wang, Yintao He, Long Cheng, Huawei Li, Xiaowei Li. [A Fast Precision Tuning Solution for Always-On DNN Accelerators](https://doi.org/10.1109/TCAD.2021.3089667). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 41(5): 1236-1248, 2022.
 
 1. Cong Liu, Long Cheng, Qingtian Zeng, Lijie Wen. Formal Modeling and Discovery of Hierarchical Business Processes: A Petri Net based Approach. *IEEE Transactions on Systems, Man and Cybernetics: Systems*, 2021.
 
 1. Mingming Liu, Long Cheng (CA), Yingqi Gu, Ying Wang, Qingzhi Liu, Noel O'Connor. [MPC-CSAS: Multi-Party Computation for Real-time Privacy-preserving Speed Advisory Systems](https://doi.org/10.1109/TITS.2021.3052840). *IEEE Transactions on Intelligent Transportation Systems*, 2021 (in press).
 
-1. Cong Liu, Qingtian Zeng, Long Cheng (CA), Hua Duan, Jiujun Cheng. [Measuring Similarity for Data-aware Business Processes](https://doi.org/10.1109/TASE.2021.3049772). *IEEE Transactions on Automation Science and Engineering*, 2020 (in press).
+1. Cong Liu, Qingtian Zeng, Long Cheng (CA), Hua Duan, Jiujun Cheng. [Measuring Similarity for Data-aware Business Processes](https://doi.org/10.1109/TASE.2021.3049772). *IEEE Transactions on Automation Science and Engineering*, 19(2): 1070-1082, 2022.
 
 1. Qingzhi Liu, Long Cheng (CA), Adele Jia, Cong Liu. [Deep Reinforcement Learning for Communication Flow Control in Wireless Mesh Networks](https://doi.org/10.1109/MNET.011.2000303). *IEEE Network Magazine*, 35(2): 112-119, 2021.
 

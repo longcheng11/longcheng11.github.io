@@ -13,6 +13,12 @@ description: Long Cheng, chinese, 中文简介
 
 #### **部分最新论文**
 
+1. J. Li, S. Li, **L. Cheng** (通讯), Q. Liu, J. Pei, S. Wang. [BSAS: A Blockchain-based Trustworthy and Privacy-Preserving Speed Advisory System](). *IEEE Transactions on Vehicular Technology*, 2022 (中科院二区)
+
+1. J. Li, Z. Chen, **L. Cheng** (通讯), X. Liu. [Energy Data Generation with Wasserstein Deep Convolutional Generative Adversarial Networks](). *Energy*, 2022 (中科院一区) 
+
+1. L. Cheng, A. Kalapgar, A. Jain, Y. Wang, Y. Qin, Y. Li, C. Liu. [Cost-aware Real-time Job Scheduling for Hybrid Cloud using Deep Reinforcement Learning](https://doi.org/10.1007/s00521-022-07477-x). *Neural Computing and Applications*, 2022 (中科院二区)
+
 1. C. Liu, H. Li, S. Zhang, **L. Cheng**, Q. Zeng. [Cross-Department Collaborative Healthcare Process Model Discovery from Event Logs](). *IEEE Transactions on Automation Science and Engineering*, 2022 (CCF-B).
 
 1. Y. Mao, W. Yan, Y. Song, Y. Zeng, M. Chen, **L. Cheng**, Q. Liu. [Differentiate Quality of Experience Scheduling for Deep Learning Inferences with Docker Containers in the Cloud](https://doi.org/10.1109/TCC.2022.3154117). *IEEE Transactions on Cloud Computing*, 2022 (中科院二区).
@@ -31,7 +37,7 @@ description: Long Cheng, chinese, 中文简介
 
 1. D. Xu, M. He, C. Liu, Y. Wang, **L. Cheng**, H. Li, X. Li, K. Cheng. [R2F: A Remote Retraining Framework for AIoT Processors with Computing Errors](https://doi.org/10.1109/TVLSI.2021.3089224). *IEEE Transactions on Very Large Scale Integration Systems*, 2021 (CCF-B).
 
-1. C. Liu, **L. Cheng**, Q. Zeng, L. Wen. Formal Modeling and Discovery of Hierarchical Business Processes: A Petri Net based Approach. *IEEE Transactions on Systems, Man and Cybernetics: Systems*, 2021 (中科院一区).
+1. C. Liu, **L. Cheng**, Q. Zeng, L. Wen. Formal Modeling and Discovery of Hierarchical Business Processes: A Petri Net based Approach. *IEEE Transactions on Systems, Man and Cybernetics: Systems*, 2022 (中科院一区).
 
 1. **L. Cheng**, Y. Wang, Q. Liu, D. Epema, C. Liu, Y. Mao, J. Murphy. [Network-Aware Locality Scheduling for Distributed Data Operators in Data Centers](https://doi.org/10.1109/TPDS.2021.3053241). *IEEE Transactions on Parallel and Distributed Systems*, 2021 (CCF-A).
 

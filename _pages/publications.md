@@ -6,9 +6,17 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
+1. Jianbin Li, Shike Li, Long Cheng (CA), Qingzhi Liu, Jiaming Pei, Shen Wang. [BSAS: A Blockchain-based Trustworthy and Privacy-Preserving Speed Advisory System](). *IEEE Transactions on Vehicular Technology*, 2022 (in press)
+
+1. Jianbin Li, Zhiqiang Chen, Long Cheng (CA), Xiufeng Liu. [Energy Data Generation with Wasserstein Deep Convolutional Generative Adversarial Networks](). *Energy*, 2022 (in press)
+
+1. Long Cheng, Archana Kalapgar, Amogh Jain, Yue Wang, Yongtai Qin, Yuancheng Li, Cong Liu. [Cost-aware Real-time Job Scheduling for Hybrid Cloud using Deep Reinforcement Learning](https://doi.org/10.1007/s00521-022-07477-x). *Neural Computing and Applications*, 2022 (in press)
+
 1. Cong Liu, Huiling Li, Shuaipeng Zhang, Long Cheng, Qingtian Zeng. [Cross-Department Collaborative Healthcare Process Model Discovery from Event Logs](). *IEEE Transactions on Automation Science and Engineering*, 2022 (in press).
 
 1. Ying Mao, Weifeng Yan, Yun Song, Yue Zeng, Ming Chen, Long Cheng, Qingzhi Liu. [Differentiate Quality of Experience Scheduling for Deep Learning Inferences with Docker Containers in the Cloud](https://doi.org/10.1109/TCC.2022.3154117). *IEEE Transactions on Cloud Computing*, 2022 (in press).
+
+1. Cong Liu, Long Cheng, Qingtian Zeng, Lijie Wen. [Formal Modeling and Discovery of Hierarchical Business Processes: A Petri Net based Approach](). *IEEE Transactions on Systems, Man and Cybernetics: Systems*, 2022 (in press).
 
 1. Ying Mao, Yuqi Fu, Wenjia Zheng, Long Cheng, Qingzhi Liu, Dingwen Tao. [Speculative Container Scheduling for Deep Learning Applications in a Kubernetes Cluster](https://doi.org/10.1109/JSYST.2021.3129974). *IEEE Systems Journal*, 2021 (in press).
 
@@ -25,8 +33,6 @@ description: Long Cheng, publications
 1. Dawen Xu, Meng He, Cheng Liu, Ying Wang, Long Cheng, Huawei Li, Xiaowei Li, Kwang-Ting Cheng. [R2F: A Remote Retraining Framework for AIoT Processors with Computing Errors](https://doi.org/10.1109/TVLSI.2021.3089224). *IEEE Transactions on Very Large Scale Integration Systems*, 29(11): 1955-1966, 2021.
 
 1. Ying Wang, Yintao He, Long Cheng, Huawei Li, Xiaowei Li. [A Fast Precision Tuning Solution for Always-On DNN Accelerators](https://doi.org/10.1109/TCAD.2021.3089667). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 41(5): 1236-1248, 2022.
-
-1. Cong Liu, Long Cheng, Qingtian Zeng, Lijie Wen. Formal Modeling and Discovery of Hierarchical Business Processes: A Petri Net based Approach. *IEEE Transactions on Systems, Man and Cybernetics: Systems*, 2021.
 
 1. Mingming Liu, Long Cheng (CA), Yingqi Gu, Ying Wang, Qingzhi Liu, Noel O'Connor. [MPC-CSAS: Multi-Party Computation for Real-time Privacy-preserving Speed Advisory Systems](https://doi.org/10.1109/TITS.2021.3052840). *IEEE Transactions on Intelligent Transportation Systems*, 2021 (in press).
 

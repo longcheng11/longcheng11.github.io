@@ -6,9 +6,12 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
-1. Jianbin Li, Shike Li, Long Cheng (CA), Qingzhi Liu, Jiaming Pei, Shen Wang. [BSAS: A Blockchain-based Trustworthy and Privacy-Preserving Speed Advisory System](). *IEEE Transactions on Vehicular Technology*, 2022 (in press)
 
-1. Jianbin Li, Zhiqiang Chen, Long Cheng (CA), Xiufeng Liu. [Energy Data Generation with Wasserstein Deep Convolutional Generative Adversarial Networks](). *Energy*, 2022 (in press)
+1. Ying Mao, Vaishali Sharma, Wenjia Zheng, Long Cheng, Qiang Guan, Ang Li. [Elastic Resource Management for Deep Learning Applications in a Container Cluster](). *IEEE Transactions on Cloud Computing*, 2022 (in press)
+
+1. Jianbin Li, Shike Li, Long Cheng (CA), Qingzhi Liu, Jiaming Pei, Shen Wang. [BSAS: A Blockchain-based Trustworthy and Privacy-Preserving Speed Advisory System](https://doi.org/10.1007/10.1109/TVT.2022.3189410). *IEEE Transactions on Vehicular Technology*, 2022 (in press)
+
+1. Jianbin Li, Zhiqiang Chen, Long Cheng (CA), Xiufeng Liu. [Energy Data Generation with Wasserstein Deep Convolutional Generative Adversarial Networks](https://doi.org/10.1016/j.energy.2022.124694). *Energy*, 257: 124694, 2022.
 
 1. Long Cheng, Archana Kalapgar, Amogh Jain, Yue Wang, Yongtai Qin, Yuancheng Li, Cong Liu. [Cost-aware Real-time Job Scheduling for Hybrid Cloud using Deep Reinforcement Learning](https://doi.org/10.1007/s00521-022-07477-x). *Neural Computing and Applications*, 2022 (in press)
 
@@ -52,7 +55,7 @@ description: Long Cheng, publications
 
 1. Ying Wang, Yongchen Wang, Cong Shi, Long Cheng, Huawei Li, Xiaowei Li. [An Edge 3D CNN Accelerator for Low Power Activity Recognition](https://dx.doi.org/10.1109/TCAD.2020.3011042). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 40(5): 918-930, 2021.	
 	
-1. Cong Liu, Qingtian Zeng, Long Cheng (CA), Hua Duan, Mengchu Zhou, Jiujun Cheng. [Privacy-preserving Behavioral Correctness Verification of Cross-organizational Workflow with Task Synchronization Patterns](https://dx.doi.org/10.1109/TASE.2020.2993376). *IEEE Transactions on Automation Science and Engineering*, 18(3): 1037-1048, 2021.	
+1. Cong Liu, Qingtian Zeng, Long Cheng, Hua Duan, Mengchu Zhou, Jiujun Cheng. [Privacy-preserving Behavioral Correctness Verification of Cross-organizational Workflow with Task Synchronization Patterns](https://dx.doi.org/10.1109/TASE.2020.2993376). *IEEE Transactions on Automation Science and Engineering*, 18(3): 1037-1048, 2021.	
 
 1. Michael J. Maher, Ilias Tachmazidis, Grigoris Antoniou, Stephen Wade, Long Cheng. [Rethinking Defeasible Reasoning: A Scalable Approach](https://dx.doi.org/10.1017/S1471068420000010). *Theory and Practice of Logic Programming*, 20(4): 552–586, 2020.
 
@@ -82,7 +85,7 @@ description: Long Cheng, publications
 
 1. Jinwei Liu, Long Cheng, Ankur Sarker, Li Yan. [DeepTrack: An ML-based Approach to Health Disparity Identification and Determinant Tracking for Improving Pandemic Health Care](https://dx.doi.org/10.1109/BigData52589.2021.9671860). *2021 IEEE International Conference on Big Data*, pp. 1692-1698, Orlando, USA, Dec 2021.
 
-1. Li Du, Long Cheng, Cong Liu. [Process Mining for Wind Turbine Maintenance Process Analysis: A Case Study](). *EI2: Proc. 5th IEEE Conference on Energy Internet and Energy System Integration*, Taiyuan, China, Nov 2021.
+1. Li Du, Long Cheng, Cong Liu. [Process Mining for Wind Turbine Maintenance Process Analysis: A Case Study](https://doi.org/10.1109/ei252483.2021.9713329 ). *EI2: Proc. 5th IEEE Conference on Energy Internet and Energy System Integration*, Taiyuan, China, Nov 2021.
 
 1. 王颖，刘聪，闻立杰，曾庆田，程龙. [一种分层多实例过程模型挖掘方法](). *中国业务过程管理大会*， August 2021 （最佳学生论文奖，最具有企业应用价值奖).
 
@@ -94,7 +97,7 @@ description: Long Cheng, publications
 
 1. Jinwei Liu, Long Cheng, Hongmei Chi. [DeepDive: Examining Determinants of Health Disparities in COVID-19 for Improving Pandemic Health Care](https://doi.org/10.1145/3448823.3448867). *ICVISP 2020: Proc. 4th International Conference on Vision, Image and Signal Processing*, Dec 2020.
 
-1. Yulong Pei, Cong Liu, Chuanyang Zheng, Long Cheng. [Nonnegative Residual Matrix Factorization for Community Detection](https://dx.doi.org/10.1007%2F978-3-030-62005-9_15). *WISE'20: Proc. 21st International Conference on Web Information Systems Engineering*,  pp. 196-209, Amsterdam and Leiden, Netherlands, Oct 2020.
+1. Yulong Pei, Cong Liu, Chuanyang Zheng, Long Cheng. [Nonnegative Residual Matrix Factorization for Community Detection](https://dx.doi.org/10.1007/978-3-030-62005-9_15). *WISE'20: Proc. 21st International Conference on Web Information Systems Engineering*,  pp. 196-209, Amsterdam and Leiden, Netherlands, Oct 2020.
 
 1. Wenjia Zheng, Yun Song, Zihao Guo, Yongchen Cui, Suwen Gu, Ying Mao, Long Cheng. [Target-based Resource Allocation for Deep Learning Applications in a Multi-tenancy System](https://dx.doi.org/10.1109/HPEC.2019.8916403). *HPEC'19: Proc. 23rd IEEE High Performance Extreme Computing Conference*, pp. 1-7, Waltham, USA, Sept 2019. 
 
@@ -108,7 +111,7 @@ description: Long Cheng, publications
 
 1. Qingzhi Liu, Tanir Ozcelebi, Long Cheng, Fernando Kuipers, Johan Lukkien. [CluFlow: Cluster-based Flow Management in Software-Defined Wireless Sensor Networks](https://dx.doi.org/10.1109/WCNC.2019.8885485). *WCNC'19: Proc. 2019 IEEE Wireless Communications and Networking Conference*, Morocco, April 2019. 
 
-1. Long Cheng, John Murphy, Qingzhi Liu, Chunliang Hao, Georgios Theodoropoulos. [Minimizing Network Traffic for Distributed Joins Using Lightweight Locality-Aware Scheduling](https://dx.doi.org/10.1007/978-3-319-96983-1).  *Euro-Par'18: Proc. 24th European Conference on Parallel Processing*, pp. 293-305, Turin, Italy, Aug 2018. 
+1. Long Cheng, John Murphy, Qingzhi Liu, Chunliang Hao, Georgios Theodoropoulos. [Minimizing Network Traffic for Distributed Joins Using Lightweight Locality-Aware Scheduling](https://doi.org/10.1007/978-3-319-96983-1_21).  *Euro-Par'18: Proc. 24th European Conference on Parallel Processing*, pp. 293-305, Turin, Italy, Aug 2018. 
 
 1. Long Cheng, Ying Wang, Yulong Pei, Dick Epema. [A Coflow-based Co-optimization Framework for High-performance Data Analytics](https://dx.doi.org/10.1109/ICPP.2017.48). *ICPP'17: Proc. 46th International Conference on Parallel Processing*, pp. 392-401, Bristol, UK, Aug 2017. 
 

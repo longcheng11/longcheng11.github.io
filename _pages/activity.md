@@ -12,6 +12,7 @@ description: Long Cheng, activities
 - Session Chair of Application and Data Sciences @ IEEE/ACM CCGrid, 2019.
 
 #### **Editorial Board**
+- Co-Chair of Advanced Cloud Service, Journal of Cloud Computing.
 - Associate Editor, Journal of Cloud Computing.
 
 #### **Review Board**

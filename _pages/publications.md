@@ -7,19 +7,19 @@ description: Long Cheng, publications
 #### **Journals**
 
 
-1. Ying Mao, Vaishali Sharma, Wenjia Zheng, Long Cheng, Qiang Guan, Ang Li. [Elastic Resource Management for Deep Learning Applications in a Container Cluster](). *IEEE Transactions on Cloud Computing*, 2022 (in press)
+1. Ying Mao, Vaishali Sharma, Wenjia Zheng, Long Cheng, Qiang Guan, Ang Li. [Elastic Resource Management for Deep Learning Applications in a Container Cluster](https://doi.org/10.1109/TCC.2022.3194128). *IEEE Transactions on Cloud Computing*, 2022 (in press)
 
-1. Jianbin Li, Shike Li, Long Cheng (CA), Qingzhi Liu, Jiaming Pei, Shen Wang. [BSAS: A Blockchain-based Trustworthy and Privacy-Preserving Speed Advisory System](https://doi.org/10.1007/10.1109/TVT.2022.3189410). *IEEE Transactions on Vehicular Technology*, 2022 (in press)
+1. Jianbin Li, Shike Li, Long Cheng (CA), Qingzhi Liu, Jiaming Pei, Shen Wang. [BSAS: A Blockchain-based Trustworthy and Privacy-Preserving Speed Advisory System](https://doi.org/10.1109/TVT.2022.3189410). *IEEE Transactions on Vehicular Technology*, 2022 (in press)
 
 1. Jianbin Li, Zhiqiang Chen, Long Cheng (CA), Xiufeng Liu. [Energy Data Generation with Wasserstein Deep Convolutional Generative Adversarial Networks](https://doi.org/10.1016/j.energy.2022.124694). *Energy*, 257: 124694, 2022.
 
 1. Long Cheng, Archana Kalapgar, Amogh Jain, Yue Wang, Yongtai Qin, Yuancheng Li, Cong Liu. [Cost-aware Real-time Job Scheduling for Hybrid Cloud using Deep Reinforcement Learning](https://doi.org/10.1007/s00521-022-07477-x). *Neural Computing and Applications*, 2022 (in press)
 
-1. Cong Liu, Huiling Li, Shuaipeng Zhang, Long Cheng, Qingtian Zeng. [Cross-Department Collaborative Healthcare Process Model Discovery from Event Logs](). *IEEE Transactions on Automation Science and Engineering*, 2022 (in press).
+1. Cong Liu, Huiling Li, Shuaipeng Zhang, Long Cheng, Qingtian Zeng. [Cross-Department Collaborative Healthcare Process Model Discovery from Event Logs](https://doi.org/10.1109/TASE.2022.3194312). *IEEE Transactions on Automation Science and Engineering*, 2022 (in press).
 
 1. Ying Mao, Weifeng Yan, Yun Song, Yue Zeng, Ming Chen, Long Cheng, Qingzhi Liu. [Differentiate Quality of Experience Scheduling for Deep Learning Inferences with Docker Containers in the Cloud](https://doi.org/10.1109/TCC.2022.3154117). *IEEE Transactions on Cloud Computing*, 2022 (in press).
 
-1. Cong Liu, Long Cheng, Qingtian Zeng, Lijie Wen. [Formal Modeling and Discovery of Hierarchical Business Processes: A Petri Net based Approach](). *IEEE Transactions on Systems, Man and Cybernetics: Systems*, 2022 (in press).
+1. Cong Liu, Long Cheng, Qingtian Zeng, Lijie Wen. [Formal Modeling and Discovery of Hierarchical Business Processes: A Petri Net based Approach](https://doi.org/10.1109/TSMC.2022.3195869). *IEEE Transactions on Systems, Man and Cybernetics: Systems*, 2022 (in press).
 
 1. Ying Mao, Yuqi Fu, Wenjia Zheng, Long Cheng, Qingzhi Liu, Dingwen Tao. [Speculative Container Scheduling for Deep Learning Applications in a Kubernetes Cluster](https://doi.org/10.1109/JSYST.2021.3129974). *IEEE Systems Journal*, 2021 (in press).
 
@@ -78,6 +78,12 @@ description: Long Cheng, publications
 1. Long Cheng, Spyros Kotoulas. [Scale-Out Processing of Large RDF Datasets](https://dx.doi.org/10.1109/TBDATA.2015.2505719). *IEEE Transactions on Big Data*, 1(4): 138-150, 2015.
 
 #### **Proceedings**
+
+1. Wenrui Mu, Ying Mao, Long Cheng, Qingle Wang, Weiwen Jiang, Pin-Yu Chen. [Iterative Qubits Management for Quantum Index Searching in a Hybrid System](). *Proc. 41st IEEE International Performance, Computing, and Communications Conference (IPCCC)*, Austin, USA, 2022.
+
+1. Yuqi Fu, Naseem Machlovi, Ying Mao, Jiayin Wang, Long Cheng, Qingzhi Liu. [Performance Evaluation of Resource Management Schemes for Cloud Native Platforms with Computing Containers](). *Proc. 41st IEEE International Performance, Computing, and Communications Conference (IPCCC)*, Austin, USA, 2022.
+
+1. Jinwei Liu, Xiaonan Zhang, Richard A. Alo, Long Cheng, Feng Deng. [CrossCas: A novel cross-platform approach for predicting cascades in online social networks with hidden markov model](). *Proc. IEEE Global Communications Conference (GLOBECOM)*,  Rio de Janeiro, Brazil, Dec 2022.
 
 1. Lianting Xue, Long Cheng, Yuancheng Li, Ying Mao. [Quantum Machine Learning for Electricity Theft Detection: An Initial Investigation](https://dx.doi.org/10.1109/iThings-GreenCom-CPSCom-SmartData-Cybermatics53846.2021.00043). *Proc. 14th IEEE International Conference on Cyber, Physical and Social Computing*, pp. 204-208, Melbourne, Australia, Dec 2021.
 

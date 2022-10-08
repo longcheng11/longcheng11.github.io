@@ -34,9 +34,15 @@ Java Programming, 2012
 
 #### **Supervision**
 
-- L. Du. AI for Process Mining.  Master Student, 2021 - 2024.
+- H. He. DRL for Cloud Computing. Master Student, 2022 - 2025.
 
-- X. Mao. High-peformance Process Mining. Master Student, 2021 - 2024.
+- H. Liu. DRL for Intelligent Call Center Services. Master Student, 2022 - 2025.
+
+- B. Xiong. DRL for Smart Energy Management. Master Student, 2022 - 2025.
+
+- A. Zhang. DRL for Smart Energy Management. Master Student, 2022 - 2025.
+
+- L. Du. AI for Process Mining.  Master Student, 2021 - 2024.
 
 - Y. Wang. DRL for Cloud Computing. Master Student, 2021 - 2024.
 

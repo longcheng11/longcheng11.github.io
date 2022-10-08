@@ -83,4 +83,4 @@ description: Long Cheng, chinese, 中文简介
 - [Ilias Tachmazidis](https://iliastachmazidis.blogspot.co.uk/) （英国Huddersfield大学高级讲师）
 - [Georgios Theodoropoulos](https://www.gtheodoropoulos.com/) （中国南方科技大学讲席教授）
 - [Tomas Ward](https://www.computing.dcu.ie/~tward/) （爱尔兰都柏林城市大学讲席教授）
-- [Ying Wang](https://wangying-ict.github.io/) （中科院体系结构国重实验室副研究员）
+- [Ying Wang](https://wangying-ict.github.io/) （中科院计算所博导、国家优青）

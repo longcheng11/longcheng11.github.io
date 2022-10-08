@@ -7,6 +7,8 @@ description: Long Cheng, publications
 #### **Journals**
 
 
+1. Ramesh Chand Meena, Surbhi Bhatia, Rutvij Jhaveri, Long Cheng, Ankit Kumar, Arwa Mashate. [HyPASS: Design of Hybrid-SDN Prevention of Attacks of Source Spoofing with Host Discovery and Address Validation](), *Physical Communication*, 2022 (in press)
+
 1. Ying Mao, Vaishali Sharma, Wenjia Zheng, Long Cheng, Qiang Guan, Ang Li. [Elastic Resource Management for Deep Learning Applications in a Container Cluster](https://doi.org/10.1109/TCC.2022.3194128). *IEEE Transactions on Cloud Computing*, 2022 (in press)
 
 1. Jianbin Li, Shike Li, Long Cheng (CA), Qingzhi Liu, Jiaming Pei, Shen Wang. [BSAS: A Blockchain-based Trustworthy and Privacy-Preserving Speed Advisory System](https://doi.org/10.1109/TVT.2022.3189410). *IEEE Transactions on Vehicular Technology*, 2022 (in press)
@@ -83,7 +85,7 @@ description: Long Cheng, publications
 
 1. Yuqi Fu, Naseem Machlovi, Ying Mao, Jiayin Wang, Long Cheng, Qingzhi Liu. [Performance Evaluation of Resource Management Schemes for Cloud Native Platforms with Computing Containers](). *Proc. 41st IEEE International Performance, Computing, and Communications Conference (IPCCC)*, Austin, USA, 2022.
 
-1. Jinwei Liu, Xiaonan Zhang, Richard A. Alo, Long Cheng, Feng Deng. [CrossCas: A novel cross-platform approach for predicting cascades in online social networks with hidden markov model](). *Proc. IEEE Global Communications Conference (GLOBECOM)*,  Rio de Janeiro, Brazil, Dec 2022.
+1. Jinwei Liu, Xiaonan Zhang, Richard A. Alo, Long Cheng, Feng Deng. [CrossCas: A Novel Cross-platform Approach for Predicting Cascades in Online Social Networks with Hidden Markov Model](). *Proc. IEEE Global Communications Conference (GLOBECOM)*,  Rio de Janeiro, Brazil, Dec 2022.
 
 1. Lianting Xue, Long Cheng, Yuancheng Li, Ying Mao. [Quantum Machine Learning for Electricity Theft Detection: An Initial Investigation](https://dx.doi.org/10.1109/iThings-GreenCom-CPSCom-SmartData-Cybermatics53846.2021.00043). *Proc. 14th IEEE International Conference on Cyber, Physical and Social Computing*, pp. 204-208, Melbourne, Australia, Dec 2021.
 
@@ -93,7 +95,7 @@ description: Long Cheng, publications
 
 1. Li Du, Long Cheng, Cong Liu. [Process Mining for Wind Turbine Maintenance Process Analysis: A Case Study](https://doi.org/10.1109/ei252483.2021.9713329 ). *EI2: Proc. 5th IEEE Conference on Energy Internet and Energy System Integration*, Taiyuan, China, Nov 2021.
 
-1. 王颖，刘聪，闻立杰，曾庆田，程龙. [一种分层多实例过程模型挖掘方法](). *中国业务过程管理大会*， August 2021 （最佳学生论文奖，最具有企业应用价值奖).
+1. 王颖，刘聪，闻立杰，曾庆田，程龙. [分层多实例过程模型挖掘方法](https://r.cnki.net/kcms/detail/detail.aspx?filename=JSJJ20211029003&dbcode=CJFQ&dbname=CAPJ2021&v=&uid=WEEvREcwSlJHSldSdmVpaVVVRWJlbmV2c1phU1phZmgyc1QwdVFMUk51az0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!). *中国业务过程管理大会*， August 2021 （最佳学生论文奖，最具有企业应用价值奖).
 
 1. Jianbin Li, Ketong Qu, Jingchen Yan, Liting Zhou, Long Cheng. [TEBC-Net: An Effective Relation Extraction Approach for Simple Question Answering over Knowledge Graphs](https://doi.org/10.1007/978-3-030-82136-4_13). *KSEM 2021: Proc. 14th International Conference on Knowledge Science, Engineering and Management*, pp. 154-165, Tokyo, Japan, August 2021.
 

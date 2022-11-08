@@ -34,7 +34,7 @@ Java Programming, 2012
 
 #### **Supervision**
 
-- H. He. DRL for Cloud Computing. Master Student, 2022 - 2025.
+- H. He. DRL for Cloud Computing Security and Privacy Protection. Master Student, 2022 - 2025.
 
 - H. Liu. DRL for Intelligent Call Center Services. Master Student, 2022 - 2025.
 

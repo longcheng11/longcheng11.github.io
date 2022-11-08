@@ -12,7 +12,7 @@ description: Long Cheng, cv
 Full Professor, School of Control and Computer Engineering, 2020.12 -
 
 - [Insight SFI Research Centre for Data Analytics](https://www.insight-centre.org/), Dublin, Ireland<br>
-Visiting Professor, 2021.01 -
+Visiting Professor, 2021.01 - 2023.12
 
 - [Dublin City University](https://www.dcu.ie/), Dublin, Ireland<br>
 Assistant Professor, School of Computing, 2019.09 - 2020.11

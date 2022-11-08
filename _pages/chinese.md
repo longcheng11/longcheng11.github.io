@@ -8,10 +8,12 @@ description: Long Cheng, chinese, 中文简介
 #### **个人简介**
 程龙，博士，现为华北电力大学控制与计算机工程学院教授、博士生导师、爱尔兰国家数据分析研究中心访问教授。他之前是爱尔兰都柏林城市大学计算机学院助理教授、欧盟玛丽居里学者。主要研究方向是并行分布式计算、深度学习、云计算和大数据处理以及这些技术在流程挖掘与能源大数据上的应用。曾在华为德国，IBM都柏林研究院工作过，并且在德国德累斯顿工业大学和荷兰埃因霍温理工大学从事过博士后研究，具有多年一线大数据系统和算法设计、开发与优化经验, 并于2018年获得欧盟资助个人科研最高奖项之一玛丽居里个人基金。
 
-程教授在并行分布式计算和大数据处理的权威期刊与会议比如TPDS, TON, TC, TSC, TCC, TCAD, TASE, TVT, TSMC, TITS, IEEE Network, JPDC, ICPP, CIKM, CCGrid, EuroPar和HiPC上发表80余篇文章（含IEEE/ACM Transactions/Magazine/Journal 近30篇），并且长期为对应的期刊和会议审稿，同时也是IPDPS，ICPP, CCGrid和CLUSTER等知名国际会议的程序委员会成员。他于2007年本科毕业于哈尔滨工业大学，2010年硕士毕业于德国杜伊斯堡-艾森大学(硕士论文由华为德国公司资助)，并于2014年获得爱尔兰国立大学-梅努斯的博士学位(由爱尔兰国家研究委员会全额博士奖学金资助)。目前是IEEE高级会员，SCI期刊Journal of Cloud Computing副主编，IEEE TPDS期刊Review Board成员, 瑞士国家自然科学基金（SNSF）外国评审专家。
+程教授在并行分布式计算和大数据处理的权威期刊与会议比如TPDS, TON, TC, TSC, TCC, TCAD, TASE, TVT, TSMC, TITS, IEEE Network, JPDC, HPCA, ICPP, CIKM, CCGrid, EuroPar和HiPC上发表80余篇文章（含IEEE/ACM Transactions/Magazine/Journal 近30篇），并且长期为对应的期刊和会议审稿，同时也是IPDPS，ICPP, CCGrid和CLUSTER等知名国际会议的程序委员会成员。他于2007年本科毕业于哈尔滨工业大学，2010年硕士毕业于德国杜伊斯堡-艾森大学(硕士论文由华为德国公司资助)，并于2014年获得爱尔兰国立大学-梅努斯的博士学位(由爱尔兰国家研究委员会全额博士奖学金资助)。目前是IEEE高级会员，SCI期刊Journal of Cloud Computing副主编，IEEE TPDS期刊Review Board成员, 瑞士国家自然科学基金（SNSF）外国评审专家。
 
 
 #### **部分最新论文**
+
+1. Y. Xu, **L. Cheng**, Y. Wang, X. Cai, X. Ma, W. Chen, L. Zhang. [Towards Efficient Supernet Training Using Path Parallelism](). *Proc. 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA 2023)*, Montreal, Canada, 2023 (CCF-A)
 
 1. Y. Mao, V. Sharma, W. Zheng, **L. Cheng**, Q. Guan, A. Li. [Elastic Resource Management for Deep Learning Applications in a Container Cluster](https://doi.org/10.1109/TCC.2022.3194128). *IEEE Transactions on Cloud Computing*, 2022  (中科院二区)
 
@@ -68,6 +70,7 @@ description: Long Cheng, chinese, 中文简介
 1. 中央高校基金面上项目: 边缘计算中深度学习推理并行执行的优化研究。2021-2022，15万元，项目负责人。
 
 1. 欧盟H2020玛丽居里项目：大型分布式系统中网络感知的数据查询优化。2018-2019，20万欧元，项目负责人。
+
 
 #### **外校主要合作者**
 - [Wil van der Aalst](https://www.padsweb.rwth-aachen.de/wvdaalst/) (欧洲科学院院士，洪堡教授，流程挖掘创始人)

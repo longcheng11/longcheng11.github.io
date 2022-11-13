@@ -13,6 +13,8 @@ description: Long Cheng, chinese, 中文简介
 
 #### **部分最新论文**
 
+1. **L. Cheng**, C. Liu, Q. Zeng. [Optimal Alignments Between Large Event Logs and Process Models over Distributed Systems: An Approach Based on Petri Nets](), *Information Sciences*, 2022  (中科院一区)
+
 1. Y. Xu, **L. Cheng**, Y. Wang, X. Cai, X. Ma, W. Chen, L. Zhang. [Towards Efficient Supernet Training Using Path Parallelism](). *Proc. 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA 2023)*, Montreal, Canada, 2023 (CCF-A)
 
 1. Y. Mao, V. Sharma, W. Zheng, **L. Cheng**, Q. Guan, A. Li. [Elastic Resource Management for Deep Learning Applications in a Container Cluster](https://doi.org/10.1109/TCC.2022.3194128). *IEEE Transactions on Cloud Computing*, 2022  (中科院二区)

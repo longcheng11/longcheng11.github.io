@@ -7,7 +7,7 @@ description: Long Cheng, teaching
 #### **Teaching Experience**
 
 - North China Electric Power University (Professor)<br>
-Compiler Technologies (in Chinese), 2021<br>
+Compiler Technologies (in Chinese), 2022<br>
 Operating Systems (in Chinese), 2022<br>
 Compiler Technologies (in Chinese), 2021
 

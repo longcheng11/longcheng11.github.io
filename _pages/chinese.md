@@ -13,7 +13,7 @@ description: Long Cheng, chinese, 中文简介
 
 #### **部分最新论文**
 
-1. S. Li, J. Li, J. Pei, S. Wu, S. Wang, **L. Cheng**. [Eco-CSAS: A Safe and Eco-friendly Speed Advisory System for Autonomous Vehicle Platoon Using Consortium Blockchain](), *IEEE Transactions on Intelligent Transportation Systems*, 2022  (中科院一区)
+1. S. Li, J. Li, J. Pei, S. Wu, S. Wang, **L. Cheng**. [Eco-CSAS: A Safe and Eco-friendly Speed Advisory System for Autonomous Vehicle Platoon using Consortium Blockchain](), *IEEE Transactions on Intelligent Transportation Systems*, 2022  (中科院一区)
 
 1. **L. Cheng**, C. Liu, Q. Zeng. [Optimal Alignments Between Large Event Logs and Process Models over Distributed Systems: An Approach Based on Petri Nets](), *Information Sciences*, 2022  (中科院一区)
 

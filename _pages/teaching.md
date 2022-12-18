@@ -34,19 +34,19 @@ Java Programming, 2012
 
 #### **Supervision**
 
-- H. He. DRL for Cloud Computing Security and Privacy Protection. Master Student, 2022 - 2025.
+- H. He. DRL for Cloud Security and Privacy Protection. Master Student, 2022 - 2025.
 
 - H. Liu. DRL for Intelligent Call Center Services. Master Student, 2022 - 2025.
 
-- B. Xiong. DRL for Smart Energy Management. Master Student, 2022 - 2025.
+- B. Xiong. DRL for Home-based Energy Management. Master Student, 2022 - 2025.
 
-- A. Zhang. DRL for Smart Energy Management. Master Student, 2022 - 2025.
+- A. Zhang. DRL for Smart Energy Management in Microgrid. Master Student, 2022 - 2025.
 
 - L. Du. AI for Process Mining.  Master Student, 2021 - 2024.
 
-- Y. Wang. DRL for Cloud Computing. Master Student, 2021 - 2024.
+- Y. Wang. DRL for Cloud Task Scheduling in the Large. Master Student, 2021 - 2024.
 
-- J. Zhang. DRL for Cloud Computing. Master Student, 2021 - 2024.
+- J. Zhang. DRL for Cloud Workflow Scheduling. Master Student, 2021 - 2024.
 
 - P. Sawalani and B. Tanpure, “Deep reinforcement learning based resource allocation for cost optimization in cloud computing”. Master Project, 2020.
 

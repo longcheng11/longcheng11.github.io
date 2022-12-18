@@ -6,7 +6,7 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
-1. Shike Li, Jianbin Li, Jiaming Pei, Sixing Wu, Shen Wang, Long Cheng. [Eco-CSAS: A Safe and Eco-friendly Speed Advisory System for Autonomous Vehicle Platoon Using Consortium Blockchain](), *IEEE Transactions on Intelligent Transportation Systems*, 2022 (in press)
+1. Shike Li, Jianbin Li, Jiaming Pei, Sixing Wu, Shen Wang, Long Cheng. [Eco-CSAS: A Safe and Eco-friendly Speed Advisory System for Autonomous Vehicle Platoon using Consortium Blockchain](), *IEEE Transactions on Intelligent Transportation Systems*, 2022 (in press)
 
 1. Long Cheng, Cong Liu, Qingtian Zeng. [Optimal Alignments Between Large Event Logs and Process Models over Distributed Systems: An Approach Based on Petri Nets](https://doi.org/10.1016/j.ins.2022.11.052), *Information Sciences*, 2022 (in press)
 

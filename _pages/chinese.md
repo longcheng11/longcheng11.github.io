@@ -8,14 +8,16 @@ description: Long Cheng, chinese, 中文简介
 #### **个人简介**
 程龙，博士，现为华北电力大学控制与计算机工程学院教授、博士生导师、爱尔兰国家数据分析研究中心访问教授。他之前是爱尔兰都柏林城市大学计算机学院助理教授、欧盟玛丽居里学者。主要研究方向是并行分布式计算、深度学习、云计算和大数据处理以及这些技术在流程挖掘与能源大数据上的应用。曾在华为德国，IBM都柏林研究院工作过，并且在德国德累斯顿工业大学和荷兰埃因霍温理工大学从事过博士后研究，具有多年一线大数据系统和算法设计、开发与优化经验, 并于2018年获得欧盟资助个人科研最高奖项之一玛丽居里个人基金。
 
-程教授在并行分布式计算和大数据处理的权威期刊与会议比如TPDS, TON, TC, TSC, TCC, TCAD, TASE, TVT, TSMC, TITS, IEEE Network, JPDC, HPCA, ICPP, CIKM, CCGrid, EuroPar和HiPC上发表80余篇文章（含IEEE/ACM Transactions/Magazine/Journal 近30篇），并且长期为对应的期刊和会议审稿，同时也是IPDPS，ICPP, CCGrid和CLUSTER等知名国际会议的程序委员会成员。他于2007年本科毕业于哈尔滨工业大学，2010年硕士毕业于德国杜伊斯堡-艾森大学(硕士论文由华为德国公司资助)，并于2014年获得爱尔兰国立大学-梅努斯的博士学位(由爱尔兰国家研究委员会全额博士奖学金资助)。目前是IEEE高级会员，SCI期刊Journal of Cloud Computing副主编，IEEE TPDS期刊Review Board成员, 瑞士国家自然科学基金（SNSF）外国评审专家。
+程教授在并行分布式计算和大数据处理的权威期刊与会议比如TPDS, TON, TC, TSC, TCC, TCAD, TASE, TVT, TSMC, TITS, IEEE Network, JPDC, HPCA, ICPP, CIKM, CCGrid, EuroPar和HiPC上发表80余篇文章（含IEEE/ACM Transactions/Magazine/Journal 近30篇），并且长期为对应的期刊和会议审稿，同时也是IPDPS，ICPP, CCGrid和CLUSTER等知名国际会议的程序委员会成员。他于2007年本科毕业于哈尔滨工业大学，2010年硕士毕业于德国杜伊斯堡-艾森大学(硕士论文由华为德国公司资助)，并于2014年获得爱尔兰国立大学-梅努斯的博士学位(由爱尔兰国家研究委员会全额博士奖学金资助)。目前是IEEE高级会员，SCI期刊Journal of Cloud Computing副主编（Co-Chair），IEEE TPDS期刊Review Board成员, 瑞士国家自然科学基金（SNSF）外国评审专家。
 
 
 #### **部分最新论文**
 
+1. S. Li, J. Li, J. Pei, S. Wu, S. Wang, **L. Cheng**. [Eco-CSAS: A Safe and Eco-friendly Speed Advisory System for Autonomous Vehicle Platoon Using Consortium Blockchain](), *IEEE Transactions on Intelligent Transportation Systems*, 2022  (中科院一区)
+
 1. **L. Cheng**, C. Liu, Q. Zeng. [Optimal Alignments Between Large Event Logs and Process Models over Distributed Systems: An Approach Based on Petri Nets](), *Information Sciences*, 2022  (中科院一区)
 
-1. Y. Xu, **L. Cheng**, Y. Wang, X. Cai, X. Ma, W. Chen, L. Zhang. [Towards Efficient Supernet Training Using Path Parallelism](). *Proc. 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA 2023)*, Montreal, Canada, 2023 (CCF-A)
+1. Y. Xu, **L. Cheng**, X. Cai, X. Ma, W. Chen, L. Zhang. Y. Wang. [Efficient Supernet Training Using Path Parallelism](). *Proc. 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA 2023)*, Montreal, Canada, 2023 (CCF-A)
 
 1. Y. Mao, V. Sharma, W. Zheng, **L. Cheng**, Q. Guan, A. Li. [Elastic Resource Management for Deep Learning Applications in a Container Cluster](https://doi.org/10.1109/TCC.2022.3194128). *IEEE Transactions on Cloud Computing*, 2022  (中科院二区)
 
@@ -49,7 +51,7 @@ description: Long Cheng, chinese, 中文简介
 
 1. M. Liu, **L. Cheng** (通讯), Y. Gu, Y. Wang, Q. Liu, N. O'Connor. [MPC-CSAS: Multi-Party Computation for Real-time Privacy-preserving Speed Advisory Systems](https://doi.org/10.1109/TITS.2021.3052840). *IEEE Transactions on Intelligent Transportation Systems*, 2021 (中科院一区).
 
-1. Q. Liu, **L. Cheng** (通讯), A. Jia, C. Liu. [Deep Reinforcement Learning for Communication Flow Control in Wireless Mesh Networks](https://doi.org/10.1109/MNET.011.2000303). *IEEE Network Magazine*, 2021 (中科院一区).
+1. Q. Liu, **L. Cheng** (通讯), A. Jia, C. Liu. [Deep Reinforcement Learning for Communication Flow Control in Wireless Mesh Networks](https://doi.org/10.1109/MNET.011.2000303). *IEEE Network*, 2021 (中科院一区, **ESI高被引论文**).
 
 1. C. Liu, Q. Zeng, **L. Cheng** (通讯), H. Duan, J. Cheng. [Measuring Similarity for Data-aware Business Processes](https://doi.org/10.1109/TASE.2021.3049772). *IEEE Transactions on Automation Science and Engineering*, 2020 (CCF-B).
 
@@ -65,6 +67,8 @@ description: Long Cheng, chinese, 中文简介
 
 
 #### **主持项目**
+1. 南方电网网络空间安全联合实验室项目：面向云计算环境的数据安全监控及分析关键技术研究。2023-2024，20万元，项目负责人。
+
 1. 国家电网科技项目：支撑分布式储能网络化运营关键技术研究。2021-2024，500万元，课题负责人。
 
 1. 国家重点研发计划：保障冬奥赛事网络和系统不间断运行的XX关键技术研究与应用。2021-2022，1000万元，子课题负责人。

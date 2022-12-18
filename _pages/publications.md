@@ -6,7 +6,9 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
-1. Long Cheng, Cong Liu, Qingtian Zeng. [Optimal Alignments Between Large Event Logs and Process Models over Distributed Systems: An Approach Based on Petri Nets](), *Information Sciences*, 2022 (in press)
+1. Shike Li, Jianbin Li, Jiaming Pei, Sixing Wu, Shen Wang, Long Cheng. [Eco-CSAS: A Safe and Eco-friendly Speed Advisory System for Autonomous Vehicle Platoon Using Consortium Blockchain](), *IEEE Transactions on Intelligent Transportation Systems*, 2022 (in press)
+
+1. Long Cheng, Cong Liu, Qingtian Zeng. [Optimal Alignments Between Large Event Logs and Process Models over Distributed Systems: An Approach Based on Petri Nets](https://doi.org/10.1016/j.ins.2022.11.052), *Information Sciences*, 2022 (in press)
 
 1. Ramesh Chand Meena, Surbhi Bhatia, Rutvij Jhaveri, Long Cheng, Ankit Kumar, Arwa Mashate. [HyPASS: Design of Hybrid-SDN Prevention of Attacks of Source Spoofing with Host Discovery and Address Validation](), *Physical Communication*, 2022 (in press)
 
@@ -44,7 +46,7 @@ description: Long Cheng, publications
 
 1. Cong Liu, Qingtian Zeng, Long Cheng (CA), Hua Duan, Jiujun Cheng. [Measuring Similarity for Data-aware Business Processes](https://doi.org/10.1109/TASE.2021.3049772). *IEEE Transactions on Automation Science and Engineering*, 19(2): 1070-1082, 2022.
 
-1. Qingzhi Liu, Long Cheng (CA), Adele Jia, Cong Liu. [Deep Reinforcement Learning for Communication Flow Control in Wireless Mesh Networks](https://doi.org/10.1109/MNET.011.2000303). *IEEE Network Magazine*, 35(2): 112-119, 2021.
+1. Qingzhi Liu, Long Cheng (CA), Adele Jia, Cong Liu. [Deep Reinforcement Learning for Communication Flow Control in Wireless Mesh Networks](https://doi.org/10.1109/MNET.011.2000303). *IEEE Network*, 35(2): 112-119, 2021 (**ESI Highly Cited Paper**).
 
 1. Long Cheng, Ying Wang, Qingzhi Liu, Dick Epema, Cheng Liu, Ying Mao, John Murphy. [Network-Aware Locality Scheduling for Distributed Data Operators in Data Centers](https://doi.org/10.1109/TPDS.2021.3053241). *IEEE Transactions on Parallel and Distributed Systems*, 32(6): 1494-1510, 2021.
 
@@ -81,13 +83,13 @@ description: Long Cheng, publications
 1. Long Cheng, Spyros Kotoulas. [Scale-Out Processing of Large RDF Datasets](https://dx.doi.org/10.1109/TBDATA.2015.2505719). *IEEE Transactions on Big Data*, 1(4): 138-150, 2015.
 
 #### **Proceedings**
-1. Ying Xu, Long Cheng, Ying Wang, Xuyi Cai, Xiaohan Ma, Weiwei Chen, Lei Zhang. [Efficient Supernet Training Using Path Parallelism](). *Proc. 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA 2023)*, Montreal, Canada, Feb 2023.
+1. Ying Xu, Long Cheng, Xuyi Cai, Xiaohan Ma, Weiwei Chen, Lei Zhang, Ying Wang. [Efficient Supernet Training Using Path Parallelism](). *Proc. 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA 2023)*, Montreal, Canada, Feb 2023.
 
 1. Jinwei Liu, Xiaonan Zhang, Richard A. Alo, Long Cheng, Feng Deng. [CrossCas: A Novel Cross-platform Approach for Predicting Cascades in Online Social Networks with Hidden Markov Model](). *Proc. IEEE Global Communications Conference (GLOBECOM)*,  Rio de Janeiro, Brazil, Dec 2022.
 
-1. Wenrui Mu, Ying Mao, Long Cheng, Qingle Wang, Weiwen Jiang, Pin-Yu Chen. [Iterative Qubits Management for Quantum Index Searching in a Hybrid System](). *Proc. 41st IEEE International Performance, Computing, and Communications Conference (IPCCC)*, Austin, USA, Nov 2022.
+1. Wenrui Mu, Ying Mao, Long Cheng, Qingle Wang, Weiwen Jiang, Pin-Yu Chen. [Iterative Qubits Management for Quantum Index Searching in a Hybrid System](https://dx.doi.org/10.1109/IPCCC55026.2022.9894308). *Proc. 41st IEEE International Performance, Computing, and Communications Conference (IPCCC)*, Austin, USA, Nov 2022.
 
-1. Yuqi Fu, Naseem Machlovi, Ying Mao, Jiayin Wang, Long Cheng, Qingzhi Liu. [Performance Evaluation of Resource Management Schemes for Cloud Native Platforms with Computing Containers](). *Proc. 41st IEEE International Performance, Computing, and Communications Conference (IPCCC)*, Austin, USA, Nov 2022.
+1. Yuqi Fu, Naseem Machlovi, Ying Mao, Jiayin Wang, Long Cheng, Qingzhi Liu. [Performance Evaluation of Resource Management Schemes for Cloud Native Platforms with Computing Containers](https://dx.doi.org/10.1109/IPCCC55026.2022.9894300). *Proc. 41st IEEE International Performance, Computing, and Communications Conference (IPCCC)*, Austin, USA, Nov 2022.
 
 1. Lianting Xue, Long Cheng, Yuancheng Li, Ying Mao. [Quantum Machine Learning for Electricity Theft Detection: An Initial Investigation](https://dx.doi.org/10.1109/iThings-GreenCom-CPSCom-SmartData-Cybermatics53846.2021.00043). *Proc. 14th IEEE International Conference on Cyber, Physical and Social Computing*, pp. 204-208, Melbourne, Australia, Dec 2021.
 

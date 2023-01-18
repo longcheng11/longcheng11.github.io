@@ -14,6 +14,7 @@ description: Long Cheng, activities
 #### **Editorial Board**
 - Co-Chair of Advanced Cloud Service, Journal of Cloud Computing.
 - Associate Editor, Journal of Cloud Computing.
+- Lead Guest Editor, IEEE Transactions on Consumer Electronics.
 
 #### **Review Board**
 - Swiss National Science Foundation. <br>

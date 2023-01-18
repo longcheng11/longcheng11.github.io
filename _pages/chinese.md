@@ -8,14 +8,18 @@ description: Long Cheng, chinese, 中文简介
 #### **个人简介**
 程龙，博士，现为华北电力大学控制与计算机工程学院教授、博士生导师、爱尔兰国家数据分析研究中心访问教授。他之前是爱尔兰都柏林城市大学计算机学院助理教授、欧盟玛丽居里学者。主要研究方向是并行分布式计算、深度学习、云计算和大数据处理以及这些技术在流程挖掘与能源大数据上的应用。曾在华为德国，IBM都柏林研究院工作过，并且在德国德累斯顿工业大学和荷兰埃因霍温理工大学从事过博士后研究，具有多年一线大数据系统和算法设计、开发与优化经验, 并于2018年获得欧盟资助个人科研最高奖项之一玛丽居里个人基金。
 
-程教授在并行分布式计算和大数据处理的权威期刊与会议比如TPDS, TON, TC, TSC, TCC, TCAD, TASE, TVT, TSMC, TITS, IEEE Network, JPDC, HPCA, ICPP, CIKM, CCGrid, EuroPar和HiPC上发表80余篇文章（含IEEE/ACM Transactions/Magazine/Journal 近30篇），并且长期为对应的期刊和会议审稿，同时也是IPDPS，ICPP, CCGrid和CLUSTER等知名国际会议的程序委员会成员。他于2007年本科毕业于哈尔滨工业大学，2010年硕士毕业于德国杜伊斯堡-艾森大学(硕士论文由华为德国公司资助)，并于2014年获得爱尔兰国立大学-梅努斯的博士学位(由爱尔兰国家研究委员会全额博士奖学金资助)。目前是IEEE高级会员，SCI期刊Journal of Cloud Computing副主编（Co-Chair），IEEE TPDS期刊Review Board成员, 瑞士国家自然科学基金（SNSF）外国评审专家。
+程教授在并行分布式计算和大数据处理的权威期刊与会议比如TPDS, TON, TC, TSC, TCC, TCAD, TASE, TVT, TSMC, TITS, IEEE Network, JPDC, HPCA, ICPP, CIKM, CCGrid, EuroPar和HiPC上发表80余篇文章（含IEEE/ACM Transactions/Magazine/Journal 近30篇），并且长期为对应的期刊和会议审稿，同时也是IPDPS，ICPP, CCGrid和CLUSTER等知名国际会议的程序委员会成员。他于2007年本科毕业于哈尔滨工业大学，2010年硕士毕业于德国杜伊斯堡-艾森大学(硕士论文由华为德国公司资助)，并于2014年获得爱尔兰国立大学-梅努斯的博士学位(由爱尔兰国家研究委员会全额博士奖学金资助)。目前是IEEE高级会员，SCI期刊Journal of Cloud Computing副主编（Co-Chair），IEEE Transactions on Consumer Electronics客座编辑，IEEE TPDS期刊Review Board成员, 瑞士国家自然科学基金（SNSF）外国评审专家。
 
 
 #### **部分最新论文**
 
-1. S. Li, J. Li, J. Pei, S. Wu, S. Wang, **L. Cheng**. [Eco-CSAS: A Safe and Eco-friendly Speed Advisory System for Autonomous Vehicle Platoon using Consortium Blockchain](), *IEEE Transactions on Intelligent Transportation Systems*, 2022  (中科院一区)
+1. Z. Chen, J. Li, **L. Cheng**, X. Liu. [Federated-WDCGAN: A Federated Smart Meter Data Sharing Framework for Privacy Preservation](). *Applied Energy*, 2023 (中科院一区)
 
-1. **L. Cheng**, C. Liu, Q. Zeng. [Optimal Alignments Between Large Event Logs and Process Models over Distributed Systems: An Approach Based on Petri Nets](), *Information Sciences*, 2022  (中科院一区)
+1. J. Li, X. Tong, J. Liu, **L. Cheng** (通讯). [An efficient Federated Learning System for Network Intrusion Detection](https://doi.org/10.1109/JSYST.2023.3236995). *IEEE Systems Journal*, 2023 (中科院二区)
+
+1. S. Li, J. Li, J. Pei, S. Wu, S. Wang, **L. Cheng**. [Eco-CSAS: A Safe and Eco-friendly Speed Advisory System for Autonomous Vehicle Platoon using Consortium Blockchain](https://doi.org/10.1109/TITS.2022.3232851), *IEEE Transactions on Intelligent Transportation Systems*, 2022  (中科院一区)
+
+1. **L. Cheng**, C. Liu, Q. Zeng. [Optimal Alignments Between Large Event Logs and Process Models over Distributed Systems: An Approach Based on Petri Nets](), *Information Sciences*, 2023  (中科院一区)
 
 1. Y. Xu, **L. Cheng**, X. Cai, X. Ma, W. Chen, L. Zhang. Y. Wang. [Efficient Supernet Training Using Path Parallelism](). *Proc. 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA 2023)*, Montreal, Canada, 2023 (CCF-A)
 
@@ -23,7 +27,7 @@ description: Long Cheng, chinese, 中文简介
 
 1. J. Li, S. Li, **L. Cheng** (通讯), Q. Liu, J. Pei, S. Wang. [BSAS: A Blockchain-based Trustworthy and Privacy-Preserving Speed Advisory System](https://doi.org/10.1007/10.1109/TVT.2022.3189410). *IEEE Transactions on Vehicular Technology*, 2022 (中科院二区)
 
-1. J. Li, Z. Chen, **L. Cheng** (通讯), X. Liu. [Energy Data Generation with Wasserstein Deep Convolutional Generative Adversarial Networks](https://doi.org/10.1016/j.energy.2022.124694). *Energy*, 2022 (中科院一区) 
+1. J. Li, Z. Chen, **L. Cheng** (通讯), X. Liu. [Energy Data Generation with Wasserstein Deep Convolutional Generative Adversarial Networks](https://doi.org/10.1016/j.energy.2022.124694). *Energy*, 2022 (中科院一区，**ESI高被引论文**) 
 
 1. **L. Cheng**, A. Kalapgar, A. Jain, Y. Wang, Y. Qin, Y. Li, C. Liu. [Cost-aware Real-time Job Scheduling for Hybrid Cloud using Deep Reinforcement Learning](https://doi.org/10.1007/s00521-022-07477-x). *Neural Computing and Applications*, 2022 (中科院二区)
 

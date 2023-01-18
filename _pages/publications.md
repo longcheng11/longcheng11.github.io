@@ -6,9 +6,13 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
-1. Shike Li, Jianbin Li, Jiaming Pei, Sixing Wu, Shen Wang, Long Cheng. [Eco-CSAS: A Safe and Eco-friendly Speed Advisory System for Autonomous Vehicle Platoon using Consortium Blockchain](), *IEEE Transactions on Intelligent Transportation Systems*, 2022 (in press)
+1. Jianbin Li, Zhiqiang Chen, Long Cheng, Xiufeng Liu. [Federated-WDCGAN: A Federated Smart Meter Data Sharing Framework for Privacy Preservation](). *Applied Energy*, 2023 (中科院一区)
 
-1. Long Cheng, Cong Liu, Qingtian Zeng. [Optimal Alignments Between Large Event Logs and Process Models over Distributed Systems: An Approach Based on Petri Nets](https://doi.org/10.1016/j.ins.2022.11.052), *Information Sciences*, 2022 (in press)
+1. Jianbin Li, Xin Tong, Jinwei Liu, and Long Cheng (CA). [An efficient Federated Learning System for Network Intrusion Detection](https://doi.org/10.1109/JSYST.2023.3236995). *IEEE Systems Journal*, 2023 (in press)
+
+1. Shike Li, Jianbin Li, Jiaming Pei, Sixing Wu, Shen Wang, Long Cheng. [Eco-CSAS: A Safe and Eco-friendly Speed Advisory System for Autonomous Vehicle Platoon using Consortium Blockchain](https://doi.org/10.1109/TITS.2022.3232851), *IEEE Transactions on Intelligent Transportation Systems*, 2022 (in press)
+
+1. Long Cheng, Cong Liu, Qingtian Zeng. [Optimal Alignments Between Large Event Logs and Process Models over Distributed Systems: An Approach Based on Petri Nets](https://doi.org/10.1016/j.ins.2022.11.052), *Information Sciences*, 2023
 
 1. Ramesh Chand Meena, Surbhi Bhatia, Rutvij Jhaveri, Long Cheng, Ankit Kumar, Arwa Mashate. [HyPASS: Design of Hybrid-SDN Prevention of Attacks of Source Spoofing with Host Discovery and Address Validation](), *Physical Communication*, 2022 (in press)
 

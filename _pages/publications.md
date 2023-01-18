@@ -6,7 +6,7 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
-1. Jianbin Li, Zhiqiang Chen, Long Cheng, Xiufeng Liu. [Federated-WDCGAN: A Federated Smart Meter Data Sharing Framework for Privacy Preservation](). *Applied Energy*, 2023 (中科院一区)
+1. Jianbin Li, Zhiqiang Chen, Long Cheng, Xiufeng Liu. [Federated-WDCGAN: A Federated Smart Meter Data Sharing Framework for Privacy Preservation](). *Applied Energy*, 2023 (in press)
 
 1. Jianbin Li, Xin Tong, Jinwei Liu, and Long Cheng (CA). [An efficient Federated Learning System for Network Intrusion Detection](https://doi.org/10.1109/JSYST.2023.3236995). *IEEE Systems Journal*, 2023 (in press)
 

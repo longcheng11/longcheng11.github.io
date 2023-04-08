@@ -15,6 +15,7 @@ description: Long Cheng, activities
 - Co-Chair of Advanced Cloud Service, Journal of Cloud Computing.
 - Associate Editor, Journal of Cloud Computing.
 - Lead Guest Editor, IEEE Transactions on Consumer Electronics.
+- Lead Guest Editor, Future Generation Computer Systems.
 
 #### **Review Board**
 - Swiss National Science Foundation. <br>
@@ -44,6 +45,9 @@ description: Long Cheng, activities
 - The 6th Int. Conference on Knowledge Engineering and Semantic Web (KESW), 2015.
 
 #### **Reviewer for Journals and Conferences**
+- IEEE Transactions on Parallel and Distributed Systems, 2023.<br>
+- IEEE Transactions on Consumer Electronics, 2023.<br>
+- Multimedia Tools and Applications, 2023.<br>
 - IEEE Transactions on Parallel and Distributed Systems, 2022.<br>
 - IEEE Transactions on Automation Science and Engineering, 2021.<br>
 - IEEE Transactions on Knowledge and Data Engineering, 2021.<br>

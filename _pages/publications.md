@@ -6,7 +6,11 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
-1. Jianbin Li, Zhiqiang Chen, Long Cheng, Xiufeng Liu. [Federated-WDCGAN: A Federated Smart Meter Data Sharing Framework for Privacy Preservation](). *Applied Energy*, 2023 (in press)
+1. Haitong Huang, Xinghua Xue, Cheng Liu, Ying Wang, Tao Luo, Long Cheng, Huawei Li, Xiaowei Li. [Statistical Modeling of Soft Error Influence on Neural Networks](), *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2023 (in press)
+
+1. Jianbin Li, Jifang Li, Chunlei Xie, Yousheng Liang, Ketong Qu, Long Cheng, Zhiming Zhao. [PipCKG-BS: A Method to Build Cybersecurity Knowledge Graph for Blockchain Systems via the Pipeline Approach](https://doi.org/10.1142/S0218126623502742), *Journal of Circuits, Systems, and Computers*, 2023 (in press)
+
+1. Zhiqiang Chen, Jianbin Li, Long Cheng, Xiufeng Liu. [Federated-WDCGAN: A Federated Smart Meter Data Sharing Framework for Privacy Preservation](https://doi.org/10.1016/j.apenergy.2023.120711). *Applied Energy*, 2023 (in press)
 
 1. Jianbin Li, Xin Tong, Jinwei Liu, and Long Cheng (CA). [An efficient Federated Learning System for Network Intrusion Detection](https://doi.org/10.1109/JSYST.2023.3236995). *IEEE Systems Journal*, 2023 (in press)
 
@@ -14,13 +18,13 @@ description: Long Cheng, publications
 
 1. Long Cheng, Cong Liu, Qingtian Zeng. [Optimal Alignments Between Large Event Logs and Process Models over Distributed Systems: An Approach Based on Petri Nets](https://doi.org/10.1016/j.ins.2022.11.052), *Information Sciences*, 2023
 
-1. Ramesh Chand Meena, Surbhi Bhatia, Rutvij Jhaveri, Long Cheng, Ankit Kumar, Arwa Mashate. [HyPASS: Design of Hybrid-SDN Prevention of Attacks of Source Spoofing with Host Discovery and Address Validation](), *Physical Communication*, 2022 (in press)
+1. Ramesh Chand Meena, Surbhi Bhatia, Rutvij Jhaveri, Long Cheng, Ankit Kumar, Arwa Mashate. [HyPASS: Design of Hybrid-SDN Prevention of Attacks of Source Spoofing with Host Discovery and Address Validation](https://doi.org/10.1016/j.phycom.2022.101902), *Physical Communication*, 2022 (in press)
 
 1. Ying Mao, Vaishali Sharma, Wenjia Zheng, Long Cheng, Qiang Guan, Ang Li. [Elastic Resource Management for Deep Learning Applications in a Container Cluster](https://doi.org/10.1109/TCC.2022.3194128). *IEEE Transactions on Cloud Computing*, 2022 (in press)
 
 1. Jianbin Li, Shike Li, Long Cheng (CA), Qingzhi Liu, Jiaming Pei, Shen Wang. [BSAS: A Blockchain-based Trustworthy and Privacy-Preserving Speed Advisory System](https://doi.org/10.1109/TVT.2022.3189410). *IEEE Transactions on Vehicular Technology*, 2022 (in press)
 
-1. Jianbin Li, Zhiqiang Chen, Long Cheng (CA), Xiufeng Liu. [Energy Data Generation with Wasserstein Deep Convolutional Generative Adversarial Networks](https://doi.org/10.1016/j.energy.2022.124694). *Energy*, 257: 124694, 2022.
+1. Jianbin Li, Zhiqiang Chen, Long Cheng (CA), Xiufeng Liu. [Energy Data Generation with Wasserstein Deep Convolutional Generative Adversarial Networks](https://doi.org/10.1016/j.energy.2022.124694). *Energy*, 257: 124694, 2022 (**ESI Highly Cited Paper**).
 
 1. Long Cheng, Archana Kalapgar, Amogh Jain, Yue Wang, Yongtai Qin, Yuancheng Li, Cong Liu. [Cost-aware Real-time Job Scheduling for Hybrid Cloud using Deep Reinforcement Learning](https://doi.org/10.1007/s00521-022-07477-x). *Neural Computing and Applications*, 2022 (in press)
 
@@ -87,9 +91,9 @@ description: Long Cheng, publications
 1. Long Cheng, Spyros Kotoulas. [Scale-Out Processing of Large RDF Datasets](https://dx.doi.org/10.1109/TBDATA.2015.2505719). *IEEE Transactions on Big Data*, 1(4): 138-150, 2015.
 
 #### **Proceedings**
-1. Ying Xu, Long Cheng, Xuyi Cai, Xiaohan Ma, Weiwei Chen, Lei Zhang, Ying Wang. [Efficient Supernet Training Using Path Parallelism](). *Proc. 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA 2023)*, Montreal, Canada, Feb 2023.
+1. Ying Xu, Long Cheng, Xuyi Cai, Xiaohan Ma, Weiwei Chen, Lei Zhang, Ying Wang. [Efficient Supernet Training Using Path Parallelism](https://doi.org/10.1109/HPCA56546.2023.10071099). *Proc. 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA 2023)*, Montreal, Canada, Feb 2023.
 
-1. Jinwei Liu, Xiaonan Zhang, Richard A. Alo, Long Cheng, Feng Deng. [CrossCas: A Novel Cross-platform Approach for Predicting Cascades in Online Social Networks with Hidden Markov Model](). *Proc. IEEE Global Communications Conference (GLOBECOM)*,  Rio de Janeiro, Brazil, Dec 2022.
+1. Jinwei Liu, Xiaonan Zhang, Richard A. Alo, Long Cheng, Feng Deng. [CrossCas: A Novel Cross-platform Approach for Predicting Cascades in Online Social Networks with Hidden Markov Model](https://doi.org/10.1109/GLOBECOM48099.2022.10001560). *Proc. IEEE Global Communications Conference (GLOBECOM)*,  Rio de Janeiro, Brazil, Dec 2022.
 
 1. Wenrui Mu, Ying Mao, Long Cheng, Qingle Wang, Weiwen Jiang, Pin-Yu Chen. [Iterative Qubits Management for Quantum Index Searching in a Hybrid System](https://dx.doi.org/10.1109/IPCCC55026.2022.9894308). *Proc. 41st IEEE International Performance, Computing, and Communications Conference (IPCCC)*, Austin, USA, Nov 2022.
 

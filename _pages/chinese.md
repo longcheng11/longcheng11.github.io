@@ -8,20 +8,22 @@ description: Long Cheng, chinese, 中文简介
 #### **个人简介**
 程龙，博士，现为华北电力大学控制与计算机工程学院教授、博士生导师、爱尔兰国家数据分析研究中心访问教授。他之前是爱尔兰都柏林城市大学计算机学院助理教授、欧盟玛丽居里学者。主要研究方向是并行分布式计算、深度学习、云计算和大数据处理以及这些技术在流程挖掘与能源大数据上的应用。曾在华为德国，IBM都柏林研究院工作过，并且在德国德累斯顿工业大学和荷兰埃因霍温理工大学从事过博士后研究，具有多年一线大数据系统和算法设计、开发与优化经验, 并于2018年获得欧盟资助个人科研最高奖项之一玛丽居里个人基金。
 
-程教授在并行分布式计算和大数据处理的权威期刊与会议比如TPDS, TON, TC, TSC, TCC, TCAD, TASE, TVT, TSMC, TITS, IEEE Network, JPDC, HPCA, ICPP, CIKM, CCGrid, EuroPar和HiPC上发表80余篇文章（含IEEE/ACM Transactions/Magazine/Journal 近30篇），并且长期为对应的期刊和会议审稿，同时也是IPDPS，ICPP, CCGrid和CLUSTER等知名国际会议的程序委员会成员。他于2007年本科毕业于哈尔滨工业大学，2010年硕士毕业于德国杜伊斯堡-艾森大学(硕士论文由华为德国公司资助)，并于2014年获得爱尔兰国立大学-梅努斯的博士学位(由爱尔兰国家研究委员会全额博士奖学金资助)。目前是IEEE高级会员，SCI期刊Journal of Cloud Computing副主编（Co-Chair），IEEE Transactions on Consumer Electronics客座编辑，IEEE TPDS期刊Review Board成员, 瑞士国家自然科学基金（SNSF）外国评审专家。
+程教授在并行分布式计算和大数据处理的权威期刊与会议比如TPDS、TON、TC、TSC、TCC、TCAD、TASE、TVT、TSMC、TITS、IEEE Network、JPDC、HPCA、ICPP、CIKM、CCGrid和EuroPar上发表80余篇文章（含IEEE/ACM Transactions/Magazine/Journal 近30篇），并且长期为对应的期刊和会议审稿，同时也是IPDPS、ICPP、CCGrid和CLUSTER等知名国际会议的程序委员会成员。他于2007年本科毕业于哈尔滨工业大学，2010年硕士毕业于德国杜伊斯堡-艾森大学(硕士论文由华为德国公司资助)，并于2014年获得爱尔兰国立大学-梅努斯的博士学位(由爱尔兰国家研究委员会全额博士奖学金资助)。目前是IEEE高级会员，SCI期刊Journal of Cloud Computing副主编（Co-Chair），IEEE TCE、FGCS客座编辑，IEEE TPDS期刊Review Board成员，瑞士国家自然科学基金（SNSF）外国评审专家。
 
 
 #### **部分最新论文**
 
-1. Z. Chen, J. Li, **L. Cheng**, X. Liu. [Federated-WDCGAN: A Federated Smart Meter Data Sharing Framework for Privacy Preservation](). *Applied Energy*, 2023 (中科院一区)
+1. H. Huang, X. Xue, C. Liu, Y. Wang, T. Luo, **L. Cheng**, H. Li, X. Li. [Statistical Modeling of Soft Error Influence on Neural Networks](), *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2023 (CCF-A)
+
+1. Z. Chen, J. Li, **L. Cheng**, X. Liu. [Federated-WDCGAN: A Federated Smart Meter Data Sharing Framework for Privacy Preservation](https://doi.org/10.1016/j.apenergy.2023.120711). *Applied Energy*, 2023 (中科院一区)
 
 1. J. Li, X. Tong, J. Liu, **L. Cheng** (通讯). [An efficient Federated Learning System for Network Intrusion Detection](https://doi.org/10.1109/JSYST.2023.3236995). *IEEE Systems Journal*, 2023 (中科院二区)
 
 1. S. Li, J. Li, J. Pei, S. Wu, S. Wang, **L. Cheng**. [Eco-CSAS: A Safe and Eco-friendly Speed Advisory System for Autonomous Vehicle Platoon using Consortium Blockchain](https://doi.org/10.1109/TITS.2022.3232851), *IEEE Transactions on Intelligent Transportation Systems*, 2022  (中科院一区)
 
-1. **L. Cheng**, C. Liu, Q. Zeng. [Optimal Alignments Between Large Event Logs and Process Models over Distributed Systems: An Approach Based on Petri Nets](), *Information Sciences*, 2023  (中科院一区)
+1. **L. Cheng**, C. Liu, Q. Zeng. [Optimal Alignments Between Large Event Logs and Process Models over Distributed Systems: An Approach Based on Petri Nets](https://doi.org/10.1016/j.ins.2022.11.052), *Information Sciences*, 2023  (中科院一区)
 
-1. Y. Xu, **L. Cheng**, X. Cai, X. Ma, W. Chen, L. Zhang. Y. Wang. [Efficient Supernet Training Using Path Parallelism](). *Proc. 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA 2023)*, Montreal, Canada, 2023 (CCF-A)
+1. Y. Xu, **L. Cheng**, X. Cai, X. Ma, W. Chen, L. Zhang. Y. Wang. [Efficient Supernet Training Using Path Parallelism](https://doi.org/10.1109/HPCA56546.2023.10071099). *Proc. 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA 2023)*, Montreal, Canada, 2023 (CCF-A)
 
 1. Y. Mao, V. Sharma, W. Zheng, **L. Cheng**, Q. Guan, A. Li. [Elastic Resource Management for Deep Learning Applications in a Container Cluster](https://doi.org/10.1109/TCC.2022.3194128). *IEEE Transactions on Cloud Computing*, 2022  (中科院二区)
 
@@ -67,11 +69,11 @@ description: Long Cheng, chinese, 中文简介
 	
 1. C. Liu, Q. Zeng, **L. Cheng** (通讯), H. Duan, M. Zhou, J. Cheng. [Privacy-preserving Behavioral Correctness Verification of Cross-organizational Workflow with Task Synchronization Patterns](https://dx.doi.org/10.1109/TASE.2020.2993376). *IEEE Transactions on Automation Science and Engineering*, 2020 (CCF-B).	
 
-1. **L. Cheng**, B. van Dongen, W. van der Aalst. [Scalable Discovery of Hybrid Process Models in a Cloud Computing Environment](https://dx.doi.org/10.1109/TSC.2019.2906203). *IEEE Transactions on Services Computing*,  2020. (CCF-B)
+1. **L. Cheng**, B. van Dongen, W. van der Aalst. [Scalable Discovery of Hybrid Process Models in a Cloud Computing Environment](https://dx.doi.org/10.1109/TSC.2019.2906203). *IEEE Transactions on Services Computing*,  2020. (CCF-A)
 
 
 #### **主持项目**
-1. 南方电网网络空间安全联合实验室项目：面向云计算环境的数据安全监控及分析关键技术研究。2023-2024，20万元，项目负责人。
+1. 南方电网网络空间安全联合实验室项目：面向云计算环境的数据安全监控及分析关键技术研究。2023，20万元，项目负责人。
 
 1. 国家电网科技项目：支撑分布式储能网络化运营关键技术研究。2021-2024，500万元，课题负责人。
 

@@ -6,35 +6,35 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
-1. Haitong Huang, Xinghua Xue, Cheng Liu, Ying Wang, Tao Luo, Long Cheng, Huawei Li, Xiaowei Li. [Statistical Modeling of Soft Error Influence on Neural Networks](), *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2023 (in press)
+1. Haitong Huang, Xinghua Xue, Cheng Liu, Ying Wang, Tao Luo, Long Cheng, Huawei Li, Xiaowei Li. [Statistical Modeling of Soft Error Influence on Neural Networks](https://doi.org/10.1109/TCAD.2023.3266405), *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2023
 
-1. Jianbin Li, Jifang Li, Chunlei Xie, Yousheng Liang, Ketong Qu, Long Cheng, Zhiming Zhao. [PipCKG-BS: A Method to Build Cybersecurity Knowledge Graph for Blockchain Systems via the Pipeline Approach](https://doi.org/10.1142/S0218126623502742), *Journal of Circuits, Systems, and Computers*, 2023 (in press)
+1. Jianbin Li, Jifang Li, Chunlei Xie, Yousheng Liang, Ketong Qu, Long Cheng, Zhiming Zhao. [PipCKG-BS: A Method to Build Cybersecurity Knowledge Graph for Blockchain Systems via the Pipeline Approach](https://doi.org/10.1142/S0218126623502742), *Journal of Circuits, Systems, and Computers*, 2023
 
-1. Zhiqiang Chen, Jianbin Li, Long Cheng, Xiufeng Liu. [Federated-WDCGAN: A Federated Smart Meter Data Sharing Framework for Privacy Preservation](https://doi.org/10.1016/j.apenergy.2023.120711). *Applied Energy*, 2023 (in press)
+1. Zhiqiang Chen, Jianbin Li, Long Cheng, Xiufeng Liu. [Federated-WDCGAN: A Federated Smart Meter Data Sharing Framework for Privacy Preservation](https://doi.org/10.1016/j.apenergy.2023.120711). *Applied Energy*, 2023
 
-1. Jianbin Li, Xin Tong, Jinwei Liu, and Long Cheng (CA). [An efficient Federated Learning System for Network Intrusion Detection](https://doi.org/10.1109/JSYST.2023.3236995). *IEEE Systems Journal*, 2023 (in press)
+1. Jianbin Li, Xin Tong, Jinwei Liu, and Long Cheng (CA). [An efficient Federated Learning System for Network Intrusion Detection](https://doi.org/10.1109/JSYST.2023.3236995). *IEEE Systems Journal*, 2023
 
-1. Shike Li, Jianbin Li, Jiaming Pei, Sixing Wu, Shen Wang, Long Cheng. [Eco-CSAS: A Safe and Eco-friendly Speed Advisory System for Autonomous Vehicle Platoon using Consortium Blockchain](https://doi.org/10.1109/TITS.2022.3232851), *IEEE Transactions on Intelligent Transportation Systems*, 2022 (in press)
+1. Shike Li, Jianbin Li, Jiaming Pei, Sixing Wu, Shen Wang, Long Cheng. [Eco-CSAS: A Safe and Eco-friendly Speed Advisory System for Autonomous Vehicle Platoon using Consortium Blockchain](https://doi.org/10.1109/TITS.2022.3232851), *IEEE Transactions on Intelligent Transportation Systems*, 2022
 
 1. Long Cheng, Cong Liu, Qingtian Zeng. [Optimal Alignments Between Large Event Logs and Process Models over Distributed Systems: An Approach Based on Petri Nets](https://doi.org/10.1016/j.ins.2022.11.052), *Information Sciences*, 2023
 
-1. Ramesh Chand Meena, Surbhi Bhatia, Rutvij Jhaveri, Long Cheng, Ankit Kumar, Arwa Mashate. [HyPASS: Design of Hybrid-SDN Prevention of Attacks of Source Spoofing with Host Discovery and Address Validation](https://doi.org/10.1016/j.phycom.2022.101902), *Physical Communication*, 2022 (in press)
+1. Ramesh Chand Meena, Surbhi Bhatia, Rutvij Jhaveri, Long Cheng, Ankit Kumar, Arwa Mashate. [HyPASS: Design of Hybrid-SDN Prevention of Attacks of Source Spoofing with Host Discovery and Address Validation](https://doi.org/10.1016/j.phycom.2022.101902), *Physical Communication*, 2022
 
-1. Ying Mao, Vaishali Sharma, Wenjia Zheng, Long Cheng, Qiang Guan, Ang Li. [Elastic Resource Management for Deep Learning Applications in a Container Cluster](https://doi.org/10.1109/TCC.2022.3194128). *IEEE Transactions on Cloud Computing*, 2022 (in press)
+1. Ying Mao, Vaishali Sharma, Wenjia Zheng, Long Cheng, Qiang Guan, Ang Li. [Elastic Resource Management for Deep Learning Applications in a Container Cluster](https://doi.org/10.1109/TCC.2022.3194128). *IEEE Transactions on Cloud Computing*, 2022
 
-1. Jianbin Li, Shike Li, Long Cheng (CA), Qingzhi Liu, Jiaming Pei, Shen Wang. [BSAS: A Blockchain-based Trustworthy and Privacy-Preserving Speed Advisory System](https://doi.org/10.1109/TVT.2022.3189410). *IEEE Transactions on Vehicular Technology*, 2022 (in press)
+1. Jianbin Li, Shike Li, Long Cheng (CA), Qingzhi Liu, Jiaming Pei, Shen Wang. [BSAS: A Blockchain-based Trustworthy and Privacy-Preserving Speed Advisory System](https://doi.org/10.1109/TVT.2022.3189410). *IEEE Transactions on Vehicular Technology*, 2022
 
 1. Jianbin Li, Zhiqiang Chen, Long Cheng (CA), Xiufeng Liu. [Energy Data Generation with Wasserstein Deep Convolutional Generative Adversarial Networks](https://doi.org/10.1016/j.energy.2022.124694). *Energy*, 257: 124694, 2022 (**ESI Highly Cited Paper**).
 
-1. Long Cheng, Archana Kalapgar, Amogh Jain, Yue Wang, Yongtai Qin, Yuancheng Li, Cong Liu. [Cost-aware Real-time Job Scheduling for Hybrid Cloud using Deep Reinforcement Learning](https://doi.org/10.1007/s00521-022-07477-x). *Neural Computing and Applications*, 2022 (in press)
+1. Long Cheng, Archana Kalapgar, Amogh Jain, Yue Wang, Yongtai Qin, Yuancheng Li, Cong Liu. [Cost-aware Real-time Job Scheduling for Hybrid Cloud using Deep Reinforcement Learning](https://doi.org/10.1007/s00521-022-07477-x). *Neural Computing and Applications*, 2022
 
-1. Cong Liu, Huiling Li, Shuaipeng Zhang, Long Cheng, Qingtian Zeng. [Cross-Department Collaborative Healthcare Process Model Discovery from Event Logs](https://doi.org/10.1109/TASE.2022.3194312). *IEEE Transactions on Automation Science and Engineering*, 2022 (in press).
+1. Cong Liu, Huiling Li, Shuaipeng Zhang, Long Cheng, Qingtian Zeng. [Cross-Department Collaborative Healthcare Process Model Discovery from Event Logs](https://doi.org/10.1109/TASE.2022.3194312). *IEEE Transactions on Automation Science and Engineering*, 2022.
 
-1. Ying Mao, Weifeng Yan, Yun Song, Yue Zeng, Ming Chen, Long Cheng, Qingzhi Liu. [Differentiate Quality of Experience Scheduling for Deep Learning Inferences with Docker Containers in the Cloud](https://doi.org/10.1109/TCC.2022.3154117). *IEEE Transactions on Cloud Computing*, 2022 (in press).
+1. Ying Mao, Weifeng Yan, Yun Song, Yue Zeng, Ming Chen, Long Cheng, Qingzhi Liu. [Differentiate Quality of Experience Scheduling for Deep Learning Inferences with Docker Containers in the Cloud](https://doi.org/10.1109/TCC.2022.3154117). *IEEE Transactions on Cloud Computing*, 2022.
 
-1. Cong Liu, Long Cheng, Qingtian Zeng, Lijie Wen. [Formal Modeling and Discovery of Hierarchical Business Processes: A Petri Net based Approach](https://doi.org/10.1109/TSMC.2022.3195869). *IEEE Transactions on Systems, Man and Cybernetics: Systems*, 2022 (in press).
+1. Cong Liu, Long Cheng, Qingtian Zeng, Lijie Wen. [Formal Modeling and Discovery of Hierarchical Business Processes: A Petri Net based Approach](https://doi.org/10.1109/TSMC.2022.3195869). *IEEE Transactions on Systems, Man and Cybernetics: Systems*, 2022.
 
-1. Ying Mao, Yuqi Fu, Wenjia Zheng, Long Cheng, Qingzhi Liu, Dingwen Tao. [Speculative Container Scheduling for Deep Learning Applications in a Kubernetes Cluster](https://doi.org/10.1109/JSYST.2021.3129974). *IEEE Systems Journal*, 2021 (in press).
+1. Ying Mao, Yuqi Fu, Wenjia Zheng, Long Cheng, Qingzhi Liu, Dingwen Tao. [Speculative Container Scheduling for Deep Learning Applications in a Kubernetes Cluster](https://doi.org/10.1109/JSYST.2021.3129974). *IEEE Systems Journal*, 2021.
 
 1. Jingchen Yan, Yifeng Huang, Aditya Gupta, Anubhav Gupta, Cong Liu, Jianbin Li, Long Cheng (CA). [Energy-aware Systems for Real-time Job Scheduling in Cloud Data Centers: A Deep Reinforcement Learning Approach](https://doi.org/10.1016/j.compeleceng.2022.107688). *Computers and Electrical Engineering*, 99: 107688, 2022.
 
@@ -42,7 +42,7 @@ description: Long Cheng, publications
 
 1. Yifeng Huang, Long Cheng (CA), Lianting Xue, Cong Liu, Yuancheng Li, Jianbin Li, Tomas Ward. [Deep Adversarial Imitation Reinforcement Learning for QoS-aware Cloud Job Scheduling](https://doi.org/10.1109/JSYST.2021.3122126). *IEEE Systems Journal*, 2021.
 
-1. Kaiwei Zou, Ying Wang, Long Cheng, Songyun Qu, Huawei Li, Xiaowei Li. [CAP: Communication-aware Automated Parallelization for Deep Learning Inference on CMP Architectures](https://doi.org/10.1109/TC.2021.3099688). *IEEE Transactions on Computers*, 2021 (in press).
+1. Kaiwei Zou, Ying Wang, Long Cheng, Songyun Qu, Huawei Li, Xiaowei Li. [CAP: Communication-aware Automated Parallelization for Deep Learning Inference on CMP Architectures](https://doi.org/10.1109/TC.2021.3099688). *IEEE Transactions on Computers*, 2021.
 
 1. Feng Cheng, Yifeng Huang, Bhavana Tanpure, Pawan Sawalani, Long Cheng (CA), Cong Liu. [Cost-Aware Job Scheduling for Cloud Instances using Deep Reinforcement Learning](https://doi.org/10.1007/s10586-021-03436-8). *Cluster Computing*, 25(1): 619-631, 2022.
 
@@ -50,7 +50,7 @@ description: Long Cheng, publications
 
 1. Ying Wang, Yintao He, Long Cheng, Huawei Li, Xiaowei Li. [A Fast Precision Tuning Solution for Always-On DNN Accelerators](https://doi.org/10.1109/TCAD.2021.3089667). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 41(5): 1236-1248, 2022.
 
-1. Mingming Liu, Long Cheng (CA), Yingqi Gu, Ying Wang, Qingzhi Liu, Noel O'Connor. [MPC-CSAS: Multi-Party Computation for Real-time Privacy-preserving Speed Advisory Systems](https://doi.org/10.1109/TITS.2021.3052840). *IEEE Transactions on Intelligent Transportation Systems*, 2021 (in press).
+1. Mingming Liu, Long Cheng (CA), Yingqi Gu, Ying Wang, Qingzhi Liu, Noel O'Connor. [MPC-CSAS: Multi-Party Computation for Real-time Privacy-preserving Speed Advisory Systems](https://doi.org/10.1109/TITS.2021.3052840). *IEEE Transactions on Intelligent Transportation Systems*, 2021.
 
 1. Cong Liu, Qingtian Zeng, Long Cheng (CA), Hua Duan, Jiujun Cheng. [Measuring Similarity for Data-aware Business Processes](https://doi.org/10.1109/TASE.2021.3049772). *IEEE Transactions on Automation Science and Engineering*, 19(2): 1070-1082, 2022.
 

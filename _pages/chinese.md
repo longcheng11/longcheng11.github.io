@@ -13,7 +13,7 @@ description: Long Cheng, chinese, 中文简介
 
 #### **部分最新论文**
 
-1. H. Huang, X. Xue, C. Liu, Y. Wang, T. Luo, **L. Cheng**, H. Li, X. Li. [Statistical Modeling of Soft Error Influence on Neural Networks](), *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2023 (CCF-A)
+1. H. Huang, X. Xue, C. Liu, Y. Wang, T. Luo, **L. Cheng**, H. Li, X. Li. [Statistical Modeling of Soft Error Influence on Neural Networks](https://doi.org/10.1109/TCAD.2023.3266405). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2023 (CCF-A)
 
 1. Z. Chen, J. Li, **L. Cheng**, X. Liu. [Federated-WDCGAN: A Federated Smart Meter Data Sharing Framework for Privacy Preservation](https://doi.org/10.1016/j.apenergy.2023.120711). *Applied Energy*, 2023 (中科院一区)
 

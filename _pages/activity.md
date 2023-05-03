@@ -16,6 +16,7 @@ description: Long Cheng, activities
 - Associate Editor, Journal of Cloud Computing.
 - Lead Guest Editor, IEEE Transactions on Consumer Electronics.
 - Lead Guest Editor, Future Generation Computer Systems.
+- Managing Guest Editor, Applied Soft Computing.
 
 #### **Review Board**
 - Swiss National Science Foundation. <br>

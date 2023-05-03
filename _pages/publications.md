@@ -6,6 +6,11 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
+
+1. Long Cheng, Ying Wang, Rutvij H. Jhaveri, Qingle Wang, Ying Mao. [Towards Network-aware Query Execution Systems in Large Datacenters](https://doi.org/10.1109/TNSM.2023.3273166), *IEEE Transactions on Network and Service Management*, 2023
+
+1. Baoyin Xiong, Yiguo Guo, Liyang Zhang, Jianbin Li, Xiufeng Liu, Long Cheng. [Optimizing Electricity Demand Scheduling in Microgrids Using Deep Reinforcement Learning for Cost-Efficiency](), *IET Generation, Transmission & Distribution*, 2023
+
 1. Haitong Huang, Xinghua Xue, Cheng Liu, Ying Wang, Tao Luo, Long Cheng, Huawei Li, Xiaowei Li. [Statistical Modeling of Soft Error Influence on Neural Networks](https://doi.org/10.1109/TCAD.2023.3266405), *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2023
 
 1. Jianbin Li, Jifang Li, Chunlei Xie, Yousheng Liang, Ketong Qu, Long Cheng, Zhiming Zhao. [PipCKG-BS: A Method to Build Cybersecurity Knowledge Graph for Blockchain Systems via the Pipeline Approach](https://doi.org/10.1142/S0218126623502742), *Journal of Circuits, Systems, and Computers*, 2023

@@ -13,6 +13,8 @@ description: Long Cheng, chinese, 中文简介
 
 #### **部分最新论文**
 
+1.  J. Guo, **L. Cheng**, S. Wang. [CoTV: Cooperative Control for Traffic Light Signals and Connected Autonomous Vehicles using Deep Reinforcement Learning](), *IEEE Transactions on Intelligent Transportation Systems*, 2023  (中科院一区)
+
 1. **L. Cheng**, Y. Wang, R. Jhaveri, Q. Wang, Y. Mao. [Towards Network-aware Query Execution Systems in Large Datacenters](https://doi.org/10.1109/TNSM.2023.3273166), *IEEE Transactions on Network and Service Management*, 2023  (中科院二区)
 
 1. H. Huang, X. Xue, C. Liu, Y. Wang, T. Luo, **L. Cheng**, H. Li, X. Li. [Statistical Modeling of Soft Error Influence on Neural Networks](https://doi.org/10.1109/TCAD.2023.3266405). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2023 (CCF-A)

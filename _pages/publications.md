@@ -6,6 +6,7 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
+1. Jiaying Guo, Long Cheng, Shen Wang. [CoTV: Cooperative Control for Traffic Light Signals and Connected Autonomous Vehicles using Deep Reinforcement Learning](), *IEEE Transactions on Intelligent Transportation Systems*, 2023  (中科院一区)
 
 1. Long Cheng, Ying Wang, Rutvij H. Jhaveri, Qingle Wang, Ying Mao. [Towards Network-aware Query Execution Systems in Large Datacenters](https://doi.org/10.1109/TNSM.2023.3273166), *IEEE Transactions on Network and Service Management*, 2023
 

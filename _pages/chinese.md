@@ -13,7 +13,9 @@ description: Long Cheng, chinese, 中文简介
 
 #### **部分最新论文**
 
-1.  J. Guo, **L. Cheng**, S. Wang. [CoTV: Cooperative Control for Traffic Light Signals and Connected Autonomous Vehicles using Deep Reinforcement Learning](), *IEEE Transactions on Intelligent Transportation Systems*, 2023  (中科院一区)
+1. J. Zhang, **L. Cheng** (通讯), C. Liu, Z. Zhao, Y. Mao. [Cost-Aware Scheduling Systems for Real-Time Workflows in Cloud: An Approach based on Genetic Algorithm and Deep Reinforcement Learning](), *Expert Systems with Applications*, 2023 (中科院一区)
+
+1.  J. Guo, **L. Cheng**, S. Wang. [CoTV: Cooperative Control for Traffic Light Signals and Connected Autonomous Vehicles using Deep Reinforcement Learning](https://doi.org/10.1109/TITS.2023.3276416), *IEEE Transactions on Intelligent Transportation Systems*, 2023  (中科院一区)
 
 1. **L. Cheng**, Y. Wang, R. Jhaveri, Q. Wang, Y. Mao. [Towards Network-aware Query Execution Systems in Large Datacenters](https://doi.org/10.1109/TNSM.2023.3273166), *IEEE Transactions on Network and Service Management*, 2023  (中科院二区)
 

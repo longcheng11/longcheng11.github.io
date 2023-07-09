@@ -6,11 +6,15 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
-1. Jiaying Guo, Long Cheng, Shen Wang. [CoTV: Cooperative Control for Traffic Light Signals and Connected Autonomous Vehicles using Deep Reinforcement Learning](), *IEEE Transactions on Intelligent Transportation Systems*, 2023
+1. Jingwei Zhang, Long Cheng (CA), Cong Liu, Zhiming Zhao, Ying Mao. [Cost-Aware Scheduling Systems for Real-Time Workflows in Cloud: An Approach based on Genetic Algorithm and Deep Reinforcement Learning](), *Expert Systems with Applications*, 2023
+
+1. Xiaolu Zhang, Lei Cui, Wuqiang Shen, Jijun Zeng, Li Du, Haoyang He, Long Cheng. [File Processing Security Detection in Multi‑cloud Environments: A Process Mining Approach](https://doi.org/10.1186/s13677-023-00474-y), *Journal of Cloud Computing*, 2023
+
+1. Jiaying Guo, Long Cheng, Shen Wang. [CoTV: Cooperative Control for Traffic Light Signals and Connected Autonomous Vehicles using Deep Reinforcement Learning](https://doi.org/10.1109/TITS.2023.3276416), *IEEE Transactions on Intelligent Transportation Systems*, 2023
 
 1. Long Cheng, Ying Wang, Rutvij H. Jhaveri, Qingle Wang, Ying Mao. [Towards Network-aware Query Execution Systems in Large Datacenters](https://doi.org/10.1109/TNSM.2023.3273166), *IEEE Transactions on Network and Service Management*, 2023
 
-1. Baoyin Xiong, Yiguo Guo, Liyang Zhang, Jianbin Li, Xiufeng Liu, Long Cheng. [Optimizing Electricity Demand Scheduling in Microgrids Using Deep Reinforcement Learning for Cost-Efficiency](), *IET Generation, Transmission & Distribution*, 2023
+1. Baoyin Xiong, Yiguo Guo, Liyang Zhang, Jianbin Li, Xiufeng Liu, Long Cheng (CA). [Optimizing Electricity Demand Scheduling in Microgrids Using Deep Reinforcement Learning for Cost-Efficiency](https://doi.org/10.1049/gtd2.12866), *IET Generation, Transmission & Distribution*, 2023
 
 1. Haitong Huang, Xinghua Xue, Cheng Liu, Ying Wang, Tao Luo, Long Cheng, Huawei Li, Xiaowei Li. [Statistical Modeling of Soft Error Influence on Neural Networks](https://doi.org/10.1109/TCAD.2023.3266405), *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2023
 
@@ -97,6 +101,9 @@ description: Long Cheng, publications
 1. Long Cheng, Spyros Kotoulas. [Scale-Out Processing of Large RDF Datasets](https://dx.doi.org/10.1109/TBDATA.2015.2505719). *IEEE Transactions on Big Data*, 1(4): 138-150, 2015.
 
 #### **Proceedings**
+
+1. Jinwei Liu, Rui Gong, Long Cheng, Richard A. Alo. [DeepHealth: Geospatial and ML-based Approach to Identify Health Disparities and Determinants for Improving Pandemic Health Care](). *Proc. 32nd International Conference on Computer Communictions and Networks (ICCCN)*, Hawaii, USA, July 2023.
+
 1. Ying Xu, Long Cheng, Xuyi Cai, Xiaohan Ma, Weiwei Chen, Lei Zhang, Ying Wang. [Efficient Supernet Training Using Path Parallelism](https://doi.org/10.1109/HPCA56546.2023.10071099). *Proc. 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA 2023)*, Montreal, Canada, Feb 2023.
 
 1. Jinwei Liu, Xiaonan Zhang, Richard A. Alo, Long Cheng, Feng Deng. [CrossCas: A Novel Cross-platform Approach for Predicting Cascades in Online Social Networks with Hidden Markov Model](https://doi.org/10.1109/GLOBECOM48099.2022.10001560). *Proc. IEEE Global Communications Conference (GLOBECOM)*,  Rio de Janeiro, Brazil, Dec 2022.

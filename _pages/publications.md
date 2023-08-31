@@ -6,7 +6,9 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
-1. Jingwei Zhang, Long Cheng (CA), Cong Liu, Zhiming Zhao, Ying Mao. [Cost-Aware Scheduling Systems for Real-Time Workflows in Cloud: An Approach based on Genetic Algorithm and Deep Reinforcement Learning](), *Expert Systems with Applications*, 2023
+1. Long Cheng, Yue Wang, Feng Cheng, Cheng Liu, Zhiming Zhao, Ying Wang. [A Deep Reinforcement Learning-based Preemptive Approach for Cost-aware Cloud Job Scheduling](https://doi.org/10.1109/TSUSC.2023.3303898), *IEEE Transactions on Sustainable Computing*, 2023.
+
+1. Jingwei Zhang, Long Cheng (CA), Cong Liu, Zhiming Zhao, Ying Mao. [Cost-Aware Scheduling Systems for Real-Time Workflows in Cloud: An Approach based on Genetic Algorithm and Deep Reinforcement Learning](https://doi.org/10.1016/j.eswa.2023.120972), *Expert Systems with Applications*, 2023
 
 1. Xiaolu Zhang, Lei Cui, Wuqiang Shen, Jijun Zeng, Li Du, Haoyang He, Long Cheng. [File Processing Security Detection in Multi‑cloud Environments: A Process Mining Approach](https://doi.org/10.1186/s13677-023-00474-y), *Journal of Cloud Computing*, 2023
 

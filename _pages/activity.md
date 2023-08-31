@@ -15,9 +15,9 @@ description: Long Cheng, activities
 - Co-Chair of Advanced Cloud Service, Journal of Cloud Computing.
 - Associate Editor, IEEE Transactions on Consumer Electronics.
 - Associate Editor, Journal of Cloud Computing.
-- Lead Guest Editor, IEEE Transactions on Consumer Electronics.
-- Lead Guest Editor, Future Generation Computer Systems.
-- Managing Guest Editor, Applied Soft Computing.
+- Lead Guest Editor, IEEE Transactions on Consumer Electronics ([CFP](https://ctsoc.ieee.org/images/TCE_FILES/TCE_SS_CFP_Intelligent_Computing_for_Big_Data_in_Consumer_Internet_of_Things.pdf)).
+- Lead Guest Editor, Future Generation Computer Systems ([CFP](https://www.sciencedirect.com/journal/future-generation-computer-systems/about/call-for-papers#artificial-intelligence-for-time-critical-computing-systems)).
+- Managing Guest Editor, Applied Soft Computing ([CFP](https://www.sciencedirect.com/journal/applied-soft-computing/about/call-for-papers#soft-computing-for-edge-ai-systems-and-applications)).
 
 #### **Review Board**
 - Swiss National Science Foundation. <br>

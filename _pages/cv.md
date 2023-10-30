@@ -46,7 +46,7 @@ B.Eng in Electronic Engineering, 2003.09 - 2007.07
 
 
 #### **Projects**
-- CRRC Academy Project: Multi-Agent connected autonomous driving, 300K CNY, 2023.
+- CRRC Academy Project: Simulation of multi-agent connected autonomous driving, 300K CNY, 2023.
 - China Southern Power Grid Project: Cloud data security analysis, 200K CNY, 2023.
 - State Grid R&D Project：Distributed energy storage systems, 5M CNY, 2021 - 2024. 
 - State Grid R&D Project：Network security for a renewables-centred power system, 2.3M CNY, 2021 - 2023. 

@@ -6,7 +6,9 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
-1. Yan Gu, Feng Cheng, Lijie Yang, Junhui Xu, Xiaomin Chen, Long Cheng. [Cost-aware Cloud Workflow Scheduling using DRL and Simulated Annealing](), *Digital Communications and Networks*, 2023.
+1. Cong Liu, Ying Wang, Lijie Wen, Jiujun Cheng, Long Cheng, Qingtian Zeng. [Discovering Hierarchical Multi-instance Business Processes from Event Logs](), *IEEE Transactions on Services Computing*, 2023 
+
+1. Yan Gu, Feng Cheng, Lijie Yang, Junhui Xu, Xiaomin Chen, Long Cheng. [Cost-aware Cloud Workflow Scheduling using DRL and Simulated Annealing](), *Digital Communications and Networks*, 2023
 
 1. Long Cheng, Yue Wang, Feng Cheng, Cheng Liu, Zhiming Zhao, Ying Wang. [A Deep Reinforcement Learning-based Preemptive Approach for Cost-aware Cloud Job Scheduling](https://doi.org/10.1109/TSUSC.2023.3303898), *IEEE Transactions on Sustainable Computing*, 2023.
 

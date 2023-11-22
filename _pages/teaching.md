@@ -35,13 +35,15 @@ Java Programming, 2012
 
 #### **Supervision**
 
-- H. He. DRL for Cloud Security and Privacy Protection. Master Student, 2022 - 2025.
+- Y. Gu. RL for Cloud Manufacturing. PhD Student, 2023 - 2027.
 
-- H. Liu. DRL for Intelligent Call Center Services. Master Student, 2022 - 2025.
+- S. Dai. Quantum RL for Cloud Task Scheduling. Master Student, 2023 - 2026.
+
+- H. He. DRL for Cloud Security and Privacy Protection. Master Student, 2022 - 2025.
 
 - B. Xiong. DRL for Home-based Energy Management. Master Student, 2022 - 2025.
 
-- A. Zhang. DRL for Smart Energy Management in Microgrid. Master Student, 2022 - 2025.
+- A. Zhang. DRL for EV Charging Scheduling. Master Student, 2022 - 2025.
 
 - L. Du. AI for Process Mining.  Master Student, 2021 - 2024.
 

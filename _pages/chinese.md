@@ -82,16 +82,12 @@ description: Long Cheng, chinese, 中文简介
 1. **L. Cheng**, B. van Dongen, W. van der Aalst. [Scalable Discovery of Hybrid Process Models in a Cloud Computing Environment](https://dx.doi.org/10.1109/TSC.2019.2906203). *IEEE Transactions on Services Computing*,  2020. (CCF-A)
 
 
-#### **主持项目**
+#### **部分主持项目**
 1. 中车工业研究院项目：行车状态多参数自适应控制仿真测试与验证。2023，30万，项目负责人。
-
-1. 南方电网网络空间安全联合实验室项目：面向云计算环境的数据安全监控及分析关键技术研究。2023，20万元，项目负责人。
 
 1. 国家电网科技项目：支撑分布式储能网络化运营关键技术研究。2021-2024，500万元，课题负责人。
 
 1. 国家重点研发计划：保障冬奥赛事网络和系统不间断运行的XX关键技术研究与应用。2021-2022，1000万元，子课题负责人。
-
-1. 中央高校基金面上项目: 边缘计算中深度学习推理并行执行的优化研究。2021-2022，15万元，项目负责人。
 
 1. 欧盟H2020玛丽居里项目：大型分布式系统中网络感知的数据查询优化。2018-2019，20万欧元，项目负责人。
 
@@ -110,4 +106,4 @@ description: Long Cheng, chinese, 中文简介
 - [Ilias Tachmazidis](https://iliastachmazidis.blogspot.co.uk/) （英国Huddersfield大学高级讲师）
 - [Georgios Theodoropoulos](https://www.gtheodoropoulos.com/) （中国南方科技大学讲席教授）
 - [Tomas Ward](https://www.computing.dcu.ie/~tward/) （爱尔兰都柏林城市大学讲席教授）
-- [Ying Wang](https://wangying-ict.github.io/) （中科院计算所博导、国家优青）
+- [Ying Wang](https://wangying-ict.github.io/) （中科院计算所研究员、国家优青）

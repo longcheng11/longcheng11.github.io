@@ -13,6 +13,8 @@ description: Long Cheng, chinese, 中文简介
 
 #### **部分最新论文**
 
+1. Q. Liu, Y. Huang, C. Jin, X. Zhou, Y. Mao, C. Catal, **L. Cheng** (通讯). [Privacy and Integrity Protection for IoT Multimodal Data using Machine Learning and Blockchain](), *ACM Transactions on Multimedia Computing, Communications, and Applications*, 2023 (CCF-B)
+
 1. C. Liu, Y. Wang, L. Wen, J. Cheng, **L. Cheng**, Q. Zeng. [Discovering Hierarchical Multi-instance Business Processes from Event Logs](), *IEEE Transactions on Services Computing*, 2023  (CCF-A)
 
 1. **L. Cheng**, Yue Wang, F. Cheng, C. Liu, Z. Zhao, Ying Wang. [A Deep Reinforcement Learning-based Preemptive Approach for Cost-aware Cloud Job Scheduling](https://doi.org/10.1109/TSUSC.2023.3303898), *IEEE Transactions on Sustainable Computing*, 2023  (中科院二区)

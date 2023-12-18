@@ -6,6 +6,10 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
+1. Qingzhi Liu, Yuchen Huang, Chenglu Jin, Xiaohan Zhou, Ying Mao, Cagatay Catal, Long Cheng (CA). [Privacy and Integrity Protection for IoT Multimodal Data using Machine Learning and Blockchain](), *ACM Transactions on Multimedia Computing, Communications, and Applications*, 2023
+
+1. Zhenyue Long, Huiru Yan, Guiquan Shen, Xiaolu Zhang, Haoyang He and Long Cheng (CA). [A Transformer-based Network Intrusion Detection Approach for Cloud Security](), *Journal of Cloud Computing*, 2023
+
 1. Cong Liu, Ying Wang, Lijie Wen, Jiujun Cheng, Long Cheng, Qingtian Zeng. [Discovering Hierarchical Multi-instance Business Processes from Event Logs](), *IEEE Transactions on Services Computing*, 2023 
 
 1. Yan Gu, Feng Cheng, Lijie Yang, Junhui Xu, Xiaomin Chen, Long Cheng. [Cost-aware Cloud Workflow Scheduling using DRL and Simulated Annealing](), *Digital Communications and Networks*, 2023

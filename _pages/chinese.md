@@ -6,14 +6,20 @@ description: Long Cheng, chinese, 中文简介
 ---
 
 #### **个人简介**
-程龙，博士，现为华北电力大学控制与计算机工程学院教授、博士生导师、爱尔兰国家数据分析研究中心访问教授。他之前是爱尔兰都柏林城市大学计算机学院助理教授、欧盟玛丽居里学者。主要研究方向是并行分布式计算、深度学习、云计算和大数据处理以及这些技术在流程挖掘与能源大数据上的应用。曾在华为德国，IBM都柏林研究院工作过，并且在德国德累斯顿工业大学和荷兰埃因霍温理工大学从事过博士后研究，具有多年一线大数据系统和算法设计、开发与优化经验, 于2018年获得欧盟资助个人科研最高奖项之一玛丽居里个人基金，并入选2023年斯坦福全球前2%顶尖科学家榜单。
+程龙，博士，现为华北电力大学控制与计算机工程学院教授、博士生导师。他之前是爱尔兰国家数据分析研究中心访问教授、爱尔兰都柏林城市大学计算机学院助理教授、欧盟玛丽居里学者。主要研究方向是并行分布式计算、深度学习、云计算和大数据处理以及这些技术在流程挖掘与能源大数据上的应用。曾在华为德国，IBM都柏林研究院工作过，并且在德国德累斯顿工业大学和荷兰埃因霍温理工大学从事过博士后研究，具有多年一线大数据系统和算法设计、开发与优化经验, 于2018年获得欧盟资助个人科研最高奖项之一玛丽居里个人基金，并入选2023年斯坦福全球前2%顶尖科学家榜单。
 
-程教授在并行分布式计算和大数据处理的权威期刊与会议比如TPDS、TON、TC、TSC、TCC、TNSM、TCAD、TASE、TVT、TSMC、T-ITS、IEEE Network、JPDC、HPCA、ICPP、CIKM、CCGrid和EuroPar上发表80余篇文章（含IEEE/ACM Transactions/Magazine/Journal 30余篇），并且长期为对应的期刊和会议审稿，同时也是IPDPS、ICPP、CCGrid和CLUSTER等知名国际会议的程序委员会成员。他于2007年本科毕业于哈尔滨工业大学，2010年硕士毕业于德国杜伊斯堡-艾森大学(硕士论文由华为德国公司资助)，并于2014年获得爱尔兰国立大学-梅努斯的博士学位(由爱尔兰国家研究委员会全额博士奖学金资助)。目前是IEEE高级会员，IEEE Transactions on Consumer Electronics编委，SCI期刊Journal of Cloud Computing副主编（Co-Chair），IEEE TCE、FGCS、Applied Soft Computing、Computer Communications等权威期刊客座编辑，IEEE TPDS期刊Review Board成员，瑞士国家自然科学基金（SNSF）外国评审专家。
+程教授在并行分布式计算和大数据处理的权威期刊与会议比如TPDS、TON、TC、TSC、TCC、TNSM、TCAD、TASE、TVT、TSMC、T-ITS、IEEE Network、JPDC、HPCA、ICPP、CIKM、CCGrid和EuroPar上发表近100篇文章（含IEEE/ACM Transactions/Magazine/Journal 近40篇），并且长期为对应的期刊和会议审稿，同时也是IPDPS、ICPP、CCGrid和CLUSTER等知名国际会议的程序委员会成员。他于2007年本科毕业于哈尔滨工业大学，2010年硕士毕业于德国杜伊斯堡-艾森大学(硕士论文由华为德国公司资助)，并于2014年获得爱尔兰国立大学-梅努斯的博士学位(由爱尔兰国家研究委员会全额博士奖学金资助)。目前是IEEE高级会员，IEEE Transactions on Consumer Electronics编委，SCI期刊Journal of Cloud Computing副主编（Co-Chair），IEEE TCE、FGCS、Applied Soft Computing、Computer Communications等权威期刊客座编辑，IEEE TPDS期刊Review Board成员，瑞士国家自然科学基金（SNSF）外国评审专家。
 
 
 #### **部分最新论文**
 
-1. Q. Liu, Y. Huang, C. Jin, X. Zhou, Y. Mao, C. Catal, **L. Cheng** (通讯). [Privacy and Integrity Protection for IoT Multimodal Data using Machine Learning and Blockchain](), *ACM Transactions on Multimedia Computing, Communications, and Applications*, 2023 (CCF-B)
+1. J. Li, Z. Jiang, Z. Chen, J. Liu, **L. Cheng** (通讯). [CuEMS: Deep Reinforcement Learning for Community Control of Energy Management Systems in Microgrids](https://doi.org/10.1016/j.enbuild.2023.113865), *Energy and Buildings*, 2024 (中科院二区)
+
+1. Q. Liu, Y. Huang, C. Jin, X. Zhou, Y. Mao, C. Catal, **L. Cheng** (通讯). [Privacy and Integrity Protection for IoT Multimodal Data using Machine Learning and Blockchain](https://doi.org/10.1145/3638769), *ACM Transactions on Multimedia Computing, Communications, and Applications*, 2024 (CCF-B)
+
+1. X. Chen, Q. Yu, S. Dai, P. Sun, H. Tang, **L. Cheng** (通讯). [Deep Reinforcement Learning for Efficient IoT Data Compression in Smart Railroad Management](https://doi.org/10.1109/JIOT.2023.3348487), *IEEE Internet of Things Journal*, 2024 (中科院一区)
+
+1. S. Li, J. Li, Y. Liang, H. Zhang, S. Wu, S. Wang, **L. Cheng**. [TD-SAS: A Trust-Aware and Decentralized Speed Advisory System for Energy-Efficient Autonomous Vehicle Platoons](https://doi.org/10.1109/TIV.2023.3347870), *IEEE Transactions on Intelligent Vehicles*, 2023 (中科院一区)
 
 1. C. Liu, Y. Wang, L. Wen, J. Cheng, **L. Cheng**, Q. Zeng. [Discovering Hierarchical Multi-instance Business Processes from Event Logs](), *IEEE Transactions on Services Computing*, 2023  (CCF-A)
 
@@ -96,6 +102,7 @@ description: Long Cheng, chinese, 中文简介
 
 #### **外校主要合作者**
 - [Wil van der Aalst](https://www.padsweb.rwth-aachen.de/wvdaalst/) (欧洲科学院院士，洪堡教授，流程挖掘创始人)
+- [Schahram Dustdar](https://dsg.tuwien.ac.at/team/sd/) (维也纳工业大学教授、欧洲科学院院士)
 - [Dick Epema](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/dick-epema/?no_cache=1) (荷兰代尔夫特理工大学教授)
 - [Spyros Kotoulas](https://researcher.watson.ibm.com/researcher/view.php?person=ie-Spyros.Kotoulas) (Facebook英国工程部经理)
 - [Markus Kr&ouml;tzsch](https://iccl.inf.tu-dresden.de/web/Markus_Kr%C3%B6tzsch) (德国德累斯顿工业大学教授)

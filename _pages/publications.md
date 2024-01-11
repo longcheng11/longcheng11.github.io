@@ -6,13 +6,23 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
-1. Qingzhi Liu, Yuchen Huang, Chenglu Jin, Xiaohan Zhou, Ying Mao, Cagatay Catal, Long Cheng (CA). [Privacy and Integrity Protection for IoT Multimodal Data using Machine Learning and Blockchain](), *ACM Transactions on Multimedia Computing, Communications, and Applications*, 2023
+1. Long Cheng, Yan Gu, Qingzhi Liu, Lei Yang, Cheng Liu, Ying Wang. [Advancements in Accelerating Deep Neural Network Inference on AIoT Devices: A Survey](https://doi.org/10.1109/TSUSC.2024.3353176), *IEEE Transactions on Sustainable Computing*, 2024
 
-1. Zhenyue Long, Huiru Yan, Guiquan Shen, Xiaolu Zhang, Haoyang He and Long Cheng (CA). [A Transformer-based Network Intrusion Detection Approach for Cloud Security](), *Journal of Cloud Computing*, 2023
+1. Sen Li, Hui Jin, Yingke Gao, Ying Wang, Shuhong Dai, Yongjun Xu, Long Cheng (CA). [Approximate Data Mapping in Refresh-Free DRAM for Energy-Efficient Computing in Modern Mobile Systems](https://doi.org/10.1016/j.comcom.2023.12.037), *Computer Communications*, 2024
+
+1. Jianbin Li, Zeshuo Jiang, Zhiqiang Chen, Jinwei Liu, Long Cheng (CA). [CuEMS: Deep Reinforcement Learning for Community Control of Energy Management Systems in Microgrids](https://doi.org/10.1016/j.enbuild.2023.113865), *Energy and Buildings*, 2024
+
+1. Qingzhi Liu, Yuchen Huang, Chenglu Jin, Xiaohan Zhou, Ying Mao, Cagatay Catal, Long Cheng (CA). [Privacy and Integrity Protection for IoT Multimodal Data using Machine Learning and Blockchain](https://doi.org/10.1145/3638769), *ACM Transactions on Multimedia Computing, Communications, and Applications*, 2024
+
+1. Xuan Chen, Qixuan Yu, Shuhong Dai, Pengfei Sun, Haichuan Tang, Long Cheng (CA). [Deep Reinforcement Learning for Efficient IoT Data Compression in Smart Railroad Management](https://doi.org/10.1109/JIOT.2023.3348487), *IEEE Internet of Things Journal*, 2024
+
+1. Zhenyue Long, Huiru Yan, Guiquan Shen, Xiaolu Zhang, Haoyang He and Long Cheng (CA). [A Transformer-based Network Intrusion Detection Approach for Cloud Security](https://doi.org/10.1186/s13677-023-00574-9), *Journal of Cloud Computing*, 2024
+
+1. Shike Li, Jianbin Li, Yin Liang, Hengyang Zhang, Sixing Wu, Shen Wang, Long Cheng. [TD-SAS: A Trust-Aware and Decentralized Speed Advisory System for Energy-Efficient Autonomous Vehicle Platoons](https://doi.org/10.1109/TIV.2023.3347870), *IEEE Transactions on Intelligent Vehicles*, 2023
 
 1. Cong Liu, Ying Wang, Lijie Wen, Jiujun Cheng, Long Cheng, Qingtian Zeng. [Discovering Hierarchical Multi-instance Business Processes from Event Logs](), *IEEE Transactions on Services Computing*, 2023 
 
-1. Yan Gu, Feng Cheng, Lijie Yang, Junhui Xu, Xiaomin Chen, Long Cheng. [Cost-aware Cloud Workflow Scheduling using DRL and Simulated Annealing](), *Digital Communications and Networks*, 2023
+1. Yan Gu, Feng Cheng, Lijie Yang, Junhui Xu, Xiaomin Chen, Long Cheng. [Cost-aware Cloud Workflow Scheduling using DRL and Simulated Annealing](https://doi.org/10.1016/j.dcan.2023.12.009), *Digital Communications and Networks*, 2024
 
 1. Long Cheng, Yue Wang, Feng Cheng, Cheng Liu, Zhiming Zhao, Ying Wang. [A Deep Reinforcement Learning-based Preemptive Approach for Cost-aware Cloud Job Scheduling](https://doi.org/10.1109/TSUSC.2023.3303898), *IEEE Transactions on Sustainable Computing*, 2023.
 

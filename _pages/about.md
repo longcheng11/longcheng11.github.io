@@ -9,7 +9,7 @@ bio: true
 
 <div class="row">
    <div class="column left"> 
-      <img src="images/longcheng.jpg" style="width:190px" alt="longcheng"> 
+      <img src="images/longcheng.jpg" style="width:193px" alt="longcheng"> 
    </div>
    <div class="column right">
       <p>Long Cheng, PhD</p>

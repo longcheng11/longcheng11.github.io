@@ -9,12 +9,13 @@ bio: true
 
 <div class="row">
    <div class="column left"> 
-      <img src="images/longcheng.jpg" style="width:200px" alt="longcheng"> 
+      <img src="images/longcheng.jpg" style="width:180px" alt="longcheng"> 
    </div>
    <div class="column right">
       <p>Long Cheng, PhD</p>
-      <p>Professor<br>
-      <p>School of Control and Computer Engineering<br>
+      <p>Professor</p>
+      <p><a href="http://182.92.109.163/">Distributed Systems Group</a><br>
+       School of Control and Computer Engineering<br>
       <a href="https://en.wikipedia.org/wiki/North_China_Electric_Power_University">North China Electric Power University</a>
       <br>Beijing, China</p>
       <p>E-mail: lcheng[AT]ncepu.edu.cn<br>

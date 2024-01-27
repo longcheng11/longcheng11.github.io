@@ -6,7 +6,7 @@ description: Long Cheng, activities
 ---
 
 #### **Organization**
-- Program Co-Chair of 9th IEEE International Conference on Computer and Communications, 2023.<br>
+- Program Co-Chair of 9th IEEE Int. Conference on Computer and Communications, 2023.<br>
 - Co-organizer of International Workshop on Network-Aware Big Data Computing, 2020.<br>
 - Publicity Chair of Int. Workshop on Blockchain for IoT and Cyber-physical Systems, 2020.<br>
 - Co-organizer of International Workshop on Network-Aware Big Data Computing, 2019.<br>

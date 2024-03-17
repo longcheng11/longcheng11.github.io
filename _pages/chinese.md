@@ -13,7 +13,7 @@ description: Long Cheng, chinese, 中文简介
 
 #### **部分最新论文**
 
-1. J. Li, Z. Jiang, Z. Chen, J. Liu, **L. Cheng** (通讯). [CuEMS: Deep Reinforcement Learning for Community Control of Energy Management Systems in Microgrids](https://doi.org/10.1016/j.enbuild.2023.113865), *Energy and Buildings*, 2024 (中科院二区)
+1. **L. Cheng**, L. Du, C. Liu, Y. Hu, F. Fang, T. Ward. [Multi-modal fusion for business process prediction in call center scenarios](https://doi.org/10.1016/j.inffus.2024.102362), *Information Fusion*, 2024 (中科院一区)
 
 1. Q. Liu, Y. Huang, C. Jin, X. Zhou, Y. Mao, C. Catal, **L. Cheng** (通讯). [Privacy and Integrity Protection for IoT Multimodal Data using Machine Learning and Blockchain](https://doi.org/10.1145/3638769), *ACM Transactions on Multimedia Computing, Communications, and Applications*, 2024 (CCF-B)
 

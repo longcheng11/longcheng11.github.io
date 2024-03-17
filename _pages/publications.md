@@ -6,7 +6,11 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
-1. Ao Zhang, Qingzhi Liu, Jinwei Liu, Long Cheng (CA). [CASA: Cost-effective EV Charging Scheduling based on Deep Reinforcement Learning](), *Neural Computing and Applications*, 2024
+1. Long Cheng, Li Du, Cong Liu, Yang Hu, Fang Fang, Tomas Ward. [Multi-modal fusion for business process prediction in call center scenarios](https://doi.org/10.1016/j.inffus.2024.102362), *Information Fusion*, 2024
+
+1. Jiawei Liu, Qingle Wang, Qingxia Mu, Yuancheng Li, Long Cheng, Wenqi Sun. [Advancing multi-party quantum key agreement protocols: the power of a two-layer approach](https://doi.org/10.1007/s11128-024-04302-3), *Quantum Information Processing*, 2024
+
+1. Ao Zhang, Qingzhi Liu, Jinwei Liu, Long Cheng (CA). [CASA: Cost-effective EV Charging Scheduling based on Deep Reinforcement Learning](https://doi.org/10.1007/s00521-024-09530-3), *Neural Computing and Applications*, 2024
 
 1. Long Cheng, Yan Gu, Qingzhi Liu, Lei Yang, Cheng Liu, Ying Wang. [Advancements in Accelerating Deep Neural Network Inference on AIoT Devices: A Survey](https://doi.org/10.1109/TSUSC.2024.3353176), *IEEE Transactions on Sustainable Computing*, 2024
 

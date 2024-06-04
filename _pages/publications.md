@@ -6,6 +6,12 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
+1. Long Cheng, Lei Yang, Qingzhi Liu, John Murphy. [Guest Editorial of the Special Section on Intelligent Computing for Big Data in Consumer Internet of Things](https://doi.org/10.1109/TCE.2024.3383389), *IEEE Transactions on Consumer Electronics*, 2024
+
+1. Guodong Li, Wenchuan Cheng, Qingle Wang, Long Cheng, Ying Mao, Hengyue Jia. [Enhanced Quantum Secret Sharing Protocol for Anonymous Secure Communication Utilizing W States](https://doi.org/10.1016/j.isci.2024.109836), *iScience*, 2024
+
+1. Long Cheng, Xiaomin Chen, Zhiming Zhao. [Preface of special issue on Artificial Intelligence for time-critical computing systems](https://doi.org/10.1016/j.future.2024.05.011), *Future Generation Computer Systems*, 2024
+
 1. Long Cheng, Li Du, Cong Liu, Yang Hu, Fang Fang, Tomas Ward. [Multi-modal fusion for business process prediction in call center scenarios](https://doi.org/10.1016/j.inffus.2024.102362), *Information Fusion*, 2024
 
 1. Jiawei Liu, Qingle Wang, Qingxia Mu, Yuancheng Li, Long Cheng, Wenqi Sun. [Advancing multi-party quantum key agreement protocols: the power of a two-layer approach](https://doi.org/10.1007/s11128-024-04302-3), *Quantum Information Processing*, 2024

@@ -53,8 +53,6 @@ description: Long Cheng, chinese, 中文简介
 
 1. J. Li, Z. Chen, **L. Cheng** (通讯), X. Liu. [Energy Data Generation with Wasserstein Deep Convolutional Generative Adversarial Networks](https://doi.org/10.1016/j.energy.2022.124694). *Energy*, 2022 (中科院一区，**ESI高被引论文**) 
 
-1. **L. Cheng**, A. Kalapgar, A. Jain, Y. Wang, Y. Qin, Y. Li, C. Liu. [Cost-aware Real-time Job Scheduling for Hybrid Cloud using Deep Reinforcement Learning](https://doi.org/10.1007/s00521-022-07477-x). *Neural Computing and Applications*, 2022 (中科院二区)
-
 1. C. Liu, H. Li, S. Zhang, **L. Cheng**, Q. Zeng. [Cross-Department Collaborative Healthcare Process Model Discovery from Event Logs](https://doi.org/10.1109/TASE.2022.3194312). *IEEE Transactions on Automation Science and Engineering*, 2022 (CCF-B).
 
 1. Y. Mao, W. Yan, Y. Song, Y. Zeng, M. Chen, **L. Cheng**, Q. Liu. [Differentiate Quality of Experience Scheduling for Deep Learning Inferences with Docker Containers in the Cloud](https://doi.org/10.1109/TCC.2022.3154117). *IEEE Transactions on Cloud Computing*, 2022 (中科院二区).

@@ -49,6 +49,7 @@ description: Long Cheng, activities
 - The 6th Int. Conference on Knowledge Engineering and Semantic Web (KESW), 2015.
 
 #### **Reviewer for Journals and Conferences**
+- Information Sciences, 2024.<br>
 - IEEE Transactions on Big Data, 2023.<br>
 - IEEE Transactions on Parallel and Distributed Systems, 2023.<br>
 - IEEE Transactions on Consumer Electronics, 2023.<br>

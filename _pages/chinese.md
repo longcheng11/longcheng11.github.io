@@ -6,12 +6,16 @@ description: Long Cheng, chinese, 中文简介
 ---
 
 #### **个人简介**
-程龙，博士，现为华北电力大学控制与计算机工程学院教授、博士生导师。他之前是爱尔兰国家数据分析研究中心访问教授、爱尔兰都柏林城市大学计算机学院助理教授、欧盟玛丽居里学者。主要研究方向是并行分布式计算、深度学习、云计算和大数据处理以及这些技术在流程挖掘与能源大数据上的应用。曾在华为德国，IBM都柏林研究院工作过，并且在德国德累斯顿工业大学和荷兰埃因霍温理工大学从事过博士后研究，具有多年一线大数据系统和算法设计、开发与优化经验, 于2018年获得欧盟资助个人科研最高奖项之一玛丽居里个人基金，并入选2023年斯坦福全球前2%顶尖科学家榜单。
+程龙，博士，现为华北电力大学控制与计算机工程学院教授、博士生导师。他之前是爱尔兰国家数据分析研究中心访问教授、爱尔兰都柏林城市大学助理教授、欧盟玛丽居里学者。主要研究方向是分布式系统和深度强化学习。曾在华为德国，IBM都柏林研究院工作过，并且在德国德累斯顿工业大学和荷兰埃因霍温理工大学从事过博士后研究，具有多年系统和算法设计、开发与优化经验, 于2018年获得欧盟资助个人科研最高奖项之一玛丽居里个人基金，并入选2023年斯坦福全球前2%顶尖科学家榜单。
 
-程教授在并行分布式计算和大数据处理的权威期刊与会议比如TPDS、TON、TC、TSC、TCC、TNSM、TCAD、TASE、TVT、TSMC、TITS、JPDC、HPCA、ICPP、CIKM、CCGrid和EuroPar上发表100余篇文章（含IEEE/ACM Transactions/Magazine/Journal 40多篇），并且长期为对应的期刊和会议审稿，同时也是IPDPS、ICPP、CCGrid和CLUSTER等知名国际会议的程序委员会成员。他于2007年本科毕业于哈尔滨工业大学，2010年硕士毕业于德国杜伊斯堡-艾森大学(硕士论文由华为德国公司资助)，并于2014年获得爱尔兰国立大学-梅努斯的博士学位(由爱尔兰国家研究委员会全额博士奖学金资助)。目前是IEEE高级会员，IEEE Transactions on Consumer Electronics编委，SCI期刊Journal of Cloud Computing副主编（Co-Chair），IEEE TCE、FGCS、Applied Soft Computing、Computer Communications等权威期刊客座编辑，IEEE TPDS期刊Review Board成员，瑞士国家自然科学基金（SNSF）外国评审专家。
+程教授在并行分布式计算和大数据处理的权威期刊与会议比如TPDS、TON、TC、TSC、TCAD、TITS、HPCA、ICPP、CIKM、CCGrid和EuroPar上发表100余篇文章（含IEEE/ACM Transactions/Magazine/Journal 40多篇），并且长期为对应的期刊和会议审稿，同时也是IPDPS、ICPP、CCGrid和CLUSTER等知名国际会议的程序委员会成员。他于2007年本科毕业于哈尔滨工业大学，2010年硕士毕业于德国杜伊斯堡-艾森大学(硕士论文由华为德国公司资助)，并于2014年获得爱尔兰国立大学-梅努斯的博士学位(由爱尔兰国家研究委员会全额博士奖学金资助)。目前是IEEE高级会员，IEEE Transactions on Consumer Electronics编委，SCI期刊Journal of Cloud Computing副主编（Co-Chair），IEEE TCE、FGCS、Applied Soft Computing、Computer Communications等权威期刊客座编辑，IEEE TPDS期刊Review Board成员，瑞士国家自然科学基金（SNSF）外国评审专家。
 
 
 #### **部分最新论文**
+
+1. Q. Chen, F. He, G. Wang, X. Bai, **L. Cheng**, X. Ning. [Dual Guidance Enabled Fuzzy Inference for Enhanced Fine-Grained Recognition](https://doi.org/10.1109/TFUZZ.2024.3427654), *IEEE Transactions on Fuzzy Systems*, 2024  (中科院一区)
+
+1. S. Dai, S. Li, H. Tang, X. Ning, F. Fang, Y. Fu, Q. Wang, **L. Cheng** (通讯). [MARP: A Cooperative Multi-Agent DRL System for Connected Autonomous Vehicle Platooning](), *IEEE Internet of Things Journal*, 2024 (中科院一区)
 
 1. **L. Cheng**, L. Du, C. Liu, Y. Hu, F. Fang, T. Ward. [Multi-modal fusion for business process prediction in call center scenarios](https://doi.org/10.1016/j.inffus.2024.102362), *Information Fusion*, 2024 (中科院一区)
 
@@ -57,37 +61,7 @@ description: Long Cheng, chinese, 中文简介
 
 1. Q. Liu, T. Xia, **L. Cheng** (通讯), M. Eijk, T. Ozcelebi, Y. Mao. [Deep Reinforcement Learning for Load-Balancing Aware Network Control in IoT Edge Systems](https://doi.org/10.1109/TPDS.2021.3116863).  *IEEE Transactions on Parallel and Distributed Systems*, 2022. (CCF-A).
 
-1. Y. Mao, Y. Fu, W. Zheng, **L. Cheng**, Q. Liu, D. Tao. [Speculative Container Scheduling for Deep Learning Applications in a Kubernetes Cluster](https://doi.org/10.1109/JSYST.2021.3129974). *IEEE Systems Journal*, 2021 (中科院二区).
-
-1. Y. Huang, **L. Cheng** (通讯), L. Xue, C. Liu, Y. Li, J., T. Ward. [Deep Adversarial Imitation Reinforcement Learning for QoS-aware Cloud Job Scheduling](https://doi.org/10.1109/JSYST.2021.3122126). *IEEE Systems Journal*, 2021 (中科院二区).
-
-1. 王颖，刘聪，闻立杰，曾庆田，**程龙**. [一种分层多实例过程模型挖掘方法](). *中国业务过程管理大会*， 2021 （最佳学生论文奖，**最具有企业应用价值奖**).
-
-1. K. Zou, Y. Wang, **L. Cheng**, S. Qu, H. Li, X. Li. [CAP: Communication-aware Automated Parallelization for Deep Learning Inference on CMP Architectures](https://doi.org/10.1109/TC.2021.3099688). *IEEE Transactions on Computers*, 2021 (CCF-A).
-
-1. Y. Wang, Y. He, **L. Cheng**, H. Li, X. Li. [A Fast Precision Tuning Solution for Always-On DNN Accelerators](https://doi.org/10.1109/TCAD.2021.3089667). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2021 (CCF-A).
-
-1. D. Xu, M. He, C. Liu, Y. Wang, **L. Cheng**, H. Li, X. Li, K. Cheng. [R2F: A Remote Retraining Framework for AIoT Processors with Computing Errors](https://doi.org/10.1109/TVLSI.2021.3089224). *IEEE Transactions on Very Large Scale Integration Systems*, 2021 (CCF-B).
-
 1. C. Liu, **L. Cheng**, Q. Zeng, L. Wen. [Formal Modeling and Discovery of Hierarchical Business Processes: A Petri Net based Approach](https://doi.org/10.1109/TSMC.2022.3195869). *IEEE Transactions on Systems, Man and Cybernetics: Systems*, 2022 (中科院一区).
-
-1. **L. Cheng**, Y. Wang, Q. Liu, D. Epema, C. Liu, Y. Mao, J. Murphy. [Network-Aware Locality Scheduling for Distributed Data Operators in Data Centers](https://doi.org/10.1109/TPDS.2021.3053241). *IEEE Transactions on Parallel and Distributed Systems*, 2021 (CCF-A).
-
-1. M. Liu, **L. Cheng** (通讯), Y. Gu, Y. Wang, Q. Liu, N. O'Connor. [MPC-CSAS: Multi-Party Computation for Real-time Privacy-preserving Speed Advisory Systems](https://doi.org/10.1109/TITS.2021.3052840). *IEEE Transactions on Intelligent Transportation Systems*, 2021 (中科院一区).
-
-1. Q. Liu, **L. Cheng** (通讯), A. Jia, C. Liu. [Deep Reinforcement Learning for Communication Flow Control in Wireless Mesh Networks](https://doi.org/10.1109/MNET.011.2000303). *IEEE Network*, 2021 (中科院一区, **ESI高被引论文**).
-
-1. C. Liu, Q. Zeng, **L. Cheng** (通讯), H. Duan, J. Cheng. [Measuring Similarity for Data-aware Business Processes](https://doi.org/10.1109/TASE.2021.3049772). *IEEE Transactions on Automation Science and Engineering*, 2020 (CCF-B).
-
-1. Q. Liu, **L. Cheng**, R. Alves, T. Ozcelebi, F. Kuipers, G. Xu, J. Lukkien, S. Chen. [Cluster-based Flow Control in Hybrid Software-Defined Wireless Sensor Networks](https://doi.org/10.1016/j.comnet.2020.107788). *Computer Networks*, 2020 (CCF-B).
-
-1. J. Liu, H. Shen, H. Chi, H. Narman, Y. Yang, **L. Cheng**, W. Chung. [A Low-cost Multi-failure Resilient Replication Scheme with Data Correlation for High Data Availability in Cloud Storage](https://dx.doi.org/10.1109/TNET.2020.3027814).  *IEEE/ACM Transactions on Networking*, 29(4): 1436-1451, 2021 (CCF-A, **ESI高被引论文**).	
-
-1. Y. Wang, Yc. Wang, C. Shi, **L. Cheng**, H. Li, X. Li. [An Edge 3D CNN Accelerator for Low Power Activity Recognition](https://dx.doi.org/10.1109/TCAD.2020.3011042). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2020 (CCF-A).	
-	
-1. C. Liu, Q. Zeng, **L. Cheng** (通讯), H. Duan, M. Zhou, J. Cheng. [Privacy-preserving Behavioral Correctness Verification of Cross-organizational Workflow with Task Synchronization Patterns](https://dx.doi.org/10.1109/TASE.2020.2993376). *IEEE Transactions on Automation Science and Engineering*, 2020 (CCF-B).	
-
-1. **L. Cheng**, B. van Dongen, W. van der Aalst. [Scalable Discovery of Hybrid Process Models in a Cloud Computing Environment](https://dx.doi.org/10.1109/TSC.2019.2906203). *IEEE Transactions on Services Computing*,  2020. (CCF-A)
 
 
 #### **部分主持项目**

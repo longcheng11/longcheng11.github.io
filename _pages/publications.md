@@ -6,6 +6,16 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
+1. Qiupu Chen, Feng He, Gang Wang, Xiao Bai, Long Cheng, Xin Ning. [Dual Guidance Enabled Fuzzy Inference for Enhanced Fine-Grained Recognition](https://doi.org/10.1109/TFUZZ.2024.3427654), *IEEE Transactions on Fuzzy Systems*, 2024
+
+1. Shuhong Dai, Shike Li, Haichuan Tang, Xin Ning, Fang Fang, Yunxiao Fu, Qingle Wang, Long Cheng (CA). [MARP: A Cooperative Multi-Agent DRL System for Connected Autonomous Vehicle Platooning](), *IEEE Internet of Things Journal*, 2024
+
+1. Meilan Hao, Zhongkang Zhang, Lei Li, Kejian Dong, Long Cheng, Prayag Tiwari, Xin Ning. [Coarse to Fine-based Image–Point Cloud Fusion Network for 3D Object Detection](https://doi.org/10.1016/j.inffus.2024.102551), *Information Fusion*, 2024
+
+1. Jianbin Li, Hengyang Zhang, Qixuan Yu, Shike Li, Long Cheng, Sixing Wu. [BD-TTS: A blockchain and DRL-based framework for trusted task scheduling in edge computing](https://doi.org/10.1016/j.comnet.2024.110609), *Computer Networks*, 2024
+
+1. Jinlong Xie, Long Cheng, Gang Wang, Zaiyang Yu, Minghua Du, Xin Ning. [Fusing Differentiable Rendering and Language-Image Contrastive Learning for Superior Zero-Shot Point Cloud Classification](https://doi.org/10.1016/j.displa.2024.102773), *Displays*, 2024
+
 1. Long Cheng, Lei Yang, Qingzhi Liu, John Murphy. [Guest Editorial of the Special Section on Intelligent Computing for Big Data in Consumer Internet of Things](https://doi.org/10.1109/TCE.2024.3383389), *IEEE Transactions on Consumer Electronics*, 2024
 
 1. Guodong Li, Wenchuan Cheng, Qingle Wang, Long Cheng, Ying Mao, Hengyue Jia. [Enhanced Quantum Secret Sharing Protocol for Anonymous Secure Communication Utilizing W States](https://doi.org/10.1016/j.isci.2024.109836), *iScience*, 2024

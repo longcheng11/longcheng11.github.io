@@ -20,6 +20,7 @@ description: Long Cheng, activities
 - Lead Guest Editor, Future Generation Computer Systems.
 - Lead Guest Editor, Applied Soft Computing.
 - Lead Guest Editor, Computer Communications.
+- Lead Guest Editor, Information Fusion.
 
 #### **Review Board**
 - Swiss National Science Foundation. <br>

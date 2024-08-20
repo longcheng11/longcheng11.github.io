@@ -6,9 +6,11 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
+1. Jiawei Liu, Qingxia Mu, Ronghua Che, Qingle Wang, Yunguang Han and Long Cheng. [Multi-participant quantum anonymous communication based on high-dimensional entangled states](https://doi.org/10.1088/1402-4896/ad69d9), *Physica Scripta*, 2024
+
 1. Qiupu Chen, Feng He, Gang Wang, Xiao Bai, Long Cheng, Xin Ning. [Dual Guidance Enabled Fuzzy Inference for Enhanced Fine-Grained Recognition](https://doi.org/10.1109/TFUZZ.2024.3427654), *IEEE Transactions on Fuzzy Systems*, 2024
 
-1. Shuhong Dai, Shike Li, Haichuan Tang, Xin Ning, Fang Fang, Yunxiao Fu, Qingle Wang, Long Cheng (CA). [MARP: A Cooperative Multi-Agent DRL System for Connected Autonomous Vehicle Platooning](), *IEEE Internet of Things Journal*, 2024
+1. Shuhong Dai, Shike Li, Haichuan Tang, Xin Ning, Fang Fang, Yunxiao Fu, Qingle Wang, Long Cheng (CA). [MARP: A Cooperative Multiagent DRL System for Connected Autonomous Vehicle Platooning](https://doi.org/10.1109/JIOT.2024.3432119), *IEEE Internet of Things Journal*, 2024
 
 1. Meilan Hao, Zhongkang Zhang, Lei Li, Kejian Dong, Long Cheng, Prayag Tiwari, Xin Ning. [Coarse to Fine-based Image–Point Cloud Fusion Network for 3D Object Detection](https://doi.org/10.1016/j.inffus.2024.102551), *Information Fusion*, 2024
 

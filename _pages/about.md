@@ -14,7 +14,7 @@ bio: true
    <div class="column right">
       <p>Long Cheng, PhD</p>
       <p>Professor</p>
-      <p>Distributed Systems Group<br>
+      <p><a href="http://distsys.org.cn/">Distributed Systems Group</a><br>
        School of Control and Computer Engineering<br>
       <a href="https://en.wikipedia.org/wiki/North_China_Electric_Power_University">North China Electric Power University</a>
       <br>Beijing, China</p>

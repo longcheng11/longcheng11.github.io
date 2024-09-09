@@ -6,6 +6,10 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
+1. Qingle Wang, Yingying Wang, Yuancheng Li, Guodong Li, Yunguang Han, Long Cheng. [A secure dynamic quantum anonymous secret sharing protocol utilizing GHZ states](https://doi.org/10.1088/1402-4896/ad75cc), *Physica Scripta*, 2024
+
+1. Huiru Yan, Yan Gu, Haoyang He, Xin Ning, Qingle Wang, Long Cheng. [DNN-based Task Partitioning and Offloading in Edge-Cloud Collaboration within Electric Vehicles](https://doi.org/10.1109/TCE.2024.3454270), *IEEE Transactions on Consumer Electronics*, 2024
+
 1. Jiawei Liu, Qingxia Mu, Ronghua Che, Qingle Wang, Yunguang Han and Long Cheng. [Multi-participant quantum anonymous communication based on high-dimensional entangled states](https://doi.org/10.1088/1402-4896/ad69d9), *Physica Scripta*, 2024
 
 1. Qiupu Chen, Feng He, Gang Wang, Xiao Bai, Long Cheng, Xin Ning. [Dual Guidance Enabled Fuzzy Inference for Enhanced Fine-Grained Recognition](https://doi.org/10.1109/TFUZZ.2024.3427654), *IEEE Transactions on Fuzzy Systems*, 2024

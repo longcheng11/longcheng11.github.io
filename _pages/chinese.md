@@ -6,16 +6,16 @@ description: Long Cheng, chinese, 中文简介
 ---
 
 #### **个人简介**
-程龙，博士，现为华北电力大学控制与计算机工程学院教授、博士生导师。他之前是爱尔兰国家数据分析研究中心访问教授、爱尔兰都柏林城市大学助理教授、欧盟玛丽居里学者。主要研究方向是分布式系统和深度强化学习。曾在华为德国，IBM都柏林研究院工作过，并且在德国德累斯顿工业大学和荷兰埃因霍温理工大学从事过博士后研究，具有多年系统和算法设计、开发与优化经验, 于2018年获得欧盟资助个人科研最高奖项之一玛丽居里个人基金，并入选2023年斯坦福全球前2%顶尖科学家榜单。
+程龙，博士，现为华北电力大学控制与计算机工程学院教授、博士生导师。他之前是爱尔兰国家数据分析研究中心访问教授、爱尔兰都柏林城市大学助理教授、欧盟玛丽居里学者。主要研究方向是分布式系统和深度强化学习。曾在华为德国，IBM都柏林研究院工作过，并且在德国德累斯顿工业大学和荷兰埃因霍温理工大学从事过博士后研究，具有多年系统和算法设计、开发与优化经验, 于2018年获得欧盟资助个人科研最高奖项之一玛丽居里个人基金，并入选2023、2024年斯坦福全球前2%顶尖科学家榜单。
 
-程教授在并行分布式计算和大数据处理的权威期刊与会议比如TPDS、TON、TC、TSC、TCAD、TITS、HPCA、ICPP、CIKM、CCGrid和EuroPar上发表100余篇文章（含IEEE/ACM Transactions/Magazine/Journal 40多篇），并且长期为对应的期刊和会议审稿，同时也是IPDPS、ICPP、CCGrid和CLUSTER等知名国际会议的程序委员会成员。他于2007年本科毕业于哈尔滨工业大学，2010年硕士毕业于德国杜伊斯堡-艾森大学(硕士论文由华为德国公司资助)，并于2014年获得爱尔兰国立大学-梅努斯的博士学位(由爱尔兰国家研究委员会全额博士奖学金资助)。目前是IEEE高级会员，IEEE Transactions on Consumer Electronics编委，SCI期刊Journal of Cloud Computing副主编（Co-Chair），IEEE TCE、FGCS、Applied Soft Computing、Computer Communications等权威期刊客座编辑，IEEE TPDS期刊Review Board成员，瑞士国家自然科学基金（SNSF）外国评审专家。
+程教授在并行分布式计算的权威期刊与会议比如TPDS、TON、TC、TSC、TCAD、HPCA、ICPP和EuroPar上发表110余篇文章，是IPDPS、ICPP、CCGrid和CLUSTER等知名国际会议的程序委员会成员。他于2007年本科毕业于哈尔滨工业大学，2010年硕士毕业于德国杜伊斯堡-艾森大学(硕士论文由华为德国公司资助)，并于2014年获得爱尔兰国立大学-梅努斯的博士学位(由爱尔兰国家研究委员会IRC全额博士奖学金资助)。目前是IEEE高级会员，IEEE Transactions on Consumer Electronics编委，SCI期刊Journal of Cloud Computing副主编（Chair），IEEE TCE、FGCS、Applied Soft Computing、Information Fusion等权威期刊客座编辑。
 
 
 #### **部分最新论文**
 
 1. Q. Chen, F. He, G. Wang, X. Bai, **L. Cheng**, X. Ning. [Dual Guidance Enabled Fuzzy Inference for Enhanced Fine-Grained Recognition](https://doi.org/10.1109/TFUZZ.2024.3427654), *IEEE Transactions on Fuzzy Systems*, 2024  (中科院一区)
 
-1. S. Dai, S. Li, H. Tang, X. Ning, F. Fang, Y. Fu, Q. Wang, **L. Cheng** (通讯). [MARP: A Cooperative Multi-Agent DRL System for Connected Autonomous Vehicle Platooning](), *IEEE Internet of Things Journal*, 2024 (中科院一区)
+1. S. Dai, S. Li, H. Tang, X. Ning, F. Fang, Y. Fu, Q. Wang, **L. Cheng** (通讯). [MARP: A Cooperative Multi-Agent DRL System for Connected Autonomous Vehicle Platooning](https://doi.org/10.1109/JIOT.2024.3432119), *IEEE Internet of Things Journal*, 2024 (中科院一区)
 
 1. **L. Cheng**, L. Du, C. Liu, Y. Hu, F. Fang, T. Ward. [Multi-modal fusion for business process prediction in call center scenarios](https://doi.org/10.1016/j.inffus.2024.102362), *Information Fusion*, 2024 (中科院一区)
 
@@ -27,7 +27,7 @@ description: Long Cheng, chinese, 中文简介
 
 1. C. Liu, Y. Wang, L. Wen, J. Cheng, **L. Cheng**, Q. Zeng. [Discovering Hierarchical Multi-instance Business Processes from Event Logs](), *IEEE Transactions on Services Computing*, 2023  (CCF-A)
 
-1. **L. Cheng**, Yue Wang, F. Cheng, C. Liu, Z. Zhao, Ying Wang. [A Deep Reinforcement Learning-based Preemptive Approach for Cost-aware Cloud Job Scheduling](https://doi.org/10.1109/TSUSC.2023.3303898), *IEEE Transactions on Sustainable Computing*, 2023  (中科院二区)
+1. **L. Cheng**, Yue Wang, F. Cheng, C. Liu, Z. Zhao, Ying Wang. [A Deep Reinforcement Learning-based Preemptive Approach for Cost-aware Cloud Job Scheduling](https://doi.org/10.1109/TSUSC.2023.3303898), *IEEE Transactions on Sustainable Computing*, 2023  (中科院二区, **ESI热点论文**)
 
 1. J. Zhang, **L. Cheng** (通讯), C. Liu, Z. Zhao, Y. Mao. [Cost-Aware Scheduling Systems for Real-Time Workflows in Cloud: An Approach based on Genetic Algorithm and Deep Reinforcement Learning](https://doi.org/10.1016/j.eswa.2023.120972), *Expert Systems with Applications*, 2023 (中科院一区)
 

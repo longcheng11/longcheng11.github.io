@@ -6,6 +6,10 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
+1. Haoyang He, Yan Gu, Qingzhi Liu, Hao Wu, Long Cheng. [Job Scheduling in Hybrid Clouds with Privacy Constraints: A DRL Approach](https://doi.org/10.1002/cpe.8307), *Concurrency and Computation: Practice and Experience*, 2024
+
+1. Qingle Wang, Yixi Xu, Guodong Li, Yunguang Han, Yuqian Zhou, Xin Li, Long Cheng. [A Novel Authenticated Quantum Anonymous SecretSharing for Classical and Quantum Information](https://doi.org/10.1002/qute.202400295), *Advanced Quantum Technologies*, 2024
+
 1. Qingle Wang, Yingying Wang, Yuancheng Li, Guodong Li, Yunguang Han, Long Cheng. [A secure dynamic quantum anonymous secret sharing protocol utilizing GHZ states](https://doi.org/10.1088/1402-4896/ad75cc), *Physica Scripta*, 2024
 
 1. Huiru Yan, Yan Gu, Haoyang He, Xin Ning, Qingle Wang, Long Cheng. [DNN-based Task Partitioning and Offloading in Edge-Cloud Collaboration within Electric Vehicles](https://doi.org/10.1109/TCE.2024.3454270), *IEEE Transactions on Consumer Electronics*, 2024

@@ -154,6 +154,8 @@ description: Long Cheng, publications
 
 #### **Proceedings**
 
+1. Long Cheng, Haoyang He, Yan Gu, Qingzhi Liu, Zhiming Zhao, Fang Fang. [MARS: Multi-Agent Deep Reinforcement Learning for Real-Time Workflow Scheduling in Hybrid Clouds with Privacy Protection](). *Proc. 30th IEEE International Conference on Parallel and Distributed Systems (ICPADS)*,  Belgrade, Serbia, Oct 2024 (Best Paper Award).
+
 1. Jinwei Liu, Rui Gong, Long Cheng, Richard A. Alo. [DeepHealth: Geospatial and ML-based Approach to Identify Health Disparities and Determinants for Improving Pandemic Health Care](). *Proc. 32nd International Conference on Computer Communictions and Networks (ICCCN)*, Hawaii, USA, July 2023.
 
 1. Ying Xu, Long Cheng, Xuyi Cai, Xiaohan Ma, Weiwei Chen, Lei Zhang, Ying Wang. [Efficient Supernet Training Using Path Parallelism](https://doi.org/10.1109/HPCA56546.2023.10071099). *Proc. 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA 2023)*, Montreal, Canada, Feb 2023.

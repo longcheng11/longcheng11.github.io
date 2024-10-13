@@ -13,6 +13,8 @@ description: Long Cheng, chinese, 中文简介
 
 #### **部分最新论文**
 
+1. **L. Cheng**, H. He, Y. Gu, Q. Liu, Z. Zhao, F. Fang. [MARS: Multi-Agent Deep Reinforcement Learning for Real-Time Workflow Scheduling in Hybrid Clouds with Privacy Protection](). *Proc. 30th IEEE International Conference on Parallel and Distributed Systems (ICPADS)*, 2024 (会议唯一最佳论文奖)
+
 1. Q. Chen, F. He, G. Wang, X. Bai, **L. Cheng**, X. Ning. [Dual Guidance Enabled Fuzzy Inference for Enhanced Fine-Grained Recognition](https://doi.org/10.1109/TFUZZ.2024.3427654), *IEEE Transactions on Fuzzy Systems*, 2024  (中科院一区)
 
 1. S. Dai, S. Li, H. Tang, X. Ning, F. Fang, Y. Fu, Q. Wang, **L. Cheng** (通讯). [MARP: A Cooperative Multi-Agent DRL System for Connected Autonomous Vehicle Platooning](https://doi.org/10.1109/JIOT.2024.3432119), *IEEE Internet of Things Journal*, 2024 (中科院一区)

@@ -6,7 +6,13 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
-1. Haoyang He, Yan Gu, Qingzhi Liu, Hao Wu, Long Cheng. [Job Scheduling in Hybrid Clouds with Privacy Constraints: A DRL Approach](https://doi.org/10.1002/cpe.8307), *Concurrency and Computation: Practice and Experience*, 2024
+1. Sike Li, Long Cheng. [Security and Privacy of Electric Vehicles in Intelligent Speed Advisory Systems](https://doi.org/10.1109/MCE.2024.3485848), *IEEE Consumer Electronics Magazine*, 2024
+
+1. Qingle Wang, Jiacheng Liu, Guodong Li, Yunguang Han, Yuqian Zhou, Long Cheng. [A measurement-device-independent quantum secure digital payment](https://doi.org/10.1016/j.physa.2024.130178), *Physica A: Statistical Mechanics and its Applications*, 2024
+
+1. Qingle Wang, Yu Jin, Xinhao Li, Yue Li, Yuancheng Li, Kejia Zhang, Hao Liu, Long Cheng. [An advanced quantum support vector machine for power quality disturbance detection and identification](https://doi.org/10.1140/epjqt/s40507-024-00283-5), *EPJ Quantum Technology*, 2024
+
+1. Haoyang He, Yan Gu, Qingzhi Liu, Hao Wu, Long Cheng. [Job Scheduling in Hybrid Clouds With Privacy Constraints: A Deep Reinforcement Learning Approach](https://doi.org/10.1002/cpe.8307), *Concurrency and Computation: Practice and Experience*, 2024
 
 1. Qingle Wang, Yixi Xu, Guodong Li, Yunguang Han, Yuqian Zhou, Xin Li, Long Cheng. [A Novel Authenticated Quantum Anonymous SecretSharing for Classical and Quantum Information](https://doi.org/10.1002/qute.202400295), *Advanced Quantum Technologies*, 2024
 

@@ -7,10 +7,12 @@ description: Long Cheng, teaching
 #### **Teaching Experience**
 
 - North China Electric Power University (Professor)<br>
-Compiler Technologies (in Chinese), 2023<br>
-Compiler Technologies (in Chinese), 2022<br>
-Operating Systems (in Chinese), 2022<br>
-Compiler Technologies (in Chinese), 2021
+Compiler Technologies, 2024<br>
+Foundations of Computer Science, 2023<br>
+Compiler Technologies, 2023<br>
+Compiler Technologies, 2022<br>
+Operating Systems, 2022<br>
+Compiler Technologies, 2021
 
 - Dublin City University (Lecturer)<br>
 Cloud Technologies (CA675), 2020<br>
@@ -35,9 +37,17 @@ Java Programming, 2012
 
 #### **Supervision**
 
-- Y. Gu. RL for Cloud Manufacturing. PhD Student, 2023 - 2027.
+- H. Zhou. LLM for Decision Making. PhD Student, 2024 - 2028.
 
-- S. Dai. Quantum RL for Cloud Task Scheduling. Master Student, 2023 - 2026.
+- Y. Gu. Advanced DRL for Cloud Systems. PhD Student, 2023 - 2027.
+
+- M. Wen. DRL for Edge-Cloud Collaboration. Master Student, 2023 - 2026.
+
+- H. Xu. Quantum Reinforcement Learning. Master Student, 2023 - 2026.
+
+- Z. Liu. DRL for Serverless Computing. Master Student, 2023 - 2026.
+
+- S. Dai. Multi-Agent DRL System for Autonomous Vehicles. Master Student, 2023 - 2026.
 
 - H. He. DRL for Cloud Security and Privacy Protection. Master Student, 2022 - 2025.
 

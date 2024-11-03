@@ -92,7 +92,7 @@ description: Long Cheng, publications
 
 1. Jianbin Li, Shike Li, Long Cheng (CA), Qingzhi Liu, Jiaming Pei, Shen Wang. [BSAS: A Blockchain-based Trustworthy and Privacy-Preserving Speed Advisory System](https://doi.org/10.1109/TVT.2022.3189410). *IEEE Transactions on Vehicular Technology*, 2022
 
-1. Jianbin Li, Zhiqiang Chen, Long Cheng (CA), Xiufeng Liu. [Energy Data Generation with Wasserstein Deep Convolutional Generative Adversarial Networks](https://doi.org/10.1016/j.energy.2022.124694). *Energy*, 257: 124694, 2022 (**ESI Highly Cited Paper**).
+1. Jianbin Li, Zhiqiang Chen, Long Cheng (CA), Xiufeng Liu. [Energy Data Generation with Wasserstein Deep Convolutional Generative Adversarial Networks](https://doi.org/10.1016/j.energy.2022.124694). *Energy*, 257: 124694, 2022
 
 1. Long Cheng, Archana Kalapgar, Amogh Jain, Yue Wang, Yongtai Qin, Yuancheng Li, Cong Liu. [Cost-aware Real-time Job Scheduling for Hybrid Cloud using Deep Reinforcement Learning](https://doi.org/10.1007/s00521-022-07477-x). *Neural Computing and Applications*, 2022
 
@@ -122,7 +122,7 @@ description: Long Cheng, publications
 
 1. Cong Liu, Qingtian Zeng, Long Cheng (CA), Hua Duan, Jiujun Cheng. [Measuring Similarity for Data-aware Business Processes](https://doi.org/10.1109/TASE.2021.3049772). *IEEE Transactions on Automation Science and Engineering*, 19(2): 1070-1082, 2022.
 
-1. Qingzhi Liu, Long Cheng (CA), Adele Jia, Cong Liu. [Deep Reinforcement Learning for Communication Flow Control in Wireless Mesh Networks](https://doi.org/10.1109/MNET.011.2000303). *IEEE Network*, 35(2): 112-119, 2021 (**ESI Highly Cited Paper**).
+1. Qingzhi Liu, Long Cheng (CA), Adele Jia, Cong Liu. [Deep Reinforcement Learning for Communication Flow Control in Wireless Mesh Networks](https://doi.org/10.1109/MNET.011.2000303). *IEEE Network*, 35(2): 112-119, 2021.
 
 1. Long Cheng, Ying Wang, Qingzhi Liu, Dick Epema, Cheng Liu, Ying Mao, John Murphy. [Network-Aware Locality Scheduling for Distributed Data Operators in Data Centers](https://doi.org/10.1109/TPDS.2021.3053241). *IEEE Transactions on Parallel and Distributed Systems*, 32(6): 1494-1510, 2021.
 
@@ -130,7 +130,7 @@ description: Long Cheng, publications
 
 1. Qingzhi Liu, Long Cheng, Renan Alves, Tanir Ozcelebi, Fernando Kuipers, Guixian Xu, Johan Lukkien, Shanzhi Chen. [Cluster-based Flow Control in Hybrid Software-Defined Wireless Sensor Networks](https://doi.org/10.1016/j.comnet.2020.107788). *Computer Networks*, 187: 107788, 2021.
 
-1. Jinwei Liu, Haiying Shen, Hongmei Chi, Husnu Saner Narman, Yongyi Yang, Long Cheng, Wingyan Chung. [A Low-cost Multi-failure Resilient Replication Scheme with Data Correlation for High Data Availability in Cloud Storage](https://dx.doi.org/10.1109/TNET.2020.3027814).  *IEEE/ACM Transactions on Networking*, 29(4): 1436-1451, 2021 (**ESI Highly Cited Paper**).	
+1. Jinwei Liu, Haiying Shen, Hongmei Chi, Husnu Saner Narman, Yongyi Yang, Long Cheng, Wingyan Chung. [A Low-cost Multi-failure Resilient Replication Scheme with Data Correlation for High Data Availability in Cloud Storage](https://dx.doi.org/10.1109/TNET.2020.3027814).  *IEEE/ACM Transactions on Networking*, 29(4): 1436-1451, 2021.	
 
 1. Cong Liu, Yulong Pei, Long Cheng, Qingtian Zeng, Hua Duan. [Sampling Business Process Event Logs Using Graph-based Ranking Model](https://dx.doi.org/10.1002/cpe.5974). *Concurrency and Computation: Practice and Experience*, 33(5), 2021.
 
@@ -160,9 +160,11 @@ description: Long Cheng, publications
 
 #### **Proceedings**
 
+1. Long Cheng, Huiru Yan, Hanlin Zhou, Ying Wang, Haichuan Tang, Fang Fang. [Prototype Guided Personalized Federated Intrusion Detection System](). *Proc. 21st IEEE International Conference on Ubiquitous Intelligence and Computing (UIC)*, Fiji, Dec 2024.
+
 1. Long Cheng, Haoyang He, Yan Gu, Qingzhi Liu, Zhiming Zhao, Fang Fang. [MARS: Multi-Agent Deep Reinforcement Learning for Real-Time Workflow Scheduling in Hybrid Clouds with Privacy Protection](). *Proc. 30th IEEE International Conference on Parallel and Distributed Systems (ICPADS)*,  Belgrade, Serbia, Oct 2024 (Best Paper Award).
 
-1. Jinwei Liu, Rui Gong, Long Cheng, Richard A. Alo. [DeepHealth: Geospatial and ML-based Approach to Identify Health Disparities and Determinants for Improving Pandemic Health Care](). *Proc. 32nd International Conference on Computer Communictions and Networks (ICCCN)*, Hawaii, USA, July 2023.
+1. Jinwei Liu, Rui Gong, Long Cheng, Richard A. Alo. [DeepHealth: Geospatial and ML-based Approach to Identify Health Disparities and Determinants for Improving Pandemic Health Care](https://doi.org/10.1109/ICCCN58024.2023.10230101). *Proc. 32nd International Conference on Computer Communictions and Networks (ICCCN)*, Hawaii, USA, July 2023.
 
 1. Ying Xu, Long Cheng, Xuyi Cai, Xiaohan Ma, Weiwei Chen, Lei Zhang, Ying Wang. [Efficient Supernet Training Using Path Parallelism](https://doi.org/10.1109/HPCA56546.2023.10071099). *Proc. 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA 2023)*, Montreal, Canada, Feb 2023.
 

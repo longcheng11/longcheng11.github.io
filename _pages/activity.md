@@ -6,6 +6,7 @@ description: Long Cheng, activities
 ---
 
 #### **Organization**
+- Program Co-Chair of 10th IEEE Int. Conference on Computer and Communications, 2024.<br>
 - Program Co-Chair of 9th IEEE Int. Conference on Computer and Communications, 2023.<br>
 - Co-organizer of International Workshop on Network-Aware Big Data Computing, 2020.<br>
 - Publicity Chair of Int. Workshop on Blockchain for IoT and Cyber-physical Systems, 2020.<br>
@@ -13,7 +14,7 @@ description: Long Cheng, activities
 - Session Chair of Application and Data Sciences @ IEEE/ACM CCGrid, 2019.
 
 #### **Editorial Board**
-- Co-Chair of Advanced Cloud Service, Journal of Cloud Computing.
+- Chair of Advanced Cloud Service, Journal of Cloud Computing.
 - Associate Editor, IEEE Transactions on Consumer Electronics.
 - Associate Editor, Journal of Cloud Computing.
 - Lead Guest Editor, IEEE Transactions on Consumer Electronics.
@@ -50,6 +51,8 @@ description: Long Cheng, activities
 - The 6th Int. Conference on Knowledge Engineering and Semantic Web (KESW), 2015.
 
 #### **Reviewer for Journals and Conferences**
+- IEEE Transactions on Smart Grid, 2024.<br>
+- IEEE Transactions on Automation Science and Engineering, 2024.<br>
 - Information Sciences, 2024.<br>
 - IEEE Transactions on Big Data, 2023.<br>
 - IEEE Transactions on Parallel and Distributed Systems, 2023.<br>

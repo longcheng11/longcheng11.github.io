@@ -6,9 +6,9 @@ description: Long Cheng, chinese, 中文简介
 ---
 
 #### **个人简介**
-程龙，博士，现为华北电力大学控制与计算机工程学院教授、博士生导师。他之前是爱尔兰国家数据分析研究中心访问教授、爱尔兰都柏林城市大学助理教授、欧盟玛丽居里学者。主要研究方向是分布式系统和深度强化学习。曾在华为德国，IBM都柏林研究院工作过，并且在德国德累斯顿工业大学和荷兰埃因霍温理工大学从事过博士后研究，具有多年系统和算法设计、开发与优化经验, 于2018年获得欧盟资助个人科研最高奖项之一玛丽居里个人基金，并入选2023、2024年斯坦福全球前2%顶尖科学家榜单。
+程龙，博士，现为华北电力大学控制与计算机工程学院教授、博士生导师。他之前是爱尔兰国家数据分析研究中心访问教授、爱尔兰都柏林城市大学助理教授、欧盟玛丽居里学者。主要研究方向是分布式计算和深度强化学习。曾在华为德国，IBM都柏林研究院工作过，并且在德国德累斯顿工业大学和荷兰埃因霍温理工大学从事过博士后研究, 于2018年获得欧盟资助个人科研最高奖项之一玛丽居里个人基金，并入选2023、2024年斯坦福全球前2%顶尖科学家榜单。
 
-程教授在并行分布式计算的权威期刊与会议比如TPDS、TON、TC、TSC、TCAD、HPCA、ICPP和EuroPar上发表110余篇文章，是IPDPS、ICPP、CCGrid和CLUSTER等知名国际会议的程序委员会成员。他于2007年本科毕业于哈尔滨工业大学，2010年硕士毕业于德国杜伊斯堡-艾森大学(硕士论文由华为德国公司资助)，并于2014年获得爱尔兰国立大学-梅努斯的博士学位(由爱尔兰国家研究委员会IRC全额博士奖学金资助)。目前是IEEE高级会员，IEEE Transactions on Consumer Electronics编委，SCI期刊Journal of Cloud Computing副主编（Chair），IEEE TCE、FGCS、Applied Soft Computing、Information Fusion等权威期刊客座编辑。
+程教授在并行分布式计算的权威期刊与会议比如TPDS、TC、TSC、HPCA、ICPP和EuroPar上发表110余篇文章，是IPDPS、ICPP、CCGrid和CLUSTER等知名国际会议的程序委员会成员。他于2007年本科毕业于哈尔滨工业大学，2010年硕士毕业于德国杜伊斯堡-艾森大学，并于2014年获得爱尔兰国立大学-梅努斯的博士学位。目前是IEEE高级会员，IEEE Transactions on Consumer Electronics编委，SCI期刊Journal of Cloud Computing副主编（Chair），IEEE TCE、FGCS、Applied Soft Computing、Information Fusion等权威期刊客座编辑。
 
 
 #### **部分最新论文**
@@ -29,7 +29,7 @@ description: Long Cheng, chinese, 中文简介
 
 1. C. Liu, Y. Wang, L. Wen, J. Cheng, **L. Cheng**, Q. Zeng. [Discovering Hierarchical Multi-instance Business Processes from Event Logs](), *IEEE Transactions on Services Computing*, 2023  (CCF-A)
 
-1. **L. Cheng**, Yue Wang, F. Cheng, C. Liu, Z. Zhao, Ying Wang. [A Deep Reinforcement Learning-based Preemptive Approach for Cost-aware Cloud Job Scheduling](https://doi.org/10.1109/TSUSC.2023.3303898), *IEEE Transactions on Sustainable Computing*, 2023  (中科院二区, **ESI热点论文**)
+1. **L. Cheng**, Yue Wang, F. Cheng, C. Liu, Z. Zhao, Ying Wang. [A Deep Reinforcement Learning-based Preemptive Approach for Cost-aware Cloud Job Scheduling](https://doi.org/10.1109/TSUSC.2023.3303898), *IEEE Transactions on Sustainable Computing*, 2023  (中科院二区)
 
 1. J. Zhang, **L. Cheng** (通讯), C. Liu, Z. Zhao, Y. Mao. [Cost-Aware Scheduling Systems for Real-Time Workflows in Cloud: An Approach based on Genetic Algorithm and Deep Reinforcement Learning](https://doi.org/10.1016/j.eswa.2023.120972), *Expert Systems with Applications*, 2023 (中科院一区)
 
@@ -41,8 +41,6 @@ description: Long Cheng, chinese, 中文简介
 
 1. Z. Chen, J. Li, **L. Cheng**, X. Liu. [Federated-WDCGAN: A Federated Smart Meter Data Sharing Framework for Privacy Preservation](https://doi.org/10.1016/j.apenergy.2023.120711). *Applied Energy*, 2023 (中科院一区)
 
-1. J. Li, X. Tong, J. Liu, **L. Cheng** (通讯). [An efficient Federated Learning System for Network Intrusion Detection](https://doi.org/10.1109/JSYST.2023.3236995). *IEEE Systems Journal*, 2023 (中科院二区)
-
 1. S. Li, J. Li, J. Pei, S. Wu, S. Wang, **L. Cheng**. [Eco-CSAS: A Safe and Eco-friendly Speed Advisory System for Autonomous Vehicle Platoon using Consortium Blockchain](https://doi.org/10.1109/TITS.2022.3232851), *IEEE Transactions on Intelligent Transportation Systems*, 2022  (中科院一区)
 
 1. **L. Cheng**, C. Liu, Q. Zeng. [Optimal Alignments Between Large Event Logs and Process Models over Distributed Systems: An Approach Based on Petri Nets](https://doi.org/10.1016/j.ins.2022.11.052), *Information Sciences*, 2023  (中科院一区)
@@ -53,7 +51,7 @@ description: Long Cheng, chinese, 中文简介
 
 1. J. Li, S. Li, **L. Cheng** (通讯), Q. Liu, J. Pei, S. Wang. [BSAS: A Blockchain-based Trustworthy and Privacy-Preserving Speed Advisory System](https://doi.org/10.1007/10.1109/TVT.2022.3189410). *IEEE Transactions on Vehicular Technology*, 2022 (中科院二区)
 
-1. J. Li, Z. Chen, **L. Cheng** (通讯), X. Liu. [Energy Data Generation with Wasserstein Deep Convolutional Generative Adversarial Networks](https://doi.org/10.1016/j.energy.2022.124694). *Energy*, 2022 (中科院一区，**ESI高被引论文**) 
+1. J. Li, Z. Chen, **L. Cheng** (通讯), X. Liu. [Energy Data Generation with Wasserstein Deep Convolutional Generative Adversarial Networks](https://doi.org/10.1016/j.energy.2022.124694). *Energy*, 2022 (中科院一区) 
 
 1. C. Liu, H. Li, S. Zhang, **L. Cheng**, Q. Zeng. [Cross-Department Collaborative Healthcare Process Model Discovery from Event Logs](https://doi.org/10.1109/TASE.2022.3194312). *IEEE Transactions on Automation Science and Engineering*, 2022 (CCF-B).
 
@@ -65,7 +63,7 @@ description: Long Cheng, chinese, 中文简介
 
 
 #### **部分主持项目**
-1. 中车工业研究院项目：行车状态多参数自适应控制仿真测试与验证。2023，30万，项目负责人。
+1. 中车工业研究院项目：行车状态多参数自适应控制仿真测试与验证。2023，30万元，项目负责人。
 
 1. 国家电网科技项目：支撑分布式储能网络化运营关键技术研究。2021-2024，500万元，课题负责人。
 
@@ -75,7 +73,7 @@ description: Long Cheng, chinese, 中文简介
 
 
 #### **外校主要合作者**
-- [Wil van der Aalst](https://www.padsweb.rwth-aachen.de/wvdaalst/) (欧洲科学院院士，洪堡教授，流程挖掘创始人)
+- [Wil van der Aalst](https://www.padsweb.rwth-aachen.de/wvdaalst/) (德国亚琛工业大学教授、欧洲科学院院士、流程挖掘创始人)
 - [Schahram Dustdar](https://dsg.tuwien.ac.at/team/sd/) (维也纳工业大学教授、欧洲科学院院士)
 - [Dick Epema](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/dick-epema/?no_cache=1) (荷兰代尔夫特理工大学教授)
 - [Markus Kr&ouml;tzsch](https://iccl.inf.tu-dresden.de/web/Markus_Kr%C3%B6tzsch) (德国德累斯顿工业大学教授)
@@ -85,6 +83,6 @@ description: Long Cheng, chinese, 中文简介
 - [Ying Mao](https://yingmao.github.io/) （美国Fordham大学副教授）
 - [John Murphy](https://www.ucd.ie/research/people/computerscience/professorjohnmurphy/) （爱尔兰都柏林大学教授）
 - [Ilias Tachmazidis](https://iliastachmazidis.blogspot.co.uk/) （英国Huddersfield大学高级讲师）
-- [Georgios Theodoropoulos](https://www.gtheodoropoulos.com/) （中国南方科技大学讲席教授）
+- [Georgios Theodoropoulos](https://www.gtheodoropoulos.com/) （南方科技大学讲席教授、欧洲科学院院士）
 - [Tomas Ward](https://www.computing.dcu.ie/~tward/) （爱尔兰都柏林城市大学讲席教授）
 - [Ying Wang](https://wangying-ict.github.io/) （中科院计算所研究员）

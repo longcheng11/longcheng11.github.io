@@ -6,7 +6,9 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
-1. Sike Li, Long Cheng. [Security and Privacy of Electric Vehicles in Intelligent Speed Advisory Systems](https://doi.org/10.1109/MCE.2024.3485848), *IEEE Consumer Electronics Magazine*, 2024
+1. Hairui Xu, Ao Zhang, Qingle Wang, Yang Hu, Fang Fang, Long Cheng.  [Quantum reinforcement learning for real-time optimization in EV charging systems](), *Applied Energy*, 2025.
+
+1. Sike Li, Long Cheng. [Security and privacy of electric vehicles in intelligent speed advisory systems](https://doi.org/10.1109/MCE.2024.3485848), *IEEE Consumer Electronics Magazine*, 2024
 
 1. Qingle Wang, Jiacheng Liu, Guodong Li, Yunguang Han, Yuqian Zhou, Long Cheng. [A measurement-device-independent quantum secure digital payment](https://doi.org/10.1016/j.physa.2024.130178), *Physica A: Statistical Mechanics and its Applications*, 2024
 
@@ -162,7 +164,7 @@ description: Long Cheng, publications
 
 1. Long Cheng, Huiru Yan, Hanlin Zhou, Ying Wang, Haichuan Tang, Fang Fang. [Prototype Guided Personalized Federated Intrusion Detection System](). *Proc. 21st IEEE International Conference on Ubiquitous Intelligence and Computing (UIC)*, Fiji, Dec 2024.
 
-1. Long Cheng, Haoyang He, Yan Gu, Qingzhi Liu, Zhiming Zhao, Fang Fang. [MARS: Multi-Agent Deep Reinforcement Learning for Real-Time Workflow Scheduling in Hybrid Clouds with Privacy Protection](). *Proc. 30th IEEE International Conference on Parallel and Distributed Systems (ICPADS)*,  Belgrade, Serbia, Oct 2024 (Best Paper Award).
+1. Long Cheng, Haoyang He, Yan Gu, Qingzhi Liu, Zhiming Zhao, Fang Fang. [MARS: Multi-Agent Deep Reinforcement Learning for Real-Time Workflow Scheduling in Hybrid Clouds with Privacy Protection](https://doi.org/10.1109/ICPADS63350.2024.00091). *Proc. 30th IEEE International Conference on Parallel and Distributed Systems (ICPADS)*,  Belgrade, Serbia, Oct 2024 (Best Paper Award).
 
 1. Jinwei Liu, Rui Gong, Long Cheng, Richard A. Alo. [DeepHealth: Geospatial and ML-based Approach to Identify Health Disparities and Determinants for Improving Pandemic Health Care](https://doi.org/10.1109/ICCCN58024.2023.10230101). *Proc. 32nd International Conference on Computer Communictions and Networks (ICCCN)*, Hawaii, USA, July 2023.
 

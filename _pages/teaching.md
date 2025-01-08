@@ -36,6 +36,7 @@ Algorithms and Data Structures, 2012 – 2014 <br>
 Java Programming, 2012 
 
 #### **Supervision**
+- H. Yan. Green HPC with Renewable Energy. PhD Student, 2024 - 2028.
 
 - H. Zhou. LLM for Decision Making. PhD Student, 2024 - 2028.
 

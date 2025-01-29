@@ -162,6 +162,8 @@ description: Long Cheng, publications
 
 #### **Proceedings**
 
+1. Lian Liu, Long Cheng, Haimeng Ren, Zhaohui Xu, Yudong Pan, Mengdi Wang, Xiaowei Li, Yinhe Han, Ying Wang. [COMET: Towards partical W4A4KV4 LLMs serving](). *Proc. ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, Rotterdam, The Netherlands, April 2025
+
 1. Long Cheng, Huiru Yan, Hanlin Zhou, Ying Wang, Haichuan Tang, Fang Fang. [Prototype Guided Personalized Federated Intrusion Detection System](). *Proc. 21st IEEE International Conference on Ubiquitous Intelligence and Computing (UIC)*, Fiji, Dec 2024.
 
 1. Long Cheng, Haoyang He, Yan Gu, Qingzhi Liu, Zhiming Zhao, Fang Fang. [MARS: Multi-Agent Deep Reinforcement Learning for Real-Time Workflow Scheduling in Hybrid Clouds with Privacy Protection](https://doi.org/10.1109/ICPADS63350.2024.00091). *Proc. 30th IEEE International Conference on Parallel and Distributed Systems (ICPADS)*,  Belgrade, Serbia, Oct 2024 (Best Paper Award).

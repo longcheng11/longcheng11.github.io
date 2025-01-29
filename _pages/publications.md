@@ -6,7 +6,7 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
-1. Hairui Xu, Ao Zhang, Qingle Wang, Yang Hu, Fang Fang, Long Cheng.  [Quantum reinforcement learning for real-time optimization in EV charging systems](), *Applied Energy*, 2025.
+1. Hairui Xu, Ao Zhang, Qingle Wang, Yang Hu, Fang Fang, Long Cheng.  [Quantum reinforcement learning for real-time optimization in Electric Vehicle charging systems](), *Applied Energy*, 2025.
 
 1. Sike Li, Long Cheng. [Security and privacy of electric vehicles in intelligent speed advisory systems](https://doi.org/10.1109/MCE.2024.3485848), *IEEE Consumer Electronics Magazine*, 2024
 

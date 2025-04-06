@@ -6,7 +6,13 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
-1. Hairui Xu, Ao Zhang, Qingle Wang, Yang Hu, Fang Fang, Long Cheng.  [Quantum reinforcement learning for real-time optimization in Electric Vehicle charging systems](), *Applied Energy*, 2025.
+1. Jiawei Nian, Mengfei Yang, Xin Gao, Hongjin Liu, Fang Fang, Long Cheng, Xintang Wu. [RPFF-PA : Reliable and parallel fault-tolerant framework for path latency reduction deployed in register arrays](), *ACM Transactions on Embedded Computing Systems*, 2025
+
+1. Haoyang He, Yan Gu, Yang Hu, Fang Fang, Xin Ning, Xiaomin Chen, Long Cheng. [Real-time workflow scheduling in hybrid clouds with privacy and security constraints: A deep reinforcement learning approach](https://doi.org/10.1016/j.eswa.2025.127376), *Expert Systems With Applications*, 2025
+
+1. Guodong Li, Fangce Yu, Qingle Wang, Lin Liu, Ying Mao, Long Cheng. [Quantum neural network classifier with differential privacy](https://doi.org/10.1088/1402-4896/adb228), *Physica Scripta*, 2025
+
+1. Hairui Xu, Ao Zhang, Qingle Wang, Yang Hu, Fang Fang, Long Cheng.  [Quantum reinforcement learning for real-time optimization in Electric Vehicle charging systems](https://doi.org/10.1016/j.apenergy.2025.125279), *Applied Energy*, 2025
 
 1. Sike Li, Long Cheng. [Security and privacy of electric vehicles in intelligent speed advisory systems](https://doi.org/10.1109/MCE.2024.3485848), *IEEE Consumer Electronics Magazine*, 2024
 
@@ -162,9 +168,9 @@ description: Long Cheng, publications
 
 #### **Proceedings**
 
-1. Lian Liu, Long Cheng, Haimeng Ren, Zhaohui Xu, Yudong Pan, Mengdi Wang, Xiaowei Li, Yinhe Han, Ying Wang. [COMET: Towards partical W4A4KV4 LLMs serving](). *Proc. ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, Rotterdam, The Netherlands, April 2025
+1. Lian Liu, Long Cheng, Haimeng Ren, Zhaohui Xu, Yudong Pan, Mengdi Wang, Xiaowei Li, Yinhe Han, Ying Wang. [COMET: Towards practical W4A4KV4 LLMs serving](). *Proc. ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, Rotterdam, The Netherlands, April 2025
 
-1. Long Cheng, Huiru Yan, Hanlin Zhou, Ying Wang, Haichuan Tang, Fang Fang. [Prototype Guided Personalized Federated Intrusion Detection System](). *Proc. 21st IEEE International Conference on Ubiquitous Intelligence and Computing (UIC)*, Fiji, Dec 2024.
+1. Long Cheng, Huiru Yan, Hanlin Zhou, Ying Wang, Haichuan Tang, Fang Fang. [Prototype Guided Personalized Federated Intrusion Detection System](https://doi.org/10.1109/SWC62898.2024.00267). *Proc. 21st IEEE International Conference on Ubiquitous Intelligence and Computing (UIC)*, Fiji, Dec 2024.
 
 1. Long Cheng, Haoyang He, Yan Gu, Qingzhi Liu, Zhiming Zhao, Fang Fang. [MARS: Multi-Agent Deep Reinforcement Learning for Real-Time Workflow Scheduling in Hybrid Clouds with Privacy Protection](https://doi.org/10.1109/ICPADS63350.2024.00091). *Proc. 30th IEEE International Conference on Parallel and Distributed Systems (ICPADS)*,  Belgrade, Serbia, Oct 2024 (Best Paper Award).
 

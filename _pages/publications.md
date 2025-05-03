@@ -6,7 +6,13 @@ description: Long Cheng, publications
 ---
 #### **Journals**
 
-1. Jiawei Nian, Mengfei Yang, Xin Gao, Hongjin Liu, Fang Fang, Long Cheng, Xintang Wu. [RPFF-PA : Reliable and parallel fault-tolerant framework for path latency reduction deployed in register arrays](), *ACM Transactions on Embedded Computing Systems*, 2025
+1. Baoyin Xiong, Lili Zhang, Yang Hu, Fang Fang, Qingzhi Liu, Long Cheng. [Deep reinforcement learning for optimal microgrid energy management with renewable energy and electric vehicle integration](https://doi.org/10.1016/j.asoc.2025.113180), *Applied Soft Computing*, 2025
+
+1. Long Cheng, Ying Mao, Ward Tomas. [Neural network models in autonomous robotics](https://doi.org/10.3389/fnbot.2025.1587137), *Frontiers in Neurorobotics*, 2025
+
+1. Jiawei Nian, Mengfei Yang, Xin Gao, Hongjin Liu, Fang Fang, Long Cheng, Xingtang Wu. [RPFF-PA : Reliable and parallel fault-tolerant framework for path latency reduction deployed in register arrays](https://doi.org/10.1145/3728471), *ACM Transactions on Embedded Computing Systems*, 2025
+
+1. Cong Liu, Huiling Li, Qingtian Zeng, Qi Mo, Mengchu Zhou, Long Cheng, Shangce Gao. [Behavior-Preserving Top-down Construction of Cross-organization Emergency Response Processes](), *IEEE/CAA Journal of Automatica Sinica*, 2025
 
 1. Haoyang He, Yan Gu, Yang Hu, Fang Fang, Xin Ning, Xiaomin Chen, Long Cheng. [Real-time workflow scheduling in hybrid clouds with privacy and security constraints: A deep reinforcement learning approach](https://doi.org/10.1016/j.eswa.2025.127376), *Expert Systems With Applications*, 2025
 

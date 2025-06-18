@@ -8,14 +8,15 @@ description: Long Cheng, chinese, 中文简介
 #### **个人简介**
 程龙，博士，现为华北电力大学控制与计算机工程学院教授、博士生导师。他之前是爱尔兰国家数据分析研究中心访问教授、爱尔兰都柏林城市大学助理教授、欧盟玛丽居里学者。主要研究方向是分布式计算和深度强化学习。曾在华为德国，IBM都柏林研究院工作过，并且在德国德累斯顿工业大学和荷兰埃因霍温理工大学从事过博士后研究, 于2018年获得欧盟资助个人科研最高奖项之一玛丽居里个人基金，并入选2023、2024年斯坦福全球前2%顶尖科学家榜单。
 
-程教授在并行分布式计算的权威期刊与会议比如TPDS、TC、TSC、HPCA、ASPLOS、ICPP和EuroPar上发表110余篇文章，是IPDPS、ICPP、CCGrid和CLUSTER等知名国际会议的程序委员会成员。他于2007年本科毕业于哈尔滨工业大学，2010年硕士毕业于德国杜伊斯堡-艾森大学，并于2014年获得爱尔兰国立大学-梅努斯的博士学位。目前是IEEE高级会员，IEEE Transactions on Consumer Electronics编委，SCI期刊Journal of Cloud Computing副主编（Chair），IEEE TCE、FGCS、Applied Soft Computing、Information Fusion等权威期刊客座编辑。
+程教授在并行分布式计算的权威期刊与会议比如TPDS、TC、TSC、HPCA、ASPLOS上发表120余篇文章，是IPDPS、ICPP、CCGrid和CLUSTER等知名国际会议的程序委员会成员。他于2007年本科毕业于哈尔滨工业大学，2010年硕士毕业于德国杜伊斯堡-艾森大学，并于2014年获得爱尔兰国立大学-梅努斯的博士学位。目前是IEEE高级会员，IEEE Transactions on Consumer Electronics编委，SCI期刊Journal of Cloud Computing副主编（Chair），IEEE TCE、FGCS、Information Fusion、ACM TAAS等权威期刊客座主编。
 
 
-#### **部分最新论文**
+#### **部分最新文章**
+1. L. Zhang, H. Wang, **L. Cheng**, F. Fang. [Tighter regulation is needed for AI companions](https://doi.org/10.1038/d41586-025-01906-2), *Nature* 642, 2025.
 
-1. L. Liu, **L. Cheng**, H. Ren, Z. Xu, Y. Pan, M. Wang, X. Li, Y. Han, Y. Wang. [COMET: Towards partical W4A4KV4 LLMs serving](). *Proc. ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, 2025 (CCF-A)
+1. L. Liu, **L. Cheng**, H. Ren, Z. Xu, Y. Pan, M. Wang, X. Li, Y. Han, Y. Wang. [COMET: Towards practical W4A4KV4 LLMs serving](https://doi.org/10.1145/3676641.3716252). *Proc. ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, 2025 (CCF-A)
 
-1. **L. Cheng**, H. He, Y. Gu, Q. Liu, Z. Zhao, F. Fang. [MARS: Multi-Agent Deep Reinforcement Learning for Real-Time Workflow Scheduling in Hybrid Clouds with Privacy Protection](). *Proc. 30th IEEE International Conference on Parallel and Distributed Systems (ICPADS)*, 2024 (会议唯一最佳论文奖)
+1. **L. Cheng**, H. He, Y. Gu, Q. Liu, Z. Zhao, F. Fang. [MARS: Multi-Agent Deep Reinforcement Learning for Real-Time Workflow Scheduling in Hybrid Clouds with Privacy Protection](https://doi.org/10.1109/ICPADS63350.2024.00091). *Proc. 30th IEEE International Conference on Parallel and Distributed Systems (ICPADS)*, 2024 (会议唯一最佳论文奖)
 
 1. Q. Chen, F. He, G. Wang, X. Bai, **L. Cheng**, X. Ning. [Dual Guidance Enabled Fuzzy Inference for Enhanced Fine-Grained Recognition](https://doi.org/10.1109/TFUZZ.2024.3427654), *IEEE Transactions on Fuzzy Systems*, 2024  (中科院一区)
 

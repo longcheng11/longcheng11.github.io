@@ -12,57 +12,49 @@ description: Long Cheng, chinese, 中文简介
 
 
 #### **部分最新文章**
-1. L. Zhang, H. Wang, **L. Cheng**, F. Fang. [Tighter regulation is needed for AI companions](https://doi.org/10.1038/d41586-025-01906-2), *Nature* 642, 2025.
+1. L. Zhang, H. Wang, **L. Cheng**, F. Fang. [Tighter regulation is needed for AI companions](https://doi.org/10.1038/d41586-025-01906-2), **Nature 642**, 2025.
 
-1. L. Liu, **L. Cheng**, H. Ren, Z. Xu, Y. Pan, M. Wang, X. Li, Y. Han, Y. Wang. [COMET: Towards practical W4A4KV4 LLMs serving](https://doi.org/10.1145/3676641.3716252). *Proc. ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, 2025 (CCF-A)
+1. 徐颖，王梦迪，**程龙**，刘炼，赵世新，张磊，王颖. [Pipe-RLHF: 计算模式感知的RLHF 并行加速框架](https://doi.org/10.7544/issn1000-1239.202550127), *计算机研究与发展*, 2025（CCF-A，**期刊封面文章**）
+
+1. L. Liu, **L. Cheng**, H. Ren, Z. Xu, Y. Pan, M. Wang, X. Li, Y. Han, Y. Wang. [COMET: Towards practical W4A4KV4 LLMs serving](https://doi.org/10.1145/3676641.3716252). *Proc. ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, 2025 (计算机体系结构CCF-A，同期英国仅3篇接收文章)
 
 1. **L. Cheng**, H. He, Y. Gu, Q. Liu, Z. Zhao, F. Fang. [MARS: Multi-Agent Deep Reinforcement Learning for Real-Time Workflow Scheduling in Hybrid Clouds with Privacy Protection](https://doi.org/10.1109/ICPADS63350.2024.00091). *Proc. 30th IEEE International Conference on Parallel and Distributed Systems (ICPADS)*, 2024 (会议唯一最佳论文奖)
 
-1. Q. Chen, F. He, G. Wang, X. Bai, **L. Cheng**, X. Ning. [Dual Guidance Enabled Fuzzy Inference for Enhanced Fine-Grained Recognition](https://doi.org/10.1109/TFUZZ.2024.3427654), *IEEE Transactions on Fuzzy Systems*, 2024  (中科院一区)
+1. Q. Chen, F. He, G. Wang, X. Bai, **L. Cheng**, X. Ning. [Dual Guidance Enabled Fuzzy Inference for Enhanced Fine-Grained Recognition](https://doi.org/10.1109/TFUZZ.2024.3427654), *IEEE Transactions on Fuzzy Systems*, 2024 
 
-1. S. Dai, S. Li, H. Tang, X. Ning, F. Fang, Y. Fu, Q. Wang, **L. Cheng** (通讯). [MARP: A Cooperative Multi-Agent DRL System for Connected Autonomous Vehicle Platooning](https://doi.org/10.1109/JIOT.2024.3432119), *IEEE Internet of Things Journal*, 2024 (中科院一区)
+1. S. Dai, S. Li, H. Tang, X. Ning, F. Fang, Y. Fu, Q. Wang, **L. Cheng**. [MARP: A Cooperative Multi-Agent DRL System for Connected Autonomous Vehicle Platooning](https://doi.org/10.1109/JIOT.2024.3432119), *IEEE Internet of Things Journal*, 2024
 
-1. **L. Cheng**, L. Du, C. Liu, Y. Hu, F. Fang, T. Ward. [Multi-modal fusion for business process prediction in call center scenarios](https://doi.org/10.1016/j.inffus.2024.102362), *Information Fusion*, 2024 (中科院一区)
+1. Q. Liu, Y. Huang, C. Jin, X. Zhou, Y. Mao, C. Catal, **L. Cheng**. [Privacy and Integrity Protection for IoT Multimodal Data using Machine Learning and Blockchain](https://doi.org/10.1145/3638769), *ACM Transactions on Multimedia Computing, Communications, and Applications*, 2024 
 
-1. Q. Liu, Y. Huang, C. Jin, X. Zhou, Y. Mao, C. Catal, **L. Cheng** (通讯). [Privacy and Integrity Protection for IoT Multimodal Data using Machine Learning and Blockchain](https://doi.org/10.1145/3638769), *ACM Transactions on Multimedia Computing, Communications, and Applications*, 2024 (CCF-B)
+1. X. Chen, Q. Yu, S. Dai, P. Sun, H. Tang, **L. Cheng**. [Deep Reinforcement Learning for Efficient IoT Data Compression in Smart Railroad Management](https://doi.org/10.1109/JIOT.2023.3348487), *IEEE Internet of Things Journal*, 2024
 
-1. X. Chen, Q. Yu, S. Dai, P. Sun, H. Tang, **L. Cheng** (通讯). [Deep Reinforcement Learning for Efficient IoT Data Compression in Smart Railroad Management](https://doi.org/10.1109/JIOT.2023.3348487), *IEEE Internet of Things Journal*, 2024 (中科院一区)
+1. S. Li, J. Li, Y. Liang, H. Zhang, S. Wu, S. Wang, **L. Cheng**. [TD-SAS: A Trust-Aware and Decentralized Speed Advisory System for Energy-Efficient Autonomous Vehicle Platoons](https://doi.org/10.1109/TIV.2023.3347870), *IEEE Transactions on Intelligent Vehicles*, 2023
 
-1. S. Li, J. Li, Y. Liang, H. Zhang, S. Wu, S. Wang, **L. Cheng**. [TD-SAS: A Trust-Aware and Decentralized Speed Advisory System for Energy-Efficient Autonomous Vehicle Platoons](https://doi.org/10.1109/TIV.2023.3347870), *IEEE Transactions on Intelligent Vehicles*, 2023 (中科院一区)
+1. C. Liu, Y. Wang, L. Wen, J. Cheng, **L. Cheng**, Q. Zeng. [Discovering Hierarchical Multi-instance Business Processes from Event Logs](), *IEEE Transactions on Services Computing*, 2023 (CCF-A)
 
-1. C. Liu, Y. Wang, L. Wen, J. Cheng, **L. Cheng**, Q. Zeng. [Discovering Hierarchical Multi-instance Business Processes from Event Logs](), *IEEE Transactions on Services Computing*, 2023  (CCF-A)
+1. **L. Cheng**, Yue Wang, F. Cheng, C. Liu, Z. Zhao, Ying Wang. [A Deep Reinforcement Learning-based Preemptive Approach for Cost-aware Cloud Job Scheduling](https://doi.org/10.1109/TSUSC.2023.3303898), *IEEE Transactions on Sustainable Computing*, 2023 
 
-1. **L. Cheng**, Yue Wang, F. Cheng, C. Liu, Z. Zhao, Ying Wang. [A Deep Reinforcement Learning-based Preemptive Approach for Cost-aware Cloud Job Scheduling](https://doi.org/10.1109/TSUSC.2023.3303898), *IEEE Transactions on Sustainable Computing*, 2023  (中科院二区)
+1.  J. Guo, **L. Cheng**, S. Wang. [CoTV: Cooperative Control for Traffic Light Signals and Connected Autonomous Vehicles using Deep Reinforcement Learning](https://doi.org/10.1109/TITS.2023.3276416), *IEEE Transactions on Intelligent Transportation Systems*, 2023 
 
-1. J. Zhang, **L. Cheng** (通讯), C. Liu, Z. Zhao, Y. Mao. [Cost-Aware Scheduling Systems for Real-Time Workflows in Cloud: An Approach based on Genetic Algorithm and Deep Reinforcement Learning](https://doi.org/10.1016/j.eswa.2023.120972), *Expert Systems with Applications*, 2023 (中科院一区)
+1. **L. Cheng**, Y. Wang, R. Jhaveri, Q. Wang, Y. Mao. [Towards Network-aware Query Execution Systems in Large Datacenters](https://doi.org/10.1109/TNSM.2023.3273166), *IEEE Transactions on Network and Service Management*, 2023
 
-1.  J. Guo, **L. Cheng**, S. Wang. [CoTV: Cooperative Control for Traffic Light Signals and Connected Autonomous Vehicles using Deep Reinforcement Learning](https://doi.org/10.1109/TITS.2023.3276416), *IEEE Transactions on Intelligent Transportation Systems*, 2023  (中科院一区)
+1. H. Huang, X. Xue, C. Liu, Y. Wang, T. Luo, **L. Cheng**, H. Li, X. Li. [Statistical Modeling of Soft Error Influence on Neural Networks](https://doi.org/10.1109/TCAD.2023.3266405). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2023 (计算机体系结构CCF-A)
 
-1. **L. Cheng**, Y. Wang, R. Jhaveri, Q. Wang, Y. Mao. [Towards Network-aware Query Execution Systems in Large Datacenters](https://doi.org/10.1109/TNSM.2023.3273166), *IEEE Transactions on Network and Service Management*, 2023 (中科院二区)
+1. Y. Xu, **L. Cheng**, X. Cai, X. Ma, W. Chen, L. Zhang. Y. Wang. [Efficient Supernet Training Using Path Parallelism](https://doi.org/10.1109/HPCA56546.2023.10071099). *Proc. 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA 2023)*, Montreal, Canada, 2023  (计算机体系结构CCF-A)
 
-1. H. Huang, X. Xue, C. Liu, Y. Wang, T. Luo, **L. Cheng**, H. Li, X. Li. [Statistical Modeling of Soft Error Influence on Neural Networks](https://doi.org/10.1109/TCAD.2023.3266405). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2023 (CCF-A)
+1. S. Li, J. Li, J. Pei, S. Wu, S. Wang, **L. Cheng**. [Eco-CSAS: A Safe and Eco-friendly Speed Advisory System for Autonomous Vehicle Platoon using Consortium Blockchain](https://doi.org/10.1109/TITS.2022.3232851), *IEEE Transactions on Intelligent Transportation Systems*, 2022 
 
-1. Z. Chen, J. Li, **L. Cheng**, X. Liu. [Federated-WDCGAN: A Federated Smart Meter Data Sharing Framework for Privacy Preservation](https://doi.org/10.1016/j.apenergy.2023.120711). *Applied Energy*, 2023 (中科院一区)
+1. Y. Mao, V. Sharma, W. Zheng, **L. Cheng**, Q. Guan, A. Li. [Elastic Resource Management for Deep Learning Applications in a Container Cluster](https://doi.org/10.1109/TCC.2022.3194128). *IEEE Transactions on Cloud Computing*, 2022
 
-1. S. Li, J. Li, J. Pei, S. Wu, S. Wang, **L. Cheng**. [Eco-CSAS: A Safe and Eco-friendly Speed Advisory System for Autonomous Vehicle Platoon using Consortium Blockchain](https://doi.org/10.1109/TITS.2022.3232851), *IEEE Transactions on Intelligent Transportation Systems*, 2022  (中科院一区)
+1. J. Li, S. Li, **L. Cheng**, Q. Liu, J. Pei, S. Wang. [BSAS: A Blockchain-based Trustworthy and Privacy-Preserving Speed Advisory System](https://doi.org/10.1007/10.1109/TVT.2022.3189410). *IEEE Transactions on Vehicular Technology*, 2022
 
-1. **L. Cheng**, C. Liu, Q. Zeng. [Optimal Alignments Between Large Event Logs and Process Models over Distributed Systems: An Approach Based on Petri Nets](https://doi.org/10.1016/j.ins.2022.11.052), *Information Sciences*, 2023  (中科院一区)
+1. C. Liu, H. Li, S. Zhang, **L. Cheng**, Q. Zeng. [Cross-Department Collaborative Healthcare Process Model Discovery from Event Logs](https://doi.org/10.1109/TASE.2022.3194312). *IEEE Transactions on Automation Science and Engineering*, 2022
 
-1. Y. Xu, **L. Cheng**, X. Cai, X. Ma, W. Chen, L. Zhang. Y. Wang. [Efficient Supernet Training Using Path Parallelism](https://doi.org/10.1109/HPCA56546.2023.10071099). *Proc. 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA 2023)*, Montreal, Canada, 2023 (CCF-A)
+1. Y. Mao, W. Yan, Y. Song, Y. Zeng, M. Chen, **L. Cheng**, Q. Liu. [Differentiate Quality of Experience Scheduling for Deep Learning Inferences with Docker Containers in the Cloud](https://doi.org/10.1109/TCC.2022.3154117). *IEEE Transactions on Cloud Computing*, 2022
 
-1. Y. Mao, V. Sharma, W. Zheng, **L. Cheng**, Q. Guan, A. Li. [Elastic Resource Management for Deep Learning Applications in a Container Cluster](https://doi.org/10.1109/TCC.2022.3194128). *IEEE Transactions on Cloud Computing*, 2022  (中科院二区)
+1. Q. Liu, T. Xia, **L. Cheng**, M. Eijk, T. Ozcelebi, Y. Mao. [Deep Reinforcement Learning for Load-Balancing Aware Network Control in IoT Edge Systems](https://doi.org/10.1109/TPDS.2021.3116863).  *IEEE Transactions on Parallel and Distributed Systems*, 2022 (计算机体系结构CCF-A)
 
-1. J. Li, S. Li, **L. Cheng** (通讯), Q. Liu, J. Pei, S. Wang. [BSAS: A Blockchain-based Trustworthy and Privacy-Preserving Speed Advisory System](https://doi.org/10.1007/10.1109/TVT.2022.3189410). *IEEE Transactions on Vehicular Technology*, 2022 (中科院二区)
-
-1. J. Li, Z. Chen, **L. Cheng** (通讯), X. Liu. [Energy Data Generation with Wasserstein Deep Convolutional Generative Adversarial Networks](https://doi.org/10.1016/j.energy.2022.124694). *Energy*, 2022 (中科院一区) 
-
-1. C. Liu, H. Li, S. Zhang, **L. Cheng**, Q. Zeng. [Cross-Department Collaborative Healthcare Process Model Discovery from Event Logs](https://doi.org/10.1109/TASE.2022.3194312). *IEEE Transactions on Automation Science and Engineering*, 2022 (CCF-B).
-
-1. Y. Mao, W. Yan, Y. Song, Y. Zeng, M. Chen, **L. Cheng**, Q. Liu. [Differentiate Quality of Experience Scheduling for Deep Learning Inferences with Docker Containers in the Cloud](https://doi.org/10.1109/TCC.2022.3154117). *IEEE Transactions on Cloud Computing*, 2022 (中科院二区).
-
-1. Q. Liu, T. Xia, **L. Cheng** (通讯), M. Eijk, T. Ozcelebi, Y. Mao. [Deep Reinforcement Learning for Load-Balancing Aware Network Control in IoT Edge Systems](https://doi.org/10.1109/TPDS.2021.3116863).  *IEEE Transactions on Parallel and Distributed Systems*, 2022. (CCF-A).
-
-1. C. Liu, **L. Cheng**, Q. Zeng, L. Wen. [Formal Modeling and Discovery of Hierarchical Business Processes: A Petri Net based Approach](https://doi.org/10.1109/TSMC.2022.3195869). *IEEE Transactions on Systems, Man and Cybernetics: Systems*, 2022 (中科院一区).
+1. C. Liu, **L. Cheng**, Q. Zeng, L. Wen. [Formal Modeling and Discovery of Hierarchical Business Processes: A Petri Net based Approach](https://doi.org/10.1109/TSMC.2022.3195869). *IEEE Transactions on Systems, Man and Cybernetics: Systems*, 2022
 
 
 #### **部分主持项目**

@@ -7,8 +7,8 @@ description: Long Cheng, publications
 
 #### **2025**
 
-1. Lili Zhang, Haomiaomiao Wang, Long Cheng, Fang Fang. [Tighter regulation is needed for AI companions](https://doi.org/10.1038/d41586-025-01906-2), *Nature*, 642, 572, 2025.
-2. 徐颖，王梦迪，程龙，刘炼，赵世新，张磊，王颖. [Pipe-RLHF: 计算模式感知的RLHF 并行加速框架](https://doi.org/), *计算机研究与发展*, 2025.
+1. Lili Zhang, Haomiaomiao Wang, Long Cheng, Fang Fang. [Tighter regulation is needed for AI companions](https://doi.org/10.1038/d41586-025-01906-2), **Nature 642**, 572, 2025.
+2. 徐颖，王梦迪，程龙，刘炼，赵世新，张磊，王颖. [Pipe-RLHF: 计算模式感知的RLHF 并行加速框架](https://doi.org/10.7544/issn1000-1239.202550127), *计算机研究与发展*, 2025. （**CCF-A期刊封面文章**）
 3. Shuhong Dai, Nishant Saurabh, Qingle Wang, Jiawei Nian, Shuwen Kan, Ying Mao, Long Cheng. [Quantum reinforcement learning for QoS-aware real-time job scheduling in cloud systems](https://doi.org/10.1109/JSYST.2025.3568752), *IEEE Systems Journal*, 2025
 4. Baoyin Xiong, Lili Zhang, Yang Hu, Fang Fang, Qingzhi Liu, Long Cheng. [Deep reinforcement learning for optimal microgrid energy management with renewable energy and electric vehicle integration](https://doi.org/10.1016/j.asoc.2025.113180), *Applied Soft Computing*, 2025
 5. Guodong Li, Haiyan He, Yue Li, Xinhao Li, Hao Liu, Qingle Wang, Long Cheng. [A quantum neural network-based approach to power quality disturbances detection and recognition](https://doi.org/10.1088/1402-4896/adda9e), *Physica Scripta*, 2025.

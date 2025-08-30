@@ -5,11 +5,18 @@ title: Publications
 description: Long Cheng, publications
 ---
 
+#### **2026**
+
+1. Jinlong Xie, Liping Zhang, Long Cheng, Jian Yao, Pengjiang Qian, Binrong Zhu, Guiran Liu. [MARNet: Multi-scale adaptive relational network for robust point cloud completion via cross-modal fusion](https://doi.org/10.1016/j.inffus.2025.103505), *Information Fusion*, 2026.
+2. Hang Fan, Mingxuan Li, Zuhan Zhang, Long Cheng, Yujian Ye, Weican Liu, Dunnan Liu. [M2WLLM: Multi-modal multi-task ultra-short-term wind power prediction algorithm based on large language model](https://doi.org/10.1016/j.inffus.2025.103541), *Information Fusion*, 2026. 
+
+
 #### **2025**
 
 1. Lili Zhang, Haomiaomiao Wang, Long Cheng, Fang Fang. [Tighter regulation is needed for AI companions](https://doi.org/10.1038/d41586-025-01906-2), **Nature 642**, 572, 2025.
 2. 徐颖，王梦迪，程龙，刘炼，赵世新，张磊，王颖. [Pipe-RLHF: 计算模式感知的RLHF 并行加速框架](https://doi.org/10.7544/issn1000-1239.202550127), *计算机研究与发展*, 2025. （**CCF-A期刊封面文章**）
 3. Shuhong Dai, Nishant Saurabh, Qingle Wang, Jiawei Nian, Shuwen Kan, Ying Mao, Long Cheng. [Quantum reinforcement learning for QoS-aware real-time job scheduling in cloud systems](https://doi.org/10.1109/JSYST.2025.3568752), *IEEE Systems Journal*, 2025
+1. Cong Liu, Wenjuan Liu, Na Guo, Rongjia Song, Yan Gu, Long Cheng, Qingtian Zeng. [Comparative evaluation of encoding techniques for workflow process remaining time prediction for cloud applications](https://doi.org/10.1186/s13677-025-00763-8), *Journal of Cloud Computing*, 2025
 4. Baoyin Xiong, Lili Zhang, Yang Hu, Fang Fang, Qingzhi Liu, Long Cheng. [Deep reinforcement learning for optimal microgrid energy management with renewable energy and electric vehicle integration](https://doi.org/10.1016/j.asoc.2025.113180), *Applied Soft Computing*, 2025
 5. Guodong Li, Haiyan He, Yue Li, Xinhao Li, Hao Liu, Qingle Wang, Long Cheng. [A quantum neural network-based approach to power quality disturbances detection and recognition](https://doi.org/10.1088/1402-4896/adda9e), *Physica Scripta*, 2025.
 6. Long Cheng, Ying Mao, Ward Tomas. [Neural network models in autonomous robotics](https://doi.org/10.3389/fnbot.2025.1587137), *Frontiers in Neurorobotics*, 2025

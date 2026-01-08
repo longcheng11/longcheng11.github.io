@@ -7,6 +7,8 @@ description: Long Cheng, teaching
 #### **Teaching Experience**
 
 - North China Electric Power University (Professor)<br>
+Compiler Technologies, 2025<br>
+Foundations of Computer Science, 2025<br>
 Compiler Technologies, 2024<br>
 Foundations of Computer Science, 2024<br>
 Compiler Technologies, 2023<br>

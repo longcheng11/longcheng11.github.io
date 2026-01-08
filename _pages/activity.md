@@ -6,6 +6,8 @@ description: Long Cheng, activities
 ---
 
 #### **Organization**
+- Program Co-Chair of 11th IEEE Int. Conference on Computer and Communications, 2025.<br>
+- Tutorial Chair of 4th IEEE IESES, 2025.<br>
 - Program Co-Chair of 10th IEEE Int. Conference on Computer and Communications, 2024.<br>
 - Program Co-Chair of 9th IEEE Int. Conference on Computer and Communications, 2023.<br>
 - Co-organizer of International Workshop on Network-Aware Big Data Computing, 2020.<br>
@@ -29,7 +31,6 @@ description: Long Cheng, activities
 #### **Review Board**
 - Swiss National Science Foundation. <br>
 - IEEE Transactions on Parallel and Distributed Systems.
-
 
 #### **Technical Program Committee Member of Conferences**
 - The 13th IEEE International Conference on JointCloud Computing (JCC), 2022.<br>

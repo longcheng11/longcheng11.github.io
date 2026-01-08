@@ -6,29 +6,41 @@ description: Long Cheng, publications
 ---
 
 #### **2026**
-
-1. Jinlong Xie, Liping Zhang, Long Cheng, Jian Yao, Pengjiang Qian, Binrong Zhu, Guiran Liu. [MARNet: Multi-scale adaptive relational network for robust point cloud completion via cross-modal fusion](https://doi.org/10.1016/j.inffus.2025.103505), *Information Fusion*, 2026.
-2. Hang Fan, Mingxuan Li, Zuhan Zhang, Long Cheng, Yujian Ye, Weican Liu, Dunnan Liu. [M2WLLM: Multi-modal multi-task ultra-short-term wind power prediction algorithm based on large language model](https://doi.org/10.1016/j.inffus.2025.103541), *Information Fusion*, 2026. 
-
+1. Jiaxin Yan, Cong Liu, Qingtian Zeng, Jian Cao, Youxi Wu, Chun Ouyang, Long Cheng. [Enhancing Process Discovery by Optimizing Imprecise Subprocesses](). *IEEE Transactions on Services Computing*, 2026
+2. Na Guo, Cong Liu, Qingtian Zeng, Youxi Wu, Jinglin Zhang, Xixi Lu, Long Cheng.[Detecting Root Causes for Process Performance Anomalies Using Causal Inference](). *IEEE Transactions on Services Computing*, 2026
+4. Qi Liu, Xuemei Fu, Huang Zhang, Long Cheng, Jungong Han, Catarina Moreira, Xin Ning, Xiao Bai. [HybridEditDif: Text and Exemplar Guided Image Editing with Diffusion Models](https://doi.org/10.1016/j.patcog.2025.112510), *Pattern Recognition*, 2026
+5. Huiling Li,  Cong Liu, Qinjun Du, Qingtian Zeng, Haobing Liu, Qingle Wang, Long Cheng. [Optimizing resource allocation for wind turbine maintenance through process and fault data fusion](https://doi.org/10.1016/j.inffus.2025.103678), *Information Fusion*, 2026
+6. Jinlong Xie, Liping Zhang, Long Cheng, Jian Yao, Pengjiang Qian, Binrong Zhu, Guiran Liu. [MARNet: Multi-scale adaptive relational network for robust point cloud completion via cross-modal fusion](https://doi.org/10.1016/j.inffus.2025.103505), *Information Fusion*, 2026
+7. Hang Fan, Mingxuan Li, Zuhan Zhang, Long Cheng, Yujian Ye, Weican Liu, Dunnan Liu. [M2WLLM: Multi-modal multi-task ultra-short-term wind power prediction algorithm based on large language model](https://doi.org/10.1016/j.inffus.2025.103541), *Information Fusion*, 2026
+8. Yu Jin, Qingle Wang, Xinhao Li, Yue Li, Yuancheng Li, Kejia Zhang, Hao Liu, Long Cheng. [Quantum support vector machine for power quality analysis](https://doi.org/10.1016/B978-0-44-330259-6.00019-0), *Quantum Computational AI*, 2026 (Book Chapter)
+9. Yan Gu, Shuhong Dai, Cong Liu, Qingle Wang, Long Cheng. [Hybrid quantum-classical reinforcement learning for scheduling systems](https://doi.org/10.1016/B978-0-44-330259-6.00015-3), *Quantum Computational AI*, 2026 (Book Chapter)
+10. 房方, 吴兴堂, 程龙, 胡阳, 孙笠, 许昱涵, 张怡. [电力智算系统构建理论与关键技术](https://doi.org/10.1360/SST-2025-0152), *中国科学: 技术科学*, 2026.
 
 #### **2025**
-
-1. Lili Zhang, Haomiaomiao Wang, Long Cheng, Fang Fang. [Tighter regulation is needed for AI companions](https://doi.org/10.1038/d41586-025-01906-2), **Nature 642**, 572, 2025.
-2. 徐颖，王梦迪，程龙，刘炼，赵世新，张磊，王颖. [Pipe-RLHF: 计算模式感知的RLHF 并行加速框架](https://doi.org/10.7544/issn1000-1239.202550127), *计算机研究与发展*, 2025. （**CCF-A期刊封面文章**）
-3. Shuhong Dai, Nishant Saurabh, Qingle Wang, Jiawei Nian, Shuwen Kan, Ying Mao, Long Cheng. [Quantum reinforcement learning for QoS-aware real-time job scheduling in cloud systems](https://doi.org/10.1109/JSYST.2025.3568752), *IEEE Systems Journal*, 2025
-1. Cong Liu, Wenjuan Liu, Na Guo, Rongjia Song, Yan Gu, Long Cheng, Qingtian Zeng. [Comparative evaluation of encoding techniques for workflow process remaining time prediction for cloud applications](https://doi.org/10.1186/s13677-025-00763-8), *Journal of Cloud Computing*, 2025
-4. Baoyin Xiong, Lili Zhang, Yang Hu, Fang Fang, Qingzhi Liu, Long Cheng. [Deep reinforcement learning for optimal microgrid energy management with renewable energy and electric vehicle integration](https://doi.org/10.1016/j.asoc.2025.113180), *Applied Soft Computing*, 2025
-5. Guodong Li, Haiyan He, Yue Li, Xinhao Li, Hao Liu, Qingle Wang, Long Cheng. [A quantum neural network-based approach to power quality disturbances detection and recognition](https://doi.org/10.1088/1402-4896/adda9e), *Physica Scripta*, 2025.
-6. Long Cheng, Ying Mao, Ward Tomas. [Neural network models in autonomous robotics](https://doi.org/10.3389/fnbot.2025.1587137), *Frontiers in Neurorobotics*, 2025
-7. 刘文娟, 刘聪, 张在贵, 李彩虹, 程龙, 曾庆田. [对象为中心流程模型挖掘与正确性验证方法](https://doi.org/10.13196/j.cims.2024.BPM04), *计算机集成制造系统*, 2025.
-8. Jiawei Nian, Mengfei Yang, Xin Gao, Hongjin Liu, Fang Fang, Long Cheng, Xingtang Wu. [RPFF-PA : Reliable and parallel fault-tolerant framework for path latency reduction deployed in register arrays](https://doi.org/10.1145/3728471), *ACM Transactions on Embedded Computing Systems*, 2025
-9. Cong Liu, Huiling Li, Qingtian Zeng, Qi Mo, Mengchu Zhou, Long Cheng, Shangce Gao. [Behavior-Preserving Top-down Construction of Cross-organization Emergency Response Processes](), *IEEE/CAA Journal of Automatica Sinica*, 2025
-10. Haoyang He, Yan Gu, Yang Hu, Fang Fang, Xin Ning, Xiaomin Chen, Long Cheng. [Real-time workflow scheduling in hybrid clouds with privacy and security constraints: A deep reinforcement learning approach](https://doi.org/10.1016/j.eswa.2025.127376), *Expert Systems With Applications*, 2025
-11. Guodong Li, Fangce Yu, Qingle Wang, Lin Liu, Ying Mao, Long Cheng. [Quantum neural network classifier with differential privacy](https://doi.org/10.1088/1402-4896/adb228), *Physica Scripta*, 2025
-12. Hairui Xu, Ao Zhang, Qingle Wang, Yang Hu, Fang Fang, Long Cheng.  [Quantum reinforcement learning for real-time optimization in Electric Vehicle charging systems](https://doi.org/10.1016/j.apenergy.2025.125279), *Applied Energy*, 2025
-13. Lian Liu, Long Cheng, Haimeng Ren, Zhaohui Xu, Yudong Pan, Mengdi Wang, Xiaowei Li, Yinhe Han, Ying Wang. [COMET: Towards practical W4A4KV4 LLMs serving](https://doi.org/10.1145/3676641.3716252). *Proc. ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, Rotterdam, The Netherlands, April 2025
-14. Xuan Su, Cong Liu, Faming Lu, Long Cheng, Qingtian Zeng, Jiehan Zhou. [Enhancing Healthcare Process Model Discovery through Duplicate Task Identification](https://doi.org/), *Proc. IEEE International Conference on Web Services （ICWS）*, 2025.
-15. Xuan Su, Cong Liu, Faming Lu, Long Cheng, Qingtian Zeng, Shouli Zhang. [EdgeIM: An Efficient Edge-based Process Model Discovery Technique](https://doi.org/), *Proc. IEEE International Conference on Web Services （ICWS）*, 2025.
+1. Long Cheng, Nishant Saurabh, Ying Mao. [Quantum Computational AI](https://doi.org/10.1016/C2024-0-00074-4), Morgan Kaufmann, 2025 (**Edited Book**)
+2. Lili Zhang, Haomiaomiao Wang, Long Cheng, Fang Fang. [Tighter regulation is needed for AI companions](https://doi.org/10.1038/d41586-025-01906-2), **Nature 642**, 572, 2025
+3. 徐颖，王梦迪，程龙，刘炼，赵世新，张磊，王颖. [Pipe-RLHF: 计算模式感知的RLHF 并行加速框架](https://doi.org/10.7544/issn1000-1239.202550127), *计算机研究与发展*, 2025. （**CCF-A期刊封面文章**）
+4. Haoran Pei, Yan Gu, Yajuan Sun, Qingle Wang, Cong Liu, Xiaomin Chen, Long Cheng. [LLM-based cost-aware task scheduling for cloud computing systems](https://doi.org/10.1186/s13677-025-00822-0), *Journal of Cloud Computing*, 2025
+5. Xuan Su, Cong Liu, Qingtian Zeng, Jinglin Zhang, Long Cheng. [CrossEdgeIM: An Edge-based Approach for Interactive Robotic Behavior Model Discovery](https://doi.org/10.1109/MIOT.2025.3625047), *IEEE Internet of Things Magazine*, 2025
+6. Mengyao Wen, Xiufeng Liu, Xin Ning, Cong Liu, Xiaomin Chen, Jiawei Nian, Long Cheng. [Deep Reinforcement Learning for Energy-Efficient Workflow Scheduling in Edge Computing](https://doi.org/10.1016/j.comnet.2025.111790), *Computer Networks*, 2025
+7. Shuhong Dai, Nishant Saurabh, Qingle Wang, Jiawei Nian, Shuwen Kan, Ying Mao, Long Cheng. [Quantum reinforcement learning for QoS-aware real-time job scheduling in cloud systems](https://doi.org/10.1109/JSYST.2025.3568752), *IEEE Systems Journal*, 2025
+8. Ao Zhang, Cong Liu, Konstantinos Makantasis, Xiaomin Chen, Tomas Ward, Long Cheng. [DuMES: Deep reinforcement learning based EV charging scheduling with dual-layer safety modules](https://doi.org/10.1049/ses2.70017), *IET Smart Energy Systems*, 2025
+7. Cong Liu, Wenjuan Liu, Na Guo, Rongjia Song, Yan Gu, Long Cheng, Qingtian Zeng. [Comparative evaluation of encoding techniques for workflow process remaining time prediction for cloud applications](https://doi.org/10.1186/s13677-025-00763-8), *Journal of Cloud Computing*, 2025
+8. Xin Ning, Shanwei Gao, Jentang Liu, Long Cheng, Yugui Zhang. [Few-shot agricultural disease detection method using contextual attention generation](https://doi.org/10.1016/j.aej.2025.08.045), *Alexandria Engineering Journal*, 2025
+9.  Baoyin Xiong, Lili Zhang, Yang Hu, Fang Fang, Qingzhi Liu, Long Cheng. [Deep reinforcement learning for optimal microgrid energy management with renewable energy and electric vehicle integration](https://doi.org/10.1016/j.asoc.2025.113180), *Applied Soft Computing*, 2025
+10. Guodong Li, Haiyan He, Yue Li, Xinhao Li, Hao Liu, Qingle Wang, Long Cheng. [A quantum neural network-based approach to power quality disturbances detection and recognition](https://doi.org/10.1088/1402-4896/adda9e), *Physica Scripta*, 2025
+11. Huiling Li, Cong Liu, Qinjun Du, Qingtian Zeng, Jinglin Zhang, Georgios Theodoropoulo, Long Cheng. [Sampling-Based Next-Event Prediction for Wind-Turbine Maintenance Processes](https://doi.org/10.3390/en18164238), *Energies*, 2025
+12. Long Cheng, Ying Mao, Ward Tomas. [Neural network models in autonomous robotics](https://doi.org/10.3389/fnbot.2025.1587137), *Frontiers in Neurorobotics*, 2025
+13. 刘文娟, 刘聪, 张在贵, 李彩虹, 程龙, 曾庆田. [对象为中心流程模型挖掘与正确性验证方法](https://doi.org/10.13196/j.cims.2024.BPM04), *计算机集成制造系统*, 2025
+14. Jiawei Nian, Mengfei Yang, Xin Gao, Hongjin Liu, Fang Fang, Long Cheng, Xingtang Wu. [RPFF-PA : Reliable and parallel fault-tolerant framework for path latency reduction deployed in register arrays](https://doi.org/10.1145/3728471), *ACM Transactions on Embedded Computing Systems*, 2025
+15. Cong Liu, Huiling Li, Qingtian Zeng, Qi Mo, Mengchu Zhou, Long Cheng, Shangce Gao. [Behavior-Preserving Top-down Construction of Cross-organization Emergency Response Processes](https://doi.org/10.1109/JAS.2025.125537), *IEEE/CAA Journal of Automatica Sinica*, 2025
+16. Haoyang He, Yan Gu, Yang Hu, Fang Fang, Xin Ning, Xiaomin Chen, Long Cheng. [Real-time workflow scheduling in hybrid clouds with privacy and security constraints: A deep reinforcement learning approach](https://doi.org/10.1016/j.eswa.2025.127376), *Expert Systems With Applications*, 2025
+17. Guodong Li, Fangce Yu, Qingle Wang, Lin Liu, Ying Mao, Long Cheng. [Quantum neural network classifier with differential privacy](https://doi.org/10.1088/1402-4896/adb228), *Physica Scripta*, 2025
+18. Hairui Xu, Ao Zhang, Qingle Wang, Yang Hu, Fang Fang, Long Cheng.  [Quantum reinforcement learning for real-time optimization in Electric Vehicle charging systems](https://doi.org/10.1016/j.apenergy.2025.125279), *Applied Energy*, 2025
+19. Lian Liu, Long Cheng, Haimeng Ren, Zhaohui Xu, Yudong Pan, Mengdi Wang, Xiaowei Li, Yinhe Han, Ying Wang. [COMET: Towards practical W4A4KV4 LLMs serving](https://doi.org/10.1145/3676641.3716252). *Proc. ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, Rotterdam, The Netherlands, April 2025
+20. Xuan Su, Cong Liu, Faming Lu, Long Cheng, Qingtian Zeng, Jiehan Zhou. [Enhancing Healthcare Process Model Discovery through Duplicate Task Identification](https://doi.org/10.1109/ICWS67624.2025.00067), *Proc. IEEE International Conference on Web Services （ICWS）*, 2025
+21. Xuan Su, Cong Liu, Faming Lu, Long Cheng, Qingtian Zeng, Shouli Zhang. [EdgeIM: An Efficient Edge-based Process Model Discovery Technique](https://doi.org/10.1109/ICWS67624.2025.00057), *Proc. IEEE International Conference on Web Services （ICWS）*, 2025
+22. Jiaxin Yan, Cong Liu, Long Cheng, Jiujun Cheng, Weijian Ni, Qingtian Zeng. [Enhancing Manufacturing Process Discovery Through Sub-Process Optimization](https://doi.org/10.1109/ICWS67624.2025.00061), *Proc. IEEE International Conference on Web Services （ICWS）*, 2025
 
 ---
 

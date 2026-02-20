@@ -33,6 +33,7 @@ description: Long Cheng, activities
 - IEEE Transactions on Parallel and Distributed Systems.
 
 #### **Technical Program Committee Member of Conferences**
+- The 55th International Conference on Parallel Processing (ICPP), 2026.<br>
 - The 13th IEEE International Conference on JointCloud Computing (JCC), 2022.<br>
 - The 23rd IEEE International Conference on Cluster Computing (CLUSTER), 2021.<br>
 - The 26th IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2020.<br>

@@ -8,7 +8,7 @@ description: Long Cheng, chinese, 中文简介
 #### **个人简介**
 程龙，博士，现为华北电力大学控制与计算机工程学院教授、博士生导师，之前任爱尔兰都柏林城市大学助理教授。主要研究方向是分布式计算、深度强化学习、流程挖掘。曾在华为德国，IBM都柏林研究院工作过，并且在德国德累斯顿工业大学和荷兰埃因霍温理工大学从事过博士后研究, 于2018年获得欧盟资助个人科研最高奖项之一玛丽居里个人基金，并连续入选2023-2025年斯坦福全球前2%顶尖科学家榜单。
 
-程教授在并行分布式计算的权威期刊与会议比如TPDS、TC、TSC、HPCA、ASPLOS上发表150余篇文章，是IPDPS、ICPP、CCGrid和CLUSTER等知名国际会议的程序委员会成员。本科毕业于哈尔滨工业大学，先后于德国、爱尔兰获硕士与博士学位，博士后师从“流程挖掘之父”Wil van der Aalst院士。目前是IEEE高级会员，SCI期刊Journal of Cloud Computing副主编（Chair），IEEE TCE、FGCS、Information Fusion、ACM TAAS等权威期刊客座主编。
+程教授在并行分布式计算的权威期刊与会议比如TPDS、TC、TSC、HPCA、ASPLOS上发表150余篇文章，是IPDPS、ICPP、CCGrid和CLUSTER等知名国际会议的程序委员会成员。本科毕业于哈尔滨工业大学，先后于德国、爱尔兰获硕士与博士学位，博士后师从“流程挖掘之父”Wil van der Aalst院士。目前是IEEE高级会员，SCI期刊Journal of Cloud Computing专刊主编，IEEE TCE、FGCS、Information Fusion、ACM TAAS等权威期刊客座主编。
 
 
 #### **部分最新文章**

@@ -6,15 +6,17 @@ description: Long Cheng, publications
 ---
 
 #### **2026**
-1. Jiaxin Yan, Cong Liu, Qingtian Zeng, Jian Cao, Youxi Wu, Chun Ouyang, Long Cheng. [Enhancing Process Discovery by Optimizing Imprecise Subprocesses](). *IEEE Transactions on Services Computing*, 2026
-2. Na Guo, Cong Liu, Qingtian Zeng, Youxi Wu, Jinglin Zhang, Xixi Lu, Long Cheng.[Detecting Root Causes for Process Performance Anomalies Using Causal Inference](). *IEEE Transactions on Services Computing*, 2026
-4. Qi Liu, Xuemei Fu, Huang Zhang, Long Cheng, Jungong Han, Catarina Moreira, Xin Ning, Xiao Bai. [HybridEditDif: Text and Exemplar Guided Image Editing with Diffusion Models](https://doi.org/10.1016/j.patcog.2025.112510), *Pattern Recognition*, 2026
-5. Huiling Li,  Cong Liu, Qinjun Du, Qingtian Zeng, Haobing Liu, Qingle Wang, Long Cheng. [Optimizing resource allocation for wind turbine maintenance through process and fault data fusion](https://doi.org/10.1016/j.inffus.2025.103678), *Information Fusion*, 2026
-6. Jinlong Xie, Liping Zhang, Long Cheng, Jian Yao, Pengjiang Qian, Binrong Zhu, Guiran Liu. [MARNet: Multi-scale adaptive relational network for robust point cloud completion via cross-modal fusion](https://doi.org/10.1016/j.inffus.2025.103505), *Information Fusion*, 2026
-7. Hang Fan, Mingxuan Li, Zuhan Zhang, Long Cheng, Yujian Ye, Weican Liu, Dunnan Liu. [M2WLLM: Multi-modal multi-task ultra-short-term wind power prediction algorithm based on large language model](https://doi.org/10.1016/j.inffus.2025.103541), *Information Fusion*, 2026
-8. Yu Jin, Qingle Wang, Xinhao Li, Yue Li, Yuancheng Li, Kejia Zhang, Hao Liu, Long Cheng. [Quantum support vector machine for power quality analysis](https://doi.org/10.1016/B978-0-44-330259-6.00019-0), *Quantum Computational AI*, 2026 (Book Chapter)
-9. Yan Gu, Shuhong Dai, Cong Liu, Qingle Wang, Long Cheng. [Hybrid quantum-classical reinforcement learning for scheduling systems](https://doi.org/10.1016/B978-0-44-330259-6.00015-3), *Quantum Computational AI*, 2026 (Book Chapter)
-10. 房方, 吴兴堂, 程龙, 胡阳, 孙笠, 许昱涵, 张怡. [电力智算系统构建理论与关键技术](https://doi.org/10.1360/SST-2025-0152), *中国科学: 技术科学*, 2026.
+1. Jiazheng Zhang, Cheng Liu, Long Cheng, Xiaowei Li, Huawei Li. [Understanding and Mitigating Errors of LLM-Generated RTL Code](https://doi.org/10.1109/TCAD.2026.3661446). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2026
+2. Xuan Su, Cong Liu, Shuaipeng Zhang, Qingtian Zeng, Qi Mo, Long Cheng. [Towards Efficient Support for Business Process Event Log Sampling](https://doi.org/10.1109/TSC.2026.3665370). *IEEE Transactions on Services Computing*, 2026
+3. Jiaxin Yan, Cong Liu, Qingtian Zeng, Jian Cao, Youxi Wu, Chun Ouyang, Long Cheng. [Enhancing Process Discovery by Optimizing Imprecise Subprocesses](https://doi.org/10.1109/TSC.2026.3652280). *IEEE Transactions on Services Computing*, 2026
+4. Na Guo, Cong Liu, Qingtian Zeng, Youxi Wu, Jinglin Zhang, Xixi Lu, Long Cheng.[Detecting Root Causes for Process Performance Anomalies Using Causal Inference](https://doi.org/10.1109/TSC.2026.3652244). *IEEE Transactions on Services Computing*, 2026
+5. Qi Liu, Xuemei Fu, Huang Zhang, Long Cheng, Jungong Han, Catarina Moreira, Xin Ning, Xiao Bai. [HybridEditDif: Text and Exemplar Guided Image Editing with Diffusion Models](https://doi.org/10.1016/j.patcog.2025.112510), *Pattern Recognition*, 2026
+6. Huiling Li,  Cong Liu, Qinjun Du, Qingtian Zeng, Haobing Liu, Qingle Wang, Long Cheng. [Optimizing resource allocation for wind turbine maintenance through process and fault data fusion](https://doi.org/10.1016/j.inffus.2025.103678), *Information Fusion*, 2026
+7. Jinlong Xie, Liping Zhang, Long Cheng, Jian Yao, Pengjiang Qian, Binrong Zhu, Guiran Liu. [MARNet: Multi-scale adaptive relational network for robust point cloud completion via cross-modal fusion](https://doi.org/10.1016/j.inffus.2025.103505), *Information Fusion*, 2026
+8. Hang Fan, Mingxuan Li, Zuhan Zhang, Long Cheng, Yujian Ye, Weican Liu, Dunnan Liu. [M2WLLM: Multi-modal multi-task ultra-short-term wind power prediction algorithm based on large language model](https://doi.org/10.1016/j.inffus.2025.103541), *Information Fusion*, 2026
+9. Yu Jin, Qingle Wang, Xinhao Li, Yue Li, Yuancheng Li, Kejia Zhang, Hao Liu, Long Cheng. [Quantum support vector machine for power quality analysis](https://doi.org/10.1016/B978-0-44-330259-6.00019-0), *Quantum Computational AI*, 2026 (Book Chapter)
+10. Yan Gu, Shuhong Dai, Cong Liu, Qingle Wang, Long Cheng. [Hybrid quantum-classical reinforcement learning for scheduling systems](https://doi.org/10.1016/B978-0-44-330259-6.00015-3), *Quantum Computational AI*, 2026 (Book Chapter)
+11. 房方, 吴兴堂, 程龙, 胡阳, 孙笠, 许昱涵, 张怡. [电力智算系统构建理论与关键技术](https://doi.org/10.1360/SST-2025-0152), *中国科学: 技术科学*, 2026.
 
 #### **2025**
 1. Long Cheng, Nishant Saurabh, Ying Mao. [Quantum Computational AI](https://doi.org/10.1016/C2024-0-00074-4), Morgan Kaufmann, 2025 (**Edited Book**)

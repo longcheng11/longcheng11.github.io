@@ -6,6 +6,9 @@ description: Long Cheng, publications
 ---
 
 #### **2026**
+1. Mengyao Wen, Xin Ning, Mengyang Pu, Cong Liu, Qingle Wang, Xiaomin Chen, Long Cheng [Energy-efficient real-time workflow scheduling in edge–cloud environments based on multi-agent reinforcement learning](https://doi.org/10.1016/j.apenergy.2026.127866), *Applied Energy*, 2026
+1. Yan Gu, Hanlin Zhou, Cong Liu, Fang Fang, Zhiming Zhao, Georgios Theodoropoulos, Long Cheng [A Hierarchical GNN-based Multi-Agent Framework for Workflow Scheduling in Hybrid Clouds Considering Privacy Constraints](https://doi.org/10.1109/TSC.2026.3682644), *IEEE Transactions on Services Computing*, 2026
+1. Zhaoze Liu, Yajuan Sun, Cong Liu, Zhiming Zhao, Long Cheng. [Data-intensive task scheduling in geo-distributed cloud computing: a deep reinforcement learning approach](https://doi.org/10.1186/s13677-026-00894-6). *Journal of Cloud Computing*, 2026
 1. Jiaxin Yan, Cong Liu, Qingtian Zeng, Sibo Qiao, Lu Liu, Long Cheng. [Discovering Consumer Pathways through UWB-Based Spatiotemporal Analytics in Electronics Stores for Smart Cities](https://doi.org/10.1109/TCE.2026.3677677). *IEEE Transactions on Consumer Electronics*, 2026
 2. Long Cheng, Shan Zuo, Pedro Vergara, Tomas Ward, Xin Ning. [Data Fusion in Modern Energy Systems](https://doi.org/10.1016/j.inffus.2026.104266), *Information Fusion*, 2026
 3. Junfeng Gong, Long Cheng, Jiawei Nin, Cheng Liu, Huawei Li. [MCU-MixQ: A HW/SW Co-optimized Mixed-precision Neural Network Design Framework for MCUs](https://doi.org/10.1145/38035), *ACM Transactions on Embedded Computing Systems*, 2026

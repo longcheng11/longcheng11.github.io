@@ -12,6 +12,11 @@ abbr {
     cursor: help;
 }
 
+u {
+    text-decoration-style: dashed;
+    text-underline-offset: 3px;
+}
+
 p {
     color:$text-color;
     line-height: 1.5;

@@ -7,7 +7,7 @@ description: Long Cheng, chinese, 中文简介
 
 #### **个人简介**
 
-程龙，华北电力大学控制与计算机工程学院教授、博士生导师，新能源电力系统全国重点实验室固定研究人员。2007年本科毕业于哈尔滨工业大学，随后在德国和爱尔兰分别获得硕士与博士学位；曾在“流程挖掘之父”Wil van der Aalst 教授指导下开展博士后研究，之后任欧盟玛丽·居里学者、爱尔兰都柏林城市大学助理教授。现牵头[阿尔斯特能源流程智能实验室](https://energy-pi.com)，聚焦流程智能与能源系统交叉研究，主要从事流程智能、智能能源系统、深度强化学习与大模型等方向的研究，并参与学校数字化与智能化建设相关工作。
+程龙，华北电力大学控制与计算机工程学院教授、博士生导师，新能源电力系统全国重点实验室固定研究人员。2007年本科毕业于哈尔滨工业大学，随后在德国和爱尔兰分别获得硕士与博士学位；曾在“流程挖掘之父”Wil van der Aalst 教授指导下开展博士后研究，之后任欧盟玛丽·居里学者、爱尔兰都柏林城市大学助理教授。现牵头[阿尔斯特能源流程智能实验室](https://energy-pi.com)，聚焦流程智能与能源系统交叉研究，主要从事流程智能、智能能源系统、深度强化学习与大模型等方向工作。
 
 程教授目前已在国内外权威期刊和会议发表论文150余篇，其中8篇入选ESI全球高被引论文，出版英文编著1部，获3次国内外会议最佳论文奖，并有论文获计算机领域顶级期刊封面推荐；连续3年入选斯坦福大学全球前2%科学家榜单。主持或参与国家自然科学基金、国家重点研发计划、国家电网、中国中车等科研项目10余项，相关成果获山东省科技进步二等奖、科技部感谢信等。现为英国计算机学会会士(FBCS)、IEEE高级会员，并担任《Journal of Cloud Computing》专刊主编，以及多个ACM、IEEE和人工智能领域国际期刊的编委或客座主编。
 
@@ -33,10 +33,6 @@ description: Long Cheng, chinese, 中文简介
 1. L. Liu, **L. Cheng**, H. Ren, Z. Xu, Y. Pan, M. Wang, X. Li, Y. Han, Y. Wang. [COMET: Towards practical W4A4KV4 LLMs serving](https://doi.org/10.1145/3676641.3716252). *Proc. ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, 2025 (计算机体系结构CCF-A，同期英国仅3篇接收文章)
 
 1. **L. Cheng**, H. He, Y. Gu, Q. Liu, Z. Zhao, F. Fang. [MARS: Multi-Agent Deep Reinforcement Learning for Real-Time Workflow Scheduling in Hybrid Clouds with Privacy Protection](https://doi.org/10.1109/ICPADS63350.2024.00091). *Proc. 30th IEEE International Conference on Parallel and Distributed Systems (ICPADS)*, 2024 (会议唯一最佳论文奖)
-
-1. Q. Chen, F. He, G. Wang, X. Bai, **L. Cheng**, X. Ning. [Dual Guidance Enabled Fuzzy Inference for Enhanced Fine-Grained Recognition](https://doi.org/10.1109/TFUZZ.2024.3427654), *IEEE Transactions on Fuzzy Systems*, 2024 
-
-1. Q. Liu, Y. Huang, C. Jin, X. Zhou, Y. Mao, C. Catal, **L. Cheng**. [Privacy and Integrity Protection for IoT Multimodal Data using Machine Learning and Blockchain](https://doi.org/10.1145/3638769), *ACM Transactions on Multimedia Computing, Communications, and Applications*, 2024 
 
 
 #### **部分主持项目**

@@ -6,12 +6,24 @@ description: Long Cheng, chinese, 中文简介
 ---
 
 #### **个人简介**
-程龙，博士，现为华北电力大学控制与计算机工程学院教授、博士生导师，之前任爱尔兰都柏林城市大学助理教授。主要研究方向是分布式计算、深度强化学习、流程挖掘。曾在华为德国，IBM都柏林研究院工作过，并且在德国德累斯顿工业大学和荷兰埃因霍温理工大学从事过博士后研究, 于2018年获得欧盟资助个人科研最高奖项之一玛丽居里个人基金，并连续入选2023-2025年斯坦福全球前2%顶尖科学家榜单。
 
-程教授在并行分布式计算的权威期刊与会议比如TPDS、TC、TSC、HPCA、ASPLOS上发表150余篇文章，是IPDPS、ICPP、CCGrid和CLUSTER等知名国际会议的程序委员会成员。本科毕业于哈尔滨工业大学，先后于德国、爱尔兰获硕士与博士学位，博士后师从“流程挖掘之父”Wil van der Aalst院士。目前是IEEE高级会员，SCI期刊Journal of Cloud Computing专刊主编，IEEE TCE、FGCS、Information Fusion、ACM TAAS等权威期刊客座主编。
+程龙，华北电力大学控制与计算机工程学院教授、博士生导师，新能源电力系统全国重点实验室固定研究人员。2007年本科毕业于哈尔滨工业大学，随后在德国和爱尔兰分别获得硕士与博士学位；曾在“流程挖掘之父”Wil van der Aalst 教授指导下开展博士后研究，之后任欧盟玛丽·居里学者、爱尔兰都柏林城市大学助理教授。现牵头[阿尔斯特能源流程智能实验室](https://energy-pi.com)，聚焦流程智能与能源系统交叉研究，主要从事流程智能、智能能源系统、深度强化学习与大模型等方向的研究，并参与学校数字化与智能化建设相关工作。
+
+程教授目前已在国内外权威期刊和会议发表论文150余篇，其中8篇入选ESI全球高被引论文，出版英文编著1部，获3次国内外会议最佳论文奖，并有论文获计算机领域顶级期刊封面推荐；连续3年入选斯坦福大学全球前2%科学家榜单。主持或参与国家自然科学基金、国家重点研发计划、国家电网、中国中车等科研项目10余项，相关成果获山东省科技进步二等奖、科技部感谢信等。现为英国计算机学会会士(FBCS)、IEEE高级会员，并担任《Journal of Cloud Computing》专刊主编，以及多个ACM、IEEE和人工智能领域国际期刊的编委或客座主编。
 
 
 #### **部分最新文章**
+
+1. H. Zhou, H. Yan, J. Nian, C. Liu, Y. Wang, X. Chen, G. Theodoropoulos, **L. Cheng**. [Prototype Retrieval-Augmented Federated Learning System for Robust Intrusion Detection](https://doi.org/10.1109/TC.2026.3688741), *IEEE Transactions on Computers*, 2026
+
+1. Y. Gu, H. Zhou, C. Liu, F. Fang, Z. Zhao, G. Theodoropoulos, **L. Cheng**. [A Hierarchical GNN-based Multi-Agent Framework for Workflow Scheduling in Hybrid Clouds Considering Privacy Constraints](https://doi.org/10.1109/TSC.2026.3682644), *IEEE Transactions on Services Computing*, 2026
+
+1. X. Su, C. Liu, S. Zhang, Q. Zeng, Q. Mo, **L. Cheng**. [Towards Efficient Support for Business Process Event Log Sampling](https://doi.org/10.1109/TSC.2026.3665370), *IEEE Transactions on Services Computing*, 2026
+
+1. J. Yan, C. Liu, Q. Zeng, J. Cao, Y. Wu, C. Ouyang, **L. Cheng**. [Enhancing Process Discovery by Optimizing Imprecise Subprocesses](https://doi.org/10.1109/TSC.2026.3652280), *IEEE Transactions on Services Computing*, 2026
+
+1. N. Guo, C. Liu, Q. Zeng, Y. Wu, J. Zhang, X. Lu, **L. Cheng**. [Detecting Root Causes for Process Performance Anomalies Using Causal Inference](https://doi.org/10.1109/TSC.2026.3652244), *IEEE Transactions on Services Computing*, 2026
+
 1. **L. Cheng**, N. Saurabh, Y. Mao. [Quantum Computational AI](https://doi.org/10.1016/C2024-0-00074-4), Morgan Kaufmann, 2025 (**编著**)
 
 1. L. Zhang, H. Wang, **L. Cheng**, F. Fang. [Tighter regulation is needed for AI companions](https://doi.org/10.1038/d41586-025-01906-2), **Nature 642**, 2025.
@@ -26,22 +38,6 @@ description: Long Cheng, chinese, 中文简介
 
 1. Q. Liu, Y. Huang, C. Jin, X. Zhou, Y. Mao, C. Catal, **L. Cheng**. [Privacy and Integrity Protection for IoT Multimodal Data using Machine Learning and Blockchain](https://doi.org/10.1145/3638769), *ACM Transactions on Multimedia Computing, Communications, and Applications*, 2024 
 
-2. C. Liu, Y. Wang, L. Wen, J. Cheng, **L. Cheng**, Q. Zeng. [Discovering Hierarchical Multi-instance Business Processes from Event Logs](), *IEEE Transactions on Services Computing*, 2023
-
-3. **L. Cheng**, Yue Wang, F. Cheng, C. Liu, Z. Zhao, Ying Wang. [A Deep Reinforcement Learning-based Preemptive Approach for Cost-aware Cloud Job Scheduling](https://doi.org/10.1109/TSUSC.2023.3303898), *IEEE Transactions on Sustainable Computing*, 2023 
-
-4. **L. Cheng**, Y. Wang, R. Jhaveri, Q. Wang, Y. Mao. [Towards Network-aware Query Execution Systems in Large Datacenters](https://doi.org/10.1109/TNSM.2023.3273166), *IEEE Transactions on Network and Service Management*, 2023
-
-5. H. Huang, X. Xue, C. Liu, Y. Wang, T. Luo, **L. Cheng**, H. Li, X. Li. [Statistical Modeling of Soft Error Influence on Neural Networks](https://doi.org/10.1109/TCAD.2023.3266405). *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2023 
-
-6. Y. Xu, **L. Cheng**, X. Cai, X. Ma, W. Chen, L. Zhang. Y. Wang. [Efficient Supernet Training Using Path Parallelism](https://doi.org/10.1109/HPCA56546.2023.10071099). *Proc. 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA 2023)*, Montreal, Canada, 2023  
-
-7. Y. Mao, V. Sharma, W. Zheng, **L. Cheng**, Q. Guan, A. Li. [Elastic Resource Management for Deep Learning Applications in a Container Cluster](https://doi.org/10.1109/TCC.2022.3194128). *IEEE Transactions on Cloud Computing*, 2022
-
-8.  Y. Mao, W. Yan, Y. Song, Y. Zeng, M. Chen, **L. Cheng**, Q. Liu. [Differentiate Quality of Experience Scheduling for Deep Learning Inferences with Docker Containers in the Cloud](https://doi.org/10.1109/TCC.2022.3154117). *IEEE Transactions on Cloud Computing*, 2022
-
-9.  Q. Liu, T. Xia, **L. Cheng**, M. Eijk, T. Ozcelebi, Y. Mao. [Deep Reinforcement Learning for Load-Balancing Aware Network Control in IoT Edge Systems](https://doi.org/10.1109/TPDS.2021.3116863).  *IEEE Transactions on Parallel and Distributed Systems*, 2022
-
 
 #### **部分主持项目**
 1. 中车工业研究院项目：行车状态多参数自适应控制仿真测试与验证。2023，30万元，项目负责人。
@@ -54,7 +50,7 @@ description: Long Cheng, chinese, 中文简介
 
 
 #### **外校主要合作者**
-- [Wil van der Aalst](https://www.padsweb.rwth-aachen.de/wvdaalst/) (德国亚琛工业大学教授、欧洲科学院院士、流程挖掘创始人)
+- [Wil van der Aalst](https://www.padsweb.rwth-aachen.de/wvdaalst/) (德国亚琛工业大学教授、流程挖掘之父)
 - [Schahram Dustdar](https://dsg.tuwien.ac.at/team/sd/) (维也纳工业大学教授、欧洲科学院院士)
 - [Dick Epema](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/dick-epema/?no_cache=1) (荷兰代尔夫特理工大学教授)
 - [Markus Kr&ouml;tzsch](https://iccl.inf.tu-dresden.de/web/Markus_Kr%C3%B6tzsch) (德国德累斯顿工业大学教授)

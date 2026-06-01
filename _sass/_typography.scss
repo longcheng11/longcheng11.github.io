@@ -13,8 +13,9 @@ abbr {
 }
 
 u {
-    text-decoration-style: dashed;
-    text-underline-offset: 3px;
+    border-bottom: 1px dashed currentColor;
+    padding-bottom: 1px;
+    text-decoration: none;
 }
 
 p {

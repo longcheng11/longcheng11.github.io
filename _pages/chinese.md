@@ -22,6 +22,8 @@ description: Long Cheng, chinese, 中文简介
 
 #### **部分最新文章**
 
+1. S. Zhao, L. Liu, X. An, Y. Zhou, Y. He, **L. Cheng**, M. Wang, X. Li, Y. Han, Y. Wang. [HydraPIM: A Heterogeneous PIM Architecture for Efficient Attention in Long-Context LLMs](https://doi.org/10.1109/TC.2026.3710733), *IEEE Transactions on Computers*, 2026
+
 1. H. Zhou, H. Yan, J. Nian, C. Liu, Y. Wang, X. Chen, G. Theodoropoulos, **L. Cheng**. [Prototype Retrieval-Augmented Federated Learning System for Robust Intrusion Detection](https://doi.org/10.1109/TC.2026.3688741), *IEEE Transactions on Computers*, 2026
 
 1. Y. Gu, H. Zhou, C. Liu, F. Fang, Z. Zhao, G. Theodoropoulos, **L. Cheng**. [A Hierarchical GNN-based Multi-Agent Framework for Workflow Scheduling in Hybrid Clouds Considering Privacy Constraints](https://doi.org/10.1109/TSC.2026.3682644), *IEEE Transactions on Services Computing*, 2026
@@ -38,9 +40,7 @@ description: Long Cheng, chinese, 中文简介
 
 1. 徐颖，王梦迪，**程龙**，刘炼，赵世新，张磊，王颖. [Pipe-RLHF: 计算模式感知的RLHF 并行加速框架](https://doi.org/10.7544/issn1000-1239.202550127), *计算机研究与发展*, 2025（CCF-A，**期刊封面文章**）
 
-1. L. Liu, **L. Cheng**, H. Ren, Z. Xu, Y. Pan, M. Wang, X. Li, Y. Han, Y. Wang. [COMET: Towards practical W4A4KV4 LLMs serving](https://doi.org/10.1145/3676641.3716252). *Proc. ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, 2025 (计算机体系结构CCF-A，同期英国仅3篇接收文章)
-
-1. **L. Cheng**, H. He, Y. Gu, Q. Liu, Z. Zhao, F. Fang. [MARS: Multi-Agent Deep Reinforcement Learning for Real-Time Workflow Scheduling in Hybrid Clouds with Privacy Protection](https://doi.org/10.1109/ICPADS63350.2024.00091). *Proc. 30th IEEE International Conference on Parallel and Distributed Systems (ICPADS)*, 2024 (会议唯一最佳论文奖)
+1. L. Liu, **L. Cheng**, H. Ren, Z. Xu, Y. Pan, M. Wang, X. Li, Y. Han, Y. Wang. [COMET: Towards practical W4A4KV4 LLMs serving](https://doi.org/10.1145/3676641.3716252). *Proc. ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, 2025
 
 
 #### **外校主要合作者**

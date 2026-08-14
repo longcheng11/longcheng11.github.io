@@ -6,6 +6,8 @@ description: Long Cheng, publications
 ---
 
 #### **2026**
+1. Shixin Zhao, Lian Liu, Xiangwen An, Yutian Zhou, Yintao He, Long Cheng, Mengdi Wang, Xiaowei Li, Yinhe Han, Ying Wang. [HydraPIM: A Heterogeneous PIM Architecture for Efficient Attention in Long-Context LLMs](https://doi.org/10.1109/TC.2026.3710733), *IEEE Transactions on Computers*, 2026
+1. Shuhong Dai, Xingtang Wu, Jiawei Nian, Cong Liu, Fang Fang, Konstantinos Makantasis, Georgios Theodoropoulos, Long Cheng. [LLM-assisted Multi-agent Reinforcement Learning for Low-carbon Intelligent Transportation Systems](https://doi.org/10.1109/TITS.2026.3722863), *IEEE Transactions on Intelligent Transportation Systems*, 2026
 1. Yan Gu, Huiru Yan, Qingle Wang, Cong Liu, Cheng Liu, Long Cheng. [Quantum Reinforcement Learning for Dynamic Multi-Objective Energy Management in Community Microgrids](https://doi.org/10.1016/j.enbuild.2026.117645), *Energy and Buildings*, 2026
 1. Hanlin Zhou, Huiru Yan, Jiawei Nian, Cong Liu, Ying Wang, Xiaomin Chen, Georgios Theodoropoulos, Long Cheng. [Prototype Retrieval-Augmented Federated Learning System for Robust Intrusion Detection](https://doi.org/10.1109/TC.2026.3688741), *IEEE Transactions on Computers*, 2026
 1. Mengyao Wen, Xin Ning, Mengyang Pu, Cong Liu, Qingle Wang, Xiaomin Chen, Long Cheng. [Energy-efficient real-time workflow scheduling in edge–cloud environments based on multi-agent reinforcement learning](https://doi.org/10.1016/j.apenergy.2026.127866), *Applied Energy*, 2026
